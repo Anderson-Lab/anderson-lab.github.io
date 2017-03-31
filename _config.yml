@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Paul Anderson"
 description              : &description "A data science lab focused on machine learning, big data, and interesting data-driven problems."
 url                      : https://anderson-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/lab" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : 
 facebook:
-  username               : &facebook "michaelrose"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -67,8 +67,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+    - "https://twitter.com/dataatcofc"
+    - "https://compsci.cofc.edu"
+    - "https://data.cofc.edu"
 
 # Analytics
 analytics:
@@ -80,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  avatar           : "Paul-labs-logo.png"
+  bio              : "Associate Professor, Data Science Director."
+  location         : "Charleston, SC"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
