@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'Anderson Data Science Research Lab'
+excerpt: 'We apply and develops algorithms in data mining, machine learning, and artificial intelligence to the fields of big data, knowledge discovery, bioinformatics, genomics, and metabolomics. We develop algorithms and software to tackle some of the most challenging and interesting data intensive problems in the life sciences. Our research interests include data science, big data, pattern analysis in high-dimensionality data sets, evolutionary computation and optimization, machine learning, computational genomics, cloud computing, computational metabolomics, and eScience. We currently have multidisciplinary projects underway in metabolomics, human cognition, toxicology, marine biology, medical genomics, biomedical informatics, and marine genomics.'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
