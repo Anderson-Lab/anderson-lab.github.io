@@ -15,7 +15,7 @@ feature_row:
     excerpt: "Our major research projects."
     url: "/research/"
     btn_label: "Learn More"
-  - image_path: mm-responsive-feature.png
+  - image_path: mm-free-feature.png
     alt: "teaching_mentoring"
     title: "Teaching & Mentoring"
     excerpt: "Teaching, mentoring, research experiences, and philosophy."
