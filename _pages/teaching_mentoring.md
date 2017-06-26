@@ -23,5 +23,5 @@ In my experience, here are some keys to successful student research and mentorin
 
 ## Courses Taught
 
-Summer 2017<p>
+### Summer 2017
 <a href="/csis_604_summer_2017/">CSCI 604 - Distributed Computing</a>
