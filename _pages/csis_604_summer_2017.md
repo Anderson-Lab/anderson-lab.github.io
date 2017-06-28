@@ -9,6 +9,7 @@ excerpt: "Anderson Data Science Research Lab."
 ## Important Links
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [Ubuntu Server](http://www.ubuntu.com/download/server)
+* [Glip](http://glip.com)
 
 # Syllabus
 ## Official Course Description
@@ -64,11 +65,11 @@ There are no exams for this course. There will be practical programming and tech
 
 ### Theory
 
-Each week you will be given a paper to read and create a voice over powerpoint that presents the paper. I will be making these powerpoints available to the entire class (without your grades of course). 
+Since this is summer and the schedule is very tight, you will be given a new paper to read and summarize every other day. Handed out Monday, Wednesday, and Friday report due Wednesday, Friday, and Monday, respectively. Each report will be in the form of a voice over powerpoint that presents the paper. 
 
 ### Lectures
 
-An overview of the goals for the week will be posted online. The assignments themselves will provide inline notes and discussions.
+An overview of the goals for the week will be posted online (Glip). The assignments themselves will provide inline notes and discussions.
 
 ### Honor Code
 
