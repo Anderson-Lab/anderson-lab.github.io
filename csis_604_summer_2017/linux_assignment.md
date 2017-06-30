@@ -1,5 +1,5 @@
 ---
-permalink: /csis_604_summer_2017_test/
+permalink: /csis_604_summer_2017/linux_assignment/
 title: "Distributed Computing"
 excerpt: "Anderson Data Science Research Lab."
 ---
