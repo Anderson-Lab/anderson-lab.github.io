@@ -26,9 +26,9 @@ There is no requied textbook for this course, but there will be a lot of require
 ### Contact Information
 * Professor: Dr. Paul Anderson
 * Office: 313 HWEA
-* Office Hours: My preferred method of e-contact is the Facebook group as I can respond to questions there quickly and for everyone to benefit. If you would like to use e-mail I will endeavor to respond within 24 hours.
+* Office Hours: My preferred method of e-contact is the Glip group as I can respond to questions there quickly and for everyone to benefit. If you would like to use e-mail I will endeavor to respond within 24 hours.
 * E-mail: andersonpe2@cofc.edu
-* Office Phone: 843-953-8151
+* Office Phone: 843-953-8151 (I never pick this up, but it does exist :)
 
 ### Course (learning) outcomes
 1. Learn and apply the theory of distributed systems, including architectures, processes, communication, synchronization, consistency and replication, distributed file systems, big data processing systems, distributed object-based systems, web-based systems, and coordination-based systems.
@@ -40,10 +40,12 @@ There is no requied textbook for this course, but there will be a lot of require
 4. Learn how to install and manage software and technology related to distributed systems.
 
 ### Expectations
-This is a graduate level course, and a course that requires both theory and practice. From a practice perspective, technology changes. If our goal was only to teach you the latest technology, we would give you a recipe to follow and you would follow it and gain experience with the technology. But neither leads to a deep understanding nor does it extrapolate to new technology. To learn the practice in a deep way, we need to create an environment where students can find their own questions and their own answers. To do this, we need an environment that celebrates some uncertainty and discomfort. Now is a good time to think get to the point. The point is I am going to purposefully give you assignments with plenty of possibilities for road bumps and more importantly for everyone to figure out how to navigate a complicated tech scene. On the theory side, we are going to read papers, explore state-of-the-art ideas, etc. These will require you to dig a little bit for the necessary background as these papers build upon a lot of previous work. 
+This is a graduate level course, and a course that requires both theory and practice. From a practice perspective, technology changes. If our goal was only to teach you the latest technology, we would give you a recipe to follow and you would follow it and gain experience with the technology. But neither leads to a deep understanding nor does it extrapolate to new technology. To learn the practice in a deep way, we need to create an environment where students can develop their own questions and their own answers. To do this, we need an environment that celebrates some uncertainty and discomfort. Now is a good time to think "get to the point". The point is I am going to purposefully give you assignments with plenty of possibilities for road bumps and more importantly chances for everyone to figure out how to navigate a complicated tech scene. On the theory side, we are going to read papers, explore state-of-the-art ideas, and critique them. These will require you to dig a little bit for the necessary background as these papers build upon a lot of previous work. 
+
+This being an online accelerated class, I expect you to check the Glip group and your CofC e-mail daily. Failure to do so in this quick moving class will have a negative effect on how you perform on the assignments and write-ups. No late work will be acceptted.
 
 ### Grading Policy
-* Programming Assignments - 50%
+* Programming and Technology Assignments - 50%
 * Literature Write-ups - 50%
 
 Grading Scale: A: 90-100; B: 80-89; C: 70-79; F: <70. Plusses will be used at the discretion of the instructor.
@@ -61,15 +63,18 @@ Feedback will be given as quickly as possible with a goal of within a week of th
 
 ### Course Structure and Philosophy
 
-There are no exams for this course. There will be practical programming and technology related projects. There will also be weekly reports due exploring the theory through state-of-the-art literature.
+There are no exams for this course. There will be practical programming and technology related projects. There will also be regular reports due exploring the theory through state-of-the-art literature.
 
 ### Theory
 
-Since this is summer and the schedule is very tight, you will be given a new paper to read and summarize every other day. Handed out Monday, Wednesday, and Friday report due Wednesday, Friday, and Monday, respectively. Each report will be in the form of a voice over powerpoint that presents the paper. 
+Since this is summer and the schedule is very tight, you will be given a new paper to read and summarize every other day. Papers will be available and distributed via OAKS on Monday, Wednesday, and Friday with reports due Wednesday, Friday, and Monday, respectively. Each report will be approximately 1 page long without figures (single spaced, yada yada, i.e., don't cut corners). Figures are allowed though and encouraged. In other words, I expect most reports will be closer to 2 pages long once you count figures and tables. If you reference specific results from the paper, you must copy and include the figure or table. You cannot quote the paper directly. Here is what you must do and you will get a grade for each component (A, B, C, or F):
+1. Summarize the related literature
+2. Summarize the papers contribution and claims, and their conclusions.
+3. Critique the paper. Are there any deficiencys or issues? Is there a piece that was really well done. And of course, you must back this up with a reasoned argument. I do NOT want you to critique the writing or the presentation of the paper. That is another course. We are purely focused on the substance and content.
 
 ### Lectures
 
-An overview of the goals for the week will be posted online (Glip). The assignments themselves will provide inline notes and discussions.
+An overview of the goals for the week will be posted online (Glip). The assignments themselves will provide inline notes and discussions. There will be no scheduled lecture time, and the course will be conducted entirely in an asynchronous fashion. Glip is going to be our friend.
 
 ### Honor Code
 
@@ -83,5 +88,5 @@ No late days will be allowed without an excuse. Falling behind on assignments wi
 
 ### Late Policy
 
-No late days will be allowed without a documented excuse.
+No late days will be allowed.
 

@@ -12,6 +12,8 @@ This is not a course about the linux command line, but we will need enough knowl
 <a href="https://www.learnenough.com/command-line-tutorial">https://www.learnenough.com/command-line-tutorial</a>
 
 ## Questions
+All of the questions below are pulled verbatum from the link above and full attribution, copyright, and credit is given to the original authors. I only paste them here, so you can easily access them in one place. 
+
 ### Chapter 1
 1. By referring to Figure 5, identify the prompt, command, options, arguments, and cursor in each line of Figure 6.
 
