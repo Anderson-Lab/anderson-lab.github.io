@@ -15,7 +15,7 @@ This is not a course about the linux command line, but we will need enough knowl
 ### Chapter 1
 1. By referring to Figure 5, identify the prompt, command, options, arguments, and cursor in each line of Figure 6.
 
-2 Most modern terminal programs have the ability to create multiple tabs (Figure 7), which are useful for organizing a set of related terminal windows. By examining the menu items for your terminal program (Figure 8), figure out how to create a new tab. Extra credit: Learn the keyboard shortcut for creating a new tab. (Learning keyboard shortcuts for your system is an excellent habit to cultivate.)
+2. Most modern terminal programs have the ability to create multiple tabs (Figure 7), which are useful for organizing a set of related terminal windows. By examining the menu items for your terminal program (Figure 8), figure out how to create a new tab. Extra credit: Learn the keyboard shortcut for creating a new tab. (Learning keyboard shortcuts for your system is an excellent habit to cultivate.)
 
 ### Chapter 2
 1. By copying and pasting the text from the HTML version of Figure 17, use echo to make a file called sonnet_1_complete.txt containing the full (original) text of Shakespeare’s first sonnet. Hint: You may recall getting stuck when echo was followed by an unmatched double quote (Section 1.2 and Box 4), as in echo ", but in fact this construction allows you to print out a multi-line block of text. Just remember to put a closing quote at the end, and then redirect to a file with the appropriate name. Check that the contents are correct using cat (Figure 14).
