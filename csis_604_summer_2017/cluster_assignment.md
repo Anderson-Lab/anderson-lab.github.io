@@ -10,18 +10,18 @@ excerpt: "Anderson Data Science Research Lab."
 
 Before we can do anything in this course, we all need a distributed environment that is uniform. Now we could just require everyone to sign on to Amazon or Google Cloud and spin up a few machines, but this isn't about learning those technologies, which would just take a couple of seconds. It's about understanding what goes in to setting up a virtual environment. Another little technical consideration is whether to download the 32bit or 64bit ISO. If this were for a real application, we'd go with 64bit, but my VirtualBox install doesn't like 64bit VMs which is probably some hardware/bios related issue on my laptop. Not really important to figure out for our purposes.
 
-To start you need to download the latest version of VirtualBox for your platform (). Then you need to download the Ubuntu server iso (). It's important to download the sever ISO as we will not be using the graphical interface. A very small number of you might have to reboot into the bios and enable virtualization technology (). Please please please install Ubuntu only in VirtualBox only unless you know what you are doing as I don't want you to mess with your machine. Here are the specs I used for my first virtual machine:
+To start you need to download the latest version of VirtualBox for your platform (https://www.virtualbox.org/wiki/Downloads). Then you need to download the Ubuntu server iso (http://mirror.pnl.gov/releases/16.04/ubuntu-16.04.2-server-i386.iso). It's important to download the sever ISO as we will not be using the graphical interface. A very small number of you might have to reboot into the bios and enable virtualization technology (). Please please please install Ubuntu only in VirtualBox only unless you know what you are doing as I don't want you to mess with your machine. Here are the specs I used for my first virtual machine:
 
-Name: master
-CPU: 1
-RAM: 1G
-Hard Drive Dynamically sized 20G
+Name: master<br>
+CPU: 1<br>
+RAM: 1G<br>
+Hard Drive Dynamically sized 20G<br>
 Hostname: master
 
 I think mounted the iso image in the CD drive under Storage. Once that is done, you are ready to install. I kept all of the defaults for the setup, and I just made a user called <i>lab</i> with a password of <i>password</i>. Basically, I just hit enter a bunch of times during the install. I did change the hostname from <i>ubuntu</i> to <i>master</i>. Other than that I kept the defaults. You do need to hit the arrow key to write the partition changes to the disk, so I couldn't just hit enter there. This occured twice during the install.
 
 ### Basic software that will be common to all machines
-One of the first thinks we should configure is an ssh server. On your master VM login and type sudo apt-get install openssh-server. This will install a SSH server that runs on port 22. Here is a great link that you can follow to set up port forwarding (<a href="https://nsrc.org/workshops/2014/btnog/raw-attachment/wiki/Track2Agenda/ex-virtualbox-portforward-ssh.htm">link</a>. The client at the end is a program called Putty. A nice little program if you are a Windows user, but I prefer a program called MobaXterm, which is also free to download as the client. Up to you. If you are a Mac user, you already have ssh client in your terminal, so no need for Putty.
+One of the first thinks we should configure is an ssh server. On your master VM login and type sudo apt-get install openssh-server. This will install a SSH server that runs on port 22. Here is a great link that you can follow to set up port forwarding (<a href="https://nsrc.org/workshops/2014/btnog/raw-attachment/wiki/Track2Agenda/ex-virtualbox-portforward-ssh.htm">link</a>). The client at the end is a program called Putty. A nice little program if you are a Windows user, but I prefer a program called MobaXterm, which is also free to download as the client. Up to you. If you are a Mac user, you already have ssh client in your terminal, so no need for Putty.
 
 ## Cloning
 At this point, it is probably good to clone the master VM twice to create server1 and server2. This can be done by shutting down and right clicking on the VM. It's a good idea to check the reinitialize MAC Address option. Full clone is also probably good though it does take up more space. At this point, I think we should just leave the server1 and server2 VM off, and we'll finish with master.
@@ -56,10 +56,7 @@ iface enp0s8 inet static
         netmask 255.255.255.0
         broadcast 192.168.0.255</pre>
 
-I then need to save this file and type sudo ifup enp0s8. If all is right it shouldn't give you any errors. Then we need to enable forwarding by editing /etc/sysctl.conf and uncomment:
-
-# net.ipv4.ip_forward=1
-so that it reads:
+I then need to save this file and type sudo ifup enp0s8. If all is right it shouldn't give you any errors. Then we need to enable forwarding by editing /etc/sysctl.conf and uncomment the line so that it reads:
 
 net.ipv4.ip_forward=1
 
