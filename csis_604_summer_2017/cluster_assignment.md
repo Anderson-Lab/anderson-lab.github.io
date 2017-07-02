@@ -134,5 +134,32 @@ ssh-copy-id master
 </pre>
 At this point, you should be able to ssh to and from all the servers without passwords. You will need to copy the ssh keys to your local machine if you don't want to enter any passwords, but this is good enough I think. 
 
+## Setting up a shared filesystem
+There are a lot of different protocols and algorithms for sharing files between servers. One of the easiest and oldest in Linux is NFS
+
+### On master server
+<pre>
+sudo apt install nfs-kernel-server
+sudo mkdir /shared
+sudo systemctl start nfs-kernel-server.service
+sudo systemctl enable nfs-kernel-server.service
+</pre>
+
+Add the following to /etc/exports:
+<pre>
+/shared *(rw,sync,no_root_squash)
+</pre>
+
+### On server1 and server2
+<pre>
+sudo apt install nfs-common
+sudo mkdir /shared
+sudo sed -i 's/^exit 0/mount master:\/shared \/shared\nexit 0/' /etc/rc.local
+sudo mount master:/shared /shared
+</pre>
+
+### What did we just do?
+We just set up a network file system where we can easily share files from one system to another. Really going to make life a lot easier on us. We'll look at different systems throughout the course.
+
 ## What to turn in
 You need to turn in evidence that all of the above is working. That means screenshots, etc for each part of this assignment. If there isn't enough detail, I will return without a grade. If there are any problems, please indicate them at the bottom of the report with the heading "Known Problems".
