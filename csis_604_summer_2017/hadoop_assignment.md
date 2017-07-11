@@ -73,6 +73,7 @@ Set up the YARN resource manager on master.
 
 #### hdfs-site.xml
 Descriptions are in the descriptions :)
+
 <code>
     <property>
         <name>dfs.datanode.data.dir</name>
