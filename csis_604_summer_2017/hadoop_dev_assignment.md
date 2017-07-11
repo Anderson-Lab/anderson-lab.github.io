@@ -10,23 +10,23 @@ In this assignment, we will install and configure IntelliJ and a Hadoop developm
 
 ## Download and install IntelliJ
 On master
-<code>
+<pre>
 wget https://download.jetbrains.com/idea/ideaIC-2017.1.5.tar.gz
 tar xfvz ideaIC-2017.1.5.tar.gz
-</code>
+</pre>
 
 Now make sure it works and your X11 forwarding is enabled (some documentation: https://www.seas.upenn.edu/cets/answers/x11-forwarding.html). To start:
-<code>
+<pre>
 idea-IC-171.4694.70/bin/idea.sh
-</code>
+</pre>
 I just kept the defaults for everything.
 
 ## Creating a Hadoop App Project
 1. Create a Java project in IntelliJ.
 2. Set up the libraries you need. I added basically everything which is overkill, but still... 
-<img src="csis_604_summer_2017/screenshots/Libraries.PNG">
+<img src="../screenshots/Libraries.PNG">
 3. Now I created a source file:
-<code>
+<pre>
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -44,7 +44,7 @@ import java.util.StringTokenizer;
 public class TestWordCount {
 
     public static class TokenizerMapper
-            extends Mapper<Object, Text, Text, IntWritable>{
+        extends Mapper&lt;Object, Text, Text, IntWritable&gt;{
 
         private final static IntWritable one = new IntWritable(1);
         private Text word = new Text();
@@ -60,7 +60,7 @@ public class TestWordCount {
     }
 
     public static class IntSumReducer
-            extends Reducer<Text,IntWritable,Text,IntWritable> {
+            extends Reducer&lt;Text,IntWritable,Text,IntWritable&gt; {
         private IntWritable result = new IntWritable();
 
         public void reduce(Text key, Iterable<IntWritable> values,
@@ -96,7 +96,7 @@ public class TestWordCount {
         System.exit(job.waitForCompletion(true) ? 0 : 1);
     }
 }
-</code>
+</pre>
 4. After that we need to setup the artifacts, so it produces a jar we can run on Hadoop. Click File -&gt; Project Structure, select artifacts on the left. Click Add button -&gt; Jar -&gt; From modules with dependencies. Choose the module you create. If you specify the Main class here, you don’t need to add its class name in the following command. Click OK to save the settings.
 5. Then build the artifiacts. I had one more jar I needed to add, so I downloaded it using wget http://mirror.metrocast.net/apache//commons/cli/binaries/commons-cli-1.4-bin.tar.gz. Then extracted it with tar xfvz commons-cli-1.4-bin.tar.gz. Then my jar artifact was built successfully. 
 6. We can try it from the command line, and assuming your input directory still exists, you can do so by running your jar on your cluster. My jar ended up in /home/lab/IdeaProjects/HadoopExample/out/artifacts/HadoopExample_jar. Your jar might be somewhere else depending on how you named things. Then you can try to run something like: hadoop jar HadoopExample.jar TestWordCount /input output
