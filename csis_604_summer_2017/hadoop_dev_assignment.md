@@ -97,6 +97,7 @@ public class TestWordCount {
     }
 }
 </pre>
+
 4. After that we need to setup the artifacts, so it produces a jar we can run on Hadoop. Click File -&gt; Project Structure, select artifacts on the left. Click Add button -&gt; Jar -&gt; From modules with dependencies. Choose the module you create. If you specify the Main class here, you don’t need to add its class name in the following command. Click OK to save the settings.
 5. Then build the artifiacts. I had one more jar I needed to add, so I downloaded it using wget http://mirror.metrocast.net/apache//commons/cli/binaries/commons-cli-1.4-bin.tar.gz. Then extracted it with tar xfvz commons-cli-1.4-bin.tar.gz. Then my jar artifact was built successfully. 
 6. We can try it from the command line, and assuming your input directory still exists, you can do so by running your jar on your cluster. My jar ended up in /home/lab/IdeaProjects/HadoopExample/out/artifacts/HadoopExample_jar. Your jar might be somewhere else depending on how you named things. Then you can try to run something like: hadoop jar HadoopExample.jar TestWordCount /input output
