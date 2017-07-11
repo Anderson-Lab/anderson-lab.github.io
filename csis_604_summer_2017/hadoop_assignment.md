@@ -196,3 +196,9 @@ hadoop fs -get ~/grep_example/ ~
 
 ## Other notes
 It's probably a good idea to install firefox on master: sudo apt-get install firefox. That way it is easy to use the Hadoop internal links. To get this to work, make sure you have a X11 client installed (Xming for windows or the one that comes with MobaXterm with windows or XQuartz with mac).
+
+## Post Questions
+What does each of the following do?
+1. NodeManager
+2. YARN
+3. DataNode
