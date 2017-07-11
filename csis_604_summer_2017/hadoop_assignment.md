@@ -21,44 +21,44 @@ We are going to following the guidelines <a href="https://hadoop.apache.org/docs
 1. First, let's copy our Hadoop installation to our shared directory: sudo cp -Rp /usr/local/hadoop/ /shared
 2. Now ssh to each server (server1 and server2), and copy it to /usr/local/. i.e., sudo cp -Rp /shared/hadoop /usr/local
 3. In the .bashrc file on master, server1, or server2 add the following:
-<pre>
+<code>
 export HADOOP_COMMON_HOME=/usr/local/hadoop
 export HADOOP_MAPRED_HOME=$HADOOP_COMMON_HOME
 export HADOOP_HDFS_HOME=$HADOOP_COMMON_HOME
 export YARN_HOME=$HADOOP_COMMON_HOME
 export PATH=$PATH:$HADOOP_COMMON_HOME/bin
 export PATH=$PATH:$HADOOP_COMMON_HOME/sbin
-</pre>
+</code>
 If you want, you could setup a soft link to a shared .bashrc located in /shared, but that is up to you.
 
 ### Configuration files
 Now we are going to edit configuration files that are located in /usr/local/hadoop/etc/hadoop. 
 
 To get the configuration below working I had to change /etc/hosts on master. Specifically, I had to change
-<pre>
+<code>
 127.0.1.1 master
-</pre>
+</code>
 to
-<pre>
+<code>
 127.0.1.1 localhost
-</pre>
+</code>
 I had to do the same thing on server1 and server2.
 
 I one point I also had to remove a temporary directory on server1 and server2. Important thing is to read the log files and Google is your friend. Here is what I had to do: sudo rm -rf /tmp/hadoop-lab
 
 #### core-site.xml
 Set up the namenode. Add the following to the configuration section.
-<pre>
+<code>
   <property>
     <name>fs.defaultFS</name>
     <value>hdfs://master/</value>
     <description>NameNode URI</description>
   </property>
-</pre>
+</code>
 
 #### yarn-site.xml
 Set up the YARN resource manager on master.
-<pre>
+<code>
 <property>
   <name>yarn.resourcemanager.hostname</name>
   <value>master</value>
@@ -69,11 +69,11 @@ Set up the YARN resource manager on master.
   <value>mapreduce_shuffle</value>
   <description>shuffle service for MapReduce</description>
 </property>
-</pre>
+</code>
 
 #### hdfs-site.xml
 Descriptions are in the descriptions :)
-<pre>
+<code>
     <property>
         <name>dfs.datanode.data.dir</name>
         <value>file:///home/lab/hdfs/</value>
@@ -91,50 +91,50 @@ Descriptions are in the descriptions :)
         <value>2</value>
         <description>Number of replication for each chunk.</description>
     </property>
-</pre>
+</code>
 
 #### mapred-site.xml
 First, copy the template file over: cp mapred-site.xml.template mapred-site.xml, and then add the following:
-<pre>
+<code>
 <property>
   <name>mapreduce.framework.name</name>
   <value>yarn</value>
   <description>Execution framework.</description>
 </property>
-</pre>
+</code>
 
 #### slaves
 Delete localhost from the file and add server1 and server2.
 
 #### Sync all the directories
-<pre>
+<code>
 cd /usr/local
 for i in `cat hadoop/etc/hadoop/slaves`; do 
   echo $i; rsync -avxP --exclude=logs hadoop/ $i:/usr/local/hadoop/; 
 done
-</pre>
+</code>
 
 #### Format the filesystem
-<pre>
+<code>
 hdfs namenode -format
-</pre>
+</code>
 
 #### Start HDFS/Yarn
 Before you start hadoop, you must install Java on each of the datanodes (server1 and server2): sudo apt-get install default-jdk
 
 Then do:
-<pre>
+<code>
 start-dfs.sh
 start-yarn.sh
-</pre>
+</code>
 And check for and deal with any errors.
 
 ### Checking status
-<pre>
+<code>
 hdfs dfsadmin -report
-</pre>
+</code>
 My output was:
-<pre>
+<code>
 Configured Capacity: 38876733440 (36.21 GB)
 Present Capacity: 32898555904 (30.64 GB)
 DFS Remaining: 32898506752 (30.64 GB)
@@ -182,16 +182,16 @@ Cache Used%: 100.00%
 Cache Remaining%: 0.00%
 Xceivers: 1
 Last contact: Mon Jul 10 20:36:31 EDT 2017
-</pre>
+</code>
 
 Final test is to see if our grep example worked. Now that we have a true distributed system, we need to create the directories and copy the files into hdfs (for more information: https://dzone.com/articles/top-10-hadoop-shell-commands):
-<pre>
+<code>
 hadoop fs -mkdir /input
 hadoop fs -put ~/input/* /input
 hadoop fs -ls /input
 /usr/local/hadoop/bin/hadoop jar /usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-2.7.3.jar grep /input ~/grep_example 'principal[.]*'
 hadoop fs -get ~/grep_example/ ~
-</pre>
+</code>
 
 ## Other notes
 It's probably a good idea to install firefox on master: sudo apt-get install firefox. That way it is easy to use the Hadoop internal links. To get this to work, make sure you have a X11 client installed (Xming for windows or the one that comes with MobaXterm with windows or XQuartz with mac).
