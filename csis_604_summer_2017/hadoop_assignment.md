@@ -48,6 +48,7 @@ I one point I also had to remove a temporary directory on server1 and server2. I
 
 #### core-site.xml
 Set up the namenode. Add the following to the configuration section.
+<pre>
 <code>
   <property>
     <name>fs.defaultFS</name>
@@ -55,6 +56,7 @@ Set up the namenode. Add the following to the configuration section.
     <description>NameNode URI</description>
   </property>
 </code>
+</pre>
 
 #### yarn-site.xml
 Set up the YARN resource manager on master.
