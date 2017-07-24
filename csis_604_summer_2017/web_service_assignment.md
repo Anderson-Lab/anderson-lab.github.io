@@ -1,6 +1,6 @@
 ---
 permalink: /csis_604_summer_2017/web_service_assignment/
-title: "Distributed Computing"
+title: "Web Service Assignment"
 excerpt: "Anderson Data Science Research Lab."
 ---
 
