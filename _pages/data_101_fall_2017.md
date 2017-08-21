@@ -1,5 +1,5 @@
 ---
-permalink: /data_101_summer_2017/
+permalink: /data_101_fall_2017/
 title: "Introduction to Data Science: DATA 101"
 excerpt: "Anderson Data Science Research Lab."
 ---
