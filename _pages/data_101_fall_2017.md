@@ -7,7 +7,7 @@ excerpt: "Anderson Data Science Research Lab."
 {% include base_path %}
 
 ## Important Links
-* [Facebook Group](https://www.virtualbox.org/wiki/Downloads)
+* [Facebook Group](https://www.facebook.com/groups/1548343591894744/)
 * [Rstudio](http://freyja.cs.cofc.edu/rstudio-learn2mine)
 * [Learn2Mine]()
 * [Join Learn2Mine Class]()
@@ -20,7 +20,7 @@ Introduction to the use of computer based tools for the analysis of large data s
 </p>
 
 ## Required Text
-There is no requied textbook to purchase for this course, but there will be a lot of required reading and online tutorials and guides. As a reference, I would recommend this book: <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf">https://cran.r-project.org/doc/manuals/R-intro.pdf</a>. We are also going to be using <a href="r4ds.had.co.nz">R for Data Science</a>.
+There is no requied textbook to purchase for this course, but there will be a lot of required reading and online tutorials and guides. As a reference, I would recommend this book: <a href="https://cran.r-project.org/doc/manuals/R-intro.pdf">https://cran.r-project.org/doc/manuals/R-intro.pdf</a>. We are also going to be using <a href="http://r4ds.had.co.nz">R for Data Science</a>.
 
 ## Our Plan
 Every DATA 101 course, I search online to find a suitable real-world competition for students to compete in. We match this with an internal competition/judging with local judges from industry. It is a lot of fun. Ideally, this would line up with the end of the semester, but alas, this almost never happens. This time the competition I want us to participate in starts September 1st (<a href="https://goo.gl/Nptzgb">https://goo.gl/Nptzgb</a>). Students from this course have actually won this competition before and have been flown to SF and presented their work. Not to mention the cash prize (note: winning has nothing to do with your grade). Now I know putting the competition at the beginning of the semester means you won't have a lot of experience to pull from, but there is no better way to focus our energies around a real data science task than a competition. Also, I have no way of knowing what the competition will entail ahead of time, so I can't exactly prepare you with specific methods in any case. So what does this mean for the execution of the course? Here is a breakdown of our general plan:
@@ -60,10 +60,10 @@ If you have laptops, please bring them to each class.
 * To understand the social, ethical, and legal issues of informatics and data science
 
 ### Grading Policy
-Project/Competition Reports - 40%
-Exam - 20%
-Homework - 10% 
-Programming Assignments - 30%
+* Project/Competition Reports - 40%
+* Exam - 20%
+* Homework - 10% 
+* Programming Assignments - 30%
 
 Grading Scale: A: 90-100; B: 80-89; C: 70-79; F: <70. Plusses will be used at the discretion of the instructor.
 
