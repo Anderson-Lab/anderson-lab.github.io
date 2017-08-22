@@ -84,9 +84,6 @@ Written homework must be placed under my office door by 5 PM on the due date. No
 ### Programming Assignments
 Most programming assignments will be submitted through the Learn2Mine environment. There will be a combination of in-class lab assignments, and out of class programming assignments.
 
-### Lectures
-An overview of the goals for the week will be posted online (Glip). The assignments themselves will provide inline notes and discussions. There will be no scheduled lecture time, and the course will be conducted entirely in an asynchronous fashion. Glip is going to be our friend.
-
 ### Honor Code
 Lying, cheating, attempted cheating, and plagiarism are violations of our Honor Code that, when identified, are investigated. Each instance is examined to determine the degree of deception involved.
 
