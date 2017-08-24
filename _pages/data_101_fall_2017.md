@@ -7,6 +7,8 @@ excerpt: "Anderson Data Science Research Lab."
 {% include base_path %}
 
 ## Important Links
+* [Section 01 Teams](https://docs.google.com/document/d/1Lb_zRe6UdJaFem2FHPttYVQYxP8Au6Ic10fkthL8aQA/edit?usp=sharing)
+* [Section 02 Teams](https://docs.google.com/document/d/1o40DVWE8yBkzIOzY_hyVo8T5ng57GRMO96X2gLf1oW0/edit?usp=sharing)
 * [Facebook Group](https://www.facebook.com/groups/1548343591894744/)
 * [Rstudio](http://freyja.cs.cofc.edu/rstudio-learn2mine)
 * [Learn2Mine]()
