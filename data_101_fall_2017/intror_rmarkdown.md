@@ -1,5 +1,5 @@
 ---
-permalink: /csis_604_summer_2017/intror_rmarkdown_assignment/
+permalink: /data_101_2017/intror_rmarkdown_assignment/
 title: "Introduction to R and R Markdown Assignment"
 excerpt: "Anderson Data Science Research Lab."
 ---
