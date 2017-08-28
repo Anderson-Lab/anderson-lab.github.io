@@ -18,9 +18,9 @@ For this assignment, I want you to do the following.
 
 1. Create a new R Markdown Document (call it week2.rmd or whatever you want).
 2. Using full markdown functionality, make a good looking report about what R lesson's you've completed this week and a brief summary of what you've learned. You must:
-i. Break it up into sections using appropriate headers
-ii. You must include markdown text and documentation alongside the code.
-iii. You do not need to do need to attempt to reach 100% coverage of all the R you've done this week, but make sure you get the feel for how these Markdown documents work.
-iv. When you are done, export your report to PDF and upload it to OAKS. 
+    3. Break it up into sections using appropriate headers
+    4. You must include markdown text and documentation alongside the code.
+    5. You do not need to do need to attempt to reach 100% coverage of all the R you've done this week, but make sure you get the feel for how these Markdown documents work.
+    6. When you are done, export your report to PDF and upload it to OAKS. 
 
 
