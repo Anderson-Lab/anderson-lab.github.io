@@ -16,7 +16,7 @@ The following are a list of topics and the order in which we will approach them.
 Syllabus discussion. Introduction to data mining and machine learning and Bayesian classification.
 
 <b>Week 2 and 3:</b><br/>
-* Neural Networks and Linear Discriminants (Chapter 3)
+Neural Networks and Linear Discriminants (Chapter 3)
 
 <b>Week 4 and 5:</b><br/>
 Multi-layer Perceptron (Chapter 4)
