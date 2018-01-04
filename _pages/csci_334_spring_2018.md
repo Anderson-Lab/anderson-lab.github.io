@@ -1,5 +1,5 @@
 ---
-permalink: /csci_334_spring_2018/
+permalink: /csci-334-spring-2018/
 title: "Data Mining"
 excerpt: "Anderson Data Science Research Lab."
 ---
