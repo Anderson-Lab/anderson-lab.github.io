@@ -85,31 +85,31 @@ Bloom's taxonomy for CS assessment. In Proceedings of the tenth conference on Au
 Inc., Darlinghurst, Australia, Australia, 155-161.
 
 ## Policies
-<b>Semester Long Project</b>
+<b>Semester Long Project:</b>
 This courses revolves around a semester long project. All of you learning and therefore grades center on this one task. As such, this course does not operate like a standard lecture course. In fact, apart from some short discussions at the beginning of each class, there will be no lectures. It is a team project, but wherever possible, you will be graded individually. Your success in this course depends on your ability to work well with team members inside and outside of class. Course time will not be used to teach you new technology as this will be specific to your project. This course tries to mimic a real-world Scrum development team. You can picture yourself as junior developers or data scientists because at this point, well, you are (assuming you pass this course :). You can picture me as your instructor/boss. Most of the in class time is needed to execute the standup portion of Agile development leaving almost no time for introducing new material. Good thing you've had approximately 4 years of new material getting you ready for this course. I will be available digitally and during office hours, and because I like all things nerdy, I will happily try to help with whatever technology your project demands. But you and your team are ultimately responsible for the success of your project.
 
-<b>Industry Partners/Representatives</b>
+<b>Industry Partners/Representatives:</b>
 Each team will work with an industry partner on a real project of importance to their company. Each company will provide feedback on your performance that will not be used in your grade in any direct way, but it will be used to corroborate my own observations.
 
-<b>Instructor Role</b>
+<b>Instructor Role:</b>
 The instructor of this course acts as the overseeing project manager or executive for all the projects, helps represent and interact with the client (industry partner), and resolve project impediments.  
 
-<b>Scrum Master</b>
+<b>Scrum Master:</b>
 Each team has a scrum master who rotates off of that role after about a month. So, each team member will have the opportunity to be scrum master for about a month. As scrum master, you manage the project (project and release backlogs/user-stories, and burndown chart/velocity/timeline-to-finish), make sure all team members are progressing, work with the instructor to resolve impediments, set release dates, sprints, and moderate Daily Scrums.
 
-<b>Other Roles</b>
+<b>Other Roles:</b>
 Other roles on the team include the Developer and Tester roles. Because we will have small teams, all of these roles will probably not be exclusive to one person. (Scrum masters will still have to code, developers will have to test, etc)
 
-<b>"Daily" Scrums</b>
+<b>"Daily" Scrums:</b>
 Once a week during class, we will do our Daily Scrums. Based on your performance that week, you will get a graded progress report. If you miss a class, you lose 33% of your progress report grade. If you are more than 5 minutes late to class, you lose 16% of your grade. Progress reports will be given out weekly before the midterm presentation. After the midterm, your final scrum/work performance grade will be assigned at the end of the semester.
 
-<b>Presentations</b>
+<b>Presentations:</b>
 Presentations can NOT be missed and can NOT be made up.
 
-<b>Final Deliverables</b>
+<b>Final Deliverables:</b>
 The final documentation for the project includes a detailed software requirements specification template. Also, you must create a slick 2-3 minute video that documents and shows off your project/experience.
 
-<b>Schedule</b>
+<b>Schedule:</b>
 <a href="/capstone-spring-2018/schedule/">Here is our schedule.</a> You should check back regularly as this can change.
 
 <b>Honor Code: </b>
@@ -141,3 +141,6 @@ Falling behind on assignments will make it difficult to achieve the learning out
 
 <b>Disability Accommodations</b>
 Any student who feels he or she may need an accommodation based on the impact of a disability should contact me individually to discuss your specific needs. Also, please contact the College of Charleston, Center for Disability Services http://www.cofc.edu/~cds/ for additional help.
+
+## Materials
+<a href="/capstone-spring-2018/materials">Here is a convenient place for me to post a variety of materials and for you to consume said materials.</a>
