@@ -8,3 +8,9 @@ excerpt: "Anderson Data Science Research Lab."
 
 # Videos
 <a href="https://drive.google.com/drive/folders/0B3RPe0LZuiWCQzdfYlF3aF9wY2c">Click here</a>
+
+# Waiver
+<a href="/capstone-spring-2018/student-release-domestic-travel 2017.pdf">Travel Waiver. Must be completed and given to Lisa before going on your company visit.</a>
+
+# Presentation Template
+<a href="/capstone-spring-2018/Presentation-StartingTemplate.pptx">Download here</a>

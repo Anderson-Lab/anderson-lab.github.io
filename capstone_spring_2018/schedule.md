@@ -9,9 +9,9 @@ excerpt: "Anderson Data Science Research Lab."
 # Schedule
 <b>Important Dates:</b>
 * Company Project Presentations: January 15, 17, 24, and 26.
-* Anderson at Conference: January 18 - 22.
-* Anderson at UHH (tentative): February 22 - 25.
-* Midterm Presentations: February 26 - March 2 during class.
+* Dr. Anderson at Conference: January 18 - 22.
+* Dr. Anderson at UHH (tentative): February 22 - 25.
+* Midterm Presentations: March 12 - March 16 during class.
 * Final Presentations: Wednesday, April 25th from 6 - 8 PM. If you have a conflict, please talk to me, and I will be happy to communicate with your other professors.
 
 <b>Scrum Master Schedule</b>

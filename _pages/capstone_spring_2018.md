@@ -101,7 +101,7 @@ Each team has a scrum master who rotates off of that role after about a month. S
 Other roles on the team include the Developer and Tester roles. Because we will have small teams, all of these roles will probably not be exclusive to one person. (Scrum masters will still have to code, developers will have to test, etc)
 
 <b>"Daily" Scrums:</b>
-Once a week during class, we will do our Daily Scrums. Based on your performance that week, you will get a graded progress report. If you miss a class, you lose 33% of your progress report grade. If you are more than 5 minutes late to class, you lose 16% of your grade. Progress reports will be given out weekly before the midterm presentation. After the midterm, your final scrum/work performance grade will be assigned at the end of the semester.
+Each week during class, we will do our Daily Scrums. Based on your performance that week, you will get a graded progress report. If you miss a class, you lose 33% of your progress report grade. If you are more than 5 minutes late to class, you lose 16% of your grade. Progress reports will be given out weekly before the midterm presentation. After the midterm, your final scrum/work performance grade will be assigned at the end of the semester.
 
 <b>Presentations:</b>
 Presentations can NOT be missed and can NOT be made up.
