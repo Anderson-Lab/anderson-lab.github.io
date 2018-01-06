@@ -1,6 +1,6 @@
 ---
 permalink: /capstone-spring-2018/materials/
-title: "Capstone Schedule"
+title: "Capstone Materials"
 excerpt: "Anderson Data Science Research Lab."
 ---
 
