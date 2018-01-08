@@ -35,7 +35,7 @@ E-mail: andersonpe2@cofc.edu<br>
 Phone: 843-953-8151
 
 ## Course Times
-MWF: 8:30 - 10:30-11:20 AM
+MWF: 10:30-11:20 AM
 
 ## Learning Outcomes
 <b>CSCI 462</b><br>
@@ -104,7 +104,7 @@ Other roles on the team include the Developer and Tester roles. Because we will 
 Each week during class, we will do our Daily Scrums. Based on your performance that week, you will get a graded progress report. If you miss a class, you lose 33% of your progress report grade. If you are more than 5 minutes late to class, you lose 16% of your grade. Progress reports will be given out weekly before the midterm presentation. After the midterm, your final scrum/work performance grade will be assigned at the end of the semester.
 
 <b>Communication with the company:</b>
-Each week your scrum master must initiate at least one professional communication with the company via e-mail. These emails MUST be professional (<a href="https://englishlive.ef.com/blog/career-english/write-perfect-professional-email-english-5-steps/">Random internet link about emails</a>). The instructor must be CC-ed on every e-mail with the company. The must begin with CofC Industry Capstone in the subject line followed by a colon and then the real title (e.g., CofC Industry Capstone: Question about the database). If they are not professional, not only will I make you resend it with an apology, and you'll get a 0 for that week's email grade. At the end of the semester, you must perform a formal project handoff to the company that includes any code, artifacts, and documentation. You will receive an incomplete as your final grade until this is done.
+Each week your scrum master must initiate at least one professional communication with the company via e-mail. These emails MUST be professional (<a href="https://englishlive.ef.com/blog/career-english/write-perfect-professional-email-english-5-steps/">Random internet link about emails</a>). The instructor (andersonpe2@cofc.edu) must be CC-ed on every e-mail with the company. The must begin with CofC Industry Capstone in the subject line followed by a colon and then the real title (e.g., CofC Industry Capstone: Question about the database). If they are not professional, not only will I make you resend it with an apology, and you'll get a 0 for that week's email grade. At the end of the semester, you must perform a formal project handoff to the company that includes any code, artifacts, and documentation. You will receive an incomplete as your final grade until this is done.
 
 <b>GitHub and Grading:</b>
 After the teams and projects are selected, I will setup a private repository for each of the teams. Each week, I will grade these GitHub repos in addition to the standups. If something is not in the GitHub repo or shown during the standup, it doesn't exist in terms of grading. Therefore, I suggest you use GitHub issues, projects, Wiki, etc as much as possible. You can use other tools like Slack and Trello, but that will not count for your grade unless you copy those interactions into GitHub somehow, which is duplication of effort in my opinion, and I would avoid it. You should be able to have a nice easy life if you stick to e-mails and GitHub for grading purposes. Most companies will be using Slack, which I personally use and love, but that communication won't be graded.
