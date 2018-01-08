@@ -17,3 +17,12 @@ excerpt: "Anderson Data Science Research Lab."
 
 # Presentation Template
 <a href="/capstone_spring_2018/Presentation-StartingTemplate.pptx">Download here</a>
+
+# GitHub
+About project boards:
+https://help.github.com/articles/about-project-boards/
+
+Notes on how to view GitHub features:
+* every sprint becomes a milestone on Github;
+* every task on backlog becomes an issue on Github;
+* every time became a label, that can be attached to an issue;
