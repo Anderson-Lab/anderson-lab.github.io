@@ -35,7 +35,7 @@ E-mail: andersonpe2@cofc.edu<br>
 Phone: 843-953-8151
 
 ## Course Times
-MWF: 10:30-11:20 AM
+MWF: 10:30-11:20 AM in Harbor Walk West 213
 
 ## Learning Outcomes
 <b>CSCI 462</b><br>

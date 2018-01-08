@@ -31,7 +31,7 @@ E-mail: andersonpe2@cofc.edu<br>
 Phone: 843-953-8151
 
 ## Course Times
-MWF: 8:30 - 9:20 AM
+MWF: 11:30 - 12:20 PM in Harbor Walk East 300
 
 ## Learning Outcomes
 1. Describe artificial intelligence

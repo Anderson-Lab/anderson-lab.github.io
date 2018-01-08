@@ -28,7 +28,7 @@ E-mail: andersonpe2@cofc.edu<br>
 Phone: 843-953-8151
 
 ## Course Times
-MWF: 8:30 - 9:20 AM
+MWF: 8:30 - 9:20 AM in Harbor Walk East 301 
 
 ## Learning Outcomes
 1. Know the meaning of data mining, some of the application areas and disciplines that use data mining, and
