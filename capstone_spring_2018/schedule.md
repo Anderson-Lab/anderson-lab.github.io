@@ -16,4 +16,4 @@ excerpt: "Anderson Data Science Research Lab."
 * Final Presentations: Wednesday, April 25th from 6 - 8 PM. If you have a conflict, please talk to me, and I will be happy to communicate with your other professors.
 
 <b>Scrum Master Schedule</b>
-TBD
+<a href="https://docs.google.com/document/d/1KE8Q4xmH-A87ZzyOxex7Rji402q10JuMGnpKMJfiwbg/edit?usp=sharing">Schedule, team info, etc.</a>
