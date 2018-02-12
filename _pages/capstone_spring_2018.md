@@ -54,14 +54,13 @@ science, data mining, artificial intelligence, databases, and a domain area; and
 3. explore the potential of computational thinking and its influence on society.
 
 ## Grading Policy
-GitHub Commit History - 30%<br>
-GitHub Wiki Entries - 10%<br>
-Midterm Presentation - 10%<br>
-Final Presentation - 10%<br>
+GitHub Production and Evidence - 40%<br>
 Scrum Master Performance (specifically communication with company, instructor, team) - 10%<br>
-2-3 minute slick video - 10%<br>
 Scrum/Work Performance before Midterm (avg of weekly progress reports) - 10%<br>
 Scrum/Work Performance after Midterm (lump sum at the end based on your performance) - 10%<br>
+Midterm Presentation - 10%<br>
+Final Presentation - 10%<br>
+2-3 minute slick video - 10%<br>
 
 ## Grading Scale
 A: 90-100; B: 80-89; C: 70-79; D: 65-69; F: <65. Plusses and minuses will be used at the
