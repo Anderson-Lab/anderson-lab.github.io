@@ -12,7 +12,7 @@ Teaching excellence is invariably driven by an instructor’s passion for the ed
 Inspiring students to challenge themselves and pursue their educational goals is one crucial element of effective teaching, but it is also important to teach lifelong learning skills for both inside and outside the classroom, such as the ability to think critically when approaching an unfamiliar problem. These principle skills will be incorporated not only into my classroom but also into my interactions with students interested in pursuing research. As an advisor, part of my role is to provide my researchers with the skills necessary to conquer difficult problems, such as digesting a highly technical research paper and communicating a complicated research topic.
 
 ### Successful Student Research
-In my experience, here are some keys to successful student research and mentoring. These are also my expectations for students that work with me. It is hard to write these with the correct tone. Read these with a smile, and always remember, as your professor I'm always right, except when I'm wrong.
+In my experience, here are some keys to successful student research and mentoring. These are also my expectations for students that work with me. It is hard to write these with the correct tone. Read these with a smile, and always remember as your professor I'm always right, except when I'm wrong.
 
 1. Communication
 2. Communication
@@ -21,7 +21,5 @@ In my experience, here are some keys to successful student research and mentorin
 5. But what if I get stuck? When do I know it is time to get help? These are not easily answered, or more specifically, the answer is it depends. First, let me talk about getting stuck. You will get stuck. I get stuck. Everyone gets stuck. What separates successful scientists is how the react in these situations. You can bang your head against the wall, or you can try to find out information and facts about your problem or situation. Then if you still stuck after you have a list of demonstrable facts and have learned about your problem, it is time to come and see me. That isn't to say that sometimes you can't just come on by and let off some steam about a particularly tricky problem. It is just important to work towards a solution in concrete steps that further your education and knowledge about the problem.
 6. Independence of thought. It is very important to me that you develop as an independent investigator. This is one of the primary reasons that has hopefully brought you to work with me. I don't want students who look to me to tell them exactly what to do. I want to train students to anticipate problems and find better solutions to those problems than I could have come up. You're ready to graduate when you can convince me that my proposed solution to a problem is destined to fail. This is one of the most difficult things to teach though, so when I let you struggle through a problem on your own, it is part of a broader diabolical plan to make you into super scientists.
 
-## Courses Taught
-
-### Summer 2017
-<a href="/csis_604_summer_2017/">CSCI 604 - Distributed Computing</a>
+## Applying and joining the lab
+The best and most straightforward way to join the lab is to take one of my courses. But that's not always possible due to scheduling. The next best thing is to work on building your technical expertise in programming, statistics, mathematics, and all related subjects. I really enjoy working with students for multiple years, so please come and find me as early in your education as possible. We may not jump right into a project, but we can discuss how best to prepare for research. That brings me to my last point, which is to just come and talk to me. I'm always excited to talk about mentoring and research.
