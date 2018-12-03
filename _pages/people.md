@@ -12,10 +12,89 @@ Director, Data Science<br>
 Department of Computer Science<br>
 College of Charleston
 
-Dr. Anderson is the director of the Data Science B.S. Program, and  the director and principal investigator of the Data Science Research Group. His research lab specializes in developing novel algorithms in the fields of data mining, machine learning, and artificial intelligence, that are applicable to bioinformatics, genomics, biomedical informatics, and metabolomics. His expertise includes machine learning, e-Science, cloud computing, evolutionary computation and optimization, and cyberinfrastructure. More recently his lab has been developing streaming and distributed machine learning algorithms on parallel computational engines (e.g., Spark and GraphLab), including distributed versions of kernel expansion approximation methods with variable importance and large-scale genomic sequence processing. He has funded multidisciplinary projects in metabolomics, human cognition and fatigue, toxicology, marine biology, cancer informatics, and medical and marine genomics. To date, Dr. Anderson has mentored 22 undergraduate researchers and 5 graduate students. He is the principal investigator for the Omics NSF Research Experience for Undergraduates  ({\tt{http://omics.cofc.edu}}): in this role,  he oversees the overall team-driven research agenda that includes students from Mathematics, Statistics, Computer Science, Data Science, and Biology with PIs from multiple institutions (e.g., NOAA, NIST, and the Medical University of South Carolina). Besides these academic roles, Anderson has an active industry partnership with BoomTown ROI to research and develop deep learning and NLP technology.
+Dr. Paul Anderson graduated in 2004 from Wright State University with a B.S. degree in Computer Engineering. He received his Master of Computer Science in 2006 and his Ph.D. in Computer Science & Engineering in June 2010. After graduation, Dr. Anderson was awarded a Consortium of Universities Research Fellowship to study as a Bioinformatics and Computational Research Scientist for the Air Force Research Laboratory (AFRL). Dr. Anderson has published 30+ peer-reviewed articles in the fields of data science, data mining, machine learning, computational intelligence, metabolomics, genomics, e-Science, bioinformatics, cloud computing, biomedical informatics, cancer informatics, and computer science & engineering education.
+
+At present, Dr. Anderson is an associate professor in the Computer Science Department at the University of Charleston in South Carolina historical known as the College of Charleston. He is the director of the B.S. in Data Science (first such program in the country) and the M.S. in Data Science and Analytics (first such program in South Carolina). Dr. Anderson directs the Data Science Research Group at the College of Charleston where his team specializes in developing and applying data mining, machine learning, and artificial intelligence to the fields of bioinformatics, genomics, biomedical informatics, and metabolomics. Complementary to this applied work, Dr. Anderson’s lab is interested in the foundations of data science with a current focus on explainable ranking algorithms and the rankability of data. He currently has multidisciplinary projects underway in genomics, metabolomics, toxicology, marine biology, cancer informatics, and medical and marine genomics. He is the director of the Institute for Graph Analytics and Research in Data Science (IGARDS) - a collaborative interdisciplinary institute aimed at broadening foundational data science research (http://igards.github.io). Dr. Anderson served as the primary investigator for the Omics NSF Research Experience for Undergraduates at the College of Charleston (http://omics.cofc.edu).
 
 ## Lab Members
-To be added.
+Walter Blair
+
+Katherine Duchinski
+
+Abby Moore
+
+## Past Lab Members and Projects
+Natural Language Processing and Word Representation for Classification. Sarah Wiegreffe
+
+Optimization Methods for SVMs. Kaya Tollas
+
+Algorithms in Bioinformatics. Luca Carvalho De Oliveira* and Leonardo De Melo Joao
+
+Deep Neural Networks and Kernel Approximation Methods. Sonia Kopels
+
+Natural Language Processing and Word Embedding. Matheus Rodrigues Freitag Sr
+
+Creating a Feature Selection Pipeline Using Apache Spark. Cassios Marques
+
+Data Science in Econometrics, Pasha Sadeghian
+
+Advanced Algorithms for Data Science Research, Alexander Jacobs
+
+Data Science Research: Support Vector Machines, David Moore
+
+Exchange Rate Prediction based on interest rates, Daniel Hurlburt
+
+Deep Learning Kernel Methods, Kellan Fluette
+
+Learn2Mine - An Integral Learning Environment, Clayton Turner
+
+Bioinformatics Infrastructure Development for Cancer Genomics. Matt Paul
+
+Prediction and Annotation of Genomic Repeat Dynamics using Hidden Markov Models. Kelsey Yetsko
+
+Exploring Expression Variability in Lung Cancer Patients through Deep-Learning Dimensionality Reduction. Victoria McCaffrey
+
+ETS Transcription Factor Biomarker Identification. Connor Stanley
+
+Bifrost: A Life Sciences Data Connector for Cloud Services. Jeremy Morgan
 
 ## Collaborators
-To be added.
+Dr. Amy Langville<br>
+Department of Mathematics, College of Charleston
+
+Dr. Annalisa Calini<br>
+Department of Mathematics, College of Charleston
+
+Dr. Frank Marí and Dr. Benjamin Neely<br>
+National Institute of Standards and Technology
+
+Dr. Jihad Obeid<br>
+Center for Biomedical Information at the Medical University of South Carolina
+
+Dr. Dennis Watson, Dr. Robert Wilson, Dr. Starr Hazard, and Dr. Patricia Watson<br>
+Center for Medical Genomics at the Medical University of South Carolina
+
+Dr. Andrew Shedlock<br>
+Department of Biology, College of Charleston
+
+Dr. Robert Chapman<br>
+Hollings Marine Laboratory
+
+Dr. Fran VanDolah and Lab<br>
+National Oceanic and Atmospheric Administration
+
+Dr. Michael Peterson<br>
+University of Hawaii at Hilo
+
+Dr. Nicholas Reo<br>
+Magnetic Resonance Lab Wright State University
+
+Dr. Nicholas DelRaso and Dr. Deirdre Mahle<br>
+Air Force Research Laboratory
+
+Grier Allen (CEO)<br>
+BoomTown ROI
+
+Edward Murray (CTO)
+<br>Ceterus
+
