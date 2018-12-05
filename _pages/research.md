@@ -6,7 +6,7 @@ excerpt: "Anderson Data Science Research Lab."
 
 {% include base_path %}
 
-## Anderon CV
+## Anderson CV
 <a href="cvs/Paul_Anderson_CV.11.30.18.pdf">CV.pdf</a>
 
 ## Institute of Graph Analytics, Rankability, and Data Science (IGARDS)
