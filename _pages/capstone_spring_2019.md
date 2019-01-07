@@ -35,7 +35,7 @@ E-mail: andersonpe2@cofc.edu<br>
 Phone: 843-953-8151
 
 ## Course Times
-MWF: 10:30-11:20 AM in Harbor Walk East 302
+MWF: 10:30-11:20 AM in Harbor Walk East 302<br>
 MWF: 12:30-1:20 PM in Harbor Walk East 302
 
 ## Learning Outcomes
