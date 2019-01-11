@@ -8,7 +8,8 @@ excerpt: "Anderson Data Science Research Lab."
 
 # Assignment Steps
 1. Create a free GitHub account.
-2. Create and initialize a new repository (public) that represents a programming assignment you have done for another class.3. Make sure you initialize it with a README.
+2. Create and initialize a new repository (public) that represents a programming assignment you have done for another class.
+3. Make sure you initialize it with a README.  
 4. Using your favorite Git client (https://git-scm.com/downloads/guis), modify the README file on your local computer and push your changes. I happen to like the command line version, and I recommend everyone know enough command line git to do the basics.
 5. Add your code to the repository (add, commit, and push).
 6. Modify something in the code (it can be documentation) (add, commit, and push).
