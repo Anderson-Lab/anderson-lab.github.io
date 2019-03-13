@@ -21,5 +21,5 @@ excerpt: "Anderson Data Science Research Lab."
 # ZenHub
 You don't have to use ZenHub, but it has worked well in the past. Grading is done with what shows up in GitHub and GitHub only. <a href="https://www.zenhub.com/blog/getting-started-with-zenhub/">https://www.zenhub.com/blog/getting-started-with-zenhub/</a>
 
-# Waiver
+# Scrum Methodology
 <a href="/capstone_spring_2019/Scrum_Methodology.pdf">Short breakdown of Scrum Methodology</a>

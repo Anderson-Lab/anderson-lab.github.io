@@ -12,7 +12,7 @@ excerpt: "Anderson Data Science Research Lab."
 * Dr. Anderson out of town: January 16 and 18. No class those days.
 * Midterm Presentations: March 11 - March 15 during class.
 * Spring Break: March 17 - 23
-* Final Presentations: Monday, April 29th from 6 - 8 PM. If you have a conflict, please talk to me, and I will be happy to communicate with your other professors.
+* Final Presentations: Monday, April 29th from 5 - 8 PM. If you have a conflict, please talk to me, and I will be happy to communicate with your other professors.
 
 <b>Scrum Master Schedule</b>
-Coming soon
+On your GitHub page.
