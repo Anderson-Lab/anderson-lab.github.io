@@ -1,10 +1,16 @@
 ---
 permalink: /data_301_2019_fall/technology/
-title: "DATA 301 Fall 2019 Schedule"
+title: "DATA 301 Fall 2019"
 excerpt: "Anderson Data Science Research Lab."
 ---
 
 {% include base_path %}
+
+# Table of contents
+1. [Syllabus](/data_301_2019_fall/)
+2. [Schedule](/data_301_2019_fall/schedule/)
+3. [Technology](/data_301_2019_fall/technology/)
+4. [Project](/data_301_2019_fall/project/)
 
 # JupyterHub
 We will be using JupyterHub for all assignments and for the final project. It is linked
