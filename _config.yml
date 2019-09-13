@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anderson Data Science Lab"
 title_separator          : "-"
 name                     : &name "Paul Anderson"
-description              : &description "A data science lab focused on machine learning, big data, and interesting data-driven problems."
+description              : &description "A data science lab focused on machine learning, bioinformatics, and interesting data-driven problems."
 url                      : https://anderson-lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : *name
   avatar           : "Paul-labs-logo.png"
-  bio              : "Associate Professor, Data Science Director."
-  location         : "Charleston, SC"
+  bio              : "Associate Professor"
+  location         : "San Luis Obispo, CA"
   email            :
   uri              : 
   bitbucket        :

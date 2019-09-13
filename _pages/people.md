@@ -8,22 +8,23 @@ excerpt: "Anderson Data Science Research Lab."
 
 ## Paul Anderson, Principal Investigator
 Associate Professor<br>
-Director, Data Science<br>
-Department of Computer Science<br>
-College of Charleston
+Department of Computer Science and Software Engineering<br>
+California Polytechnic State University
 
 Dr. Paul Anderson graduated in 2004 from Wright State University with a B.S. degree in Computer Engineering. He received his Master of Computer Science in 2006 and his Ph.D. in Computer Science & Engineering in June 2010. After graduation, Dr. Anderson was awarded a Consortium of Universities Research Fellowship to study as a Bioinformatics and Computational Research Scientist for the Air Force Research Laboratory (AFRL). Dr. Anderson has published 30+ peer-reviewed articles in the fields of data science, data mining, machine learning, computational intelligence, metabolomics, genomics, e-Science, bioinformatics, cloud computing, biomedical informatics, cancer informatics, and computer science & engineering education.
 
-At present, Dr. Anderson is an associate professor in the Computer Science Department at the University of Charleston in South Carolina historical known as the College of Charleston. He is the director of the B.S. in Data Science (first such program in the country) and the M.S. in Data Science and Analytics (first such program in South Carolina). Dr. Anderson directs the Data Science Research Group at the College of Charleston where his team specializes in developing and applying data mining, machine learning, and artificial intelligence to the fields of bioinformatics, genomics, biomedical informatics, and metabolomics. Complementary to this applied work, Dr. Anderson’s lab is interested in the foundations of data science with a current focus on explainable ranking algorithms and the rankability of data. He currently has multidisciplinary projects underway in genomics, metabolomics, toxicology, marine biology, cancer informatics, and medical and marine genomics. He is the director of the Institute for Graph Analytics and Research in Data Science (IGARDS) - a collaborative interdisciplinary institute aimed at broadening foundational data science research (http://igards.github.io). Dr. Anderson served as the primary investigator for the Omics NSF Research Experience for Undergraduates at the College of Charleston (http://omics.cofc.edu).
+At present, Dr. Anderson is an associate professor in the Computer Science and Software Engineering Department at California Polytechnic State University (Cal Poly). Prior to this appointment, Dr. Anderson was an associate professor at the College of Charleston where he was the director of the B.S. in Data Science (first such program in the country) and the M.S. in Data Science and Analytics (first such program in South Carolina). Dr. Anderson directs the Data Science Research Group at Cal Poly where his team specializes in developing and applying data mining, machine learning, and artificial intelligence to the fields of bioinformatics, genomics, biomedical informatics, and metabolomics. Complementary to this applied work, Dr. Anderson’s lab is interested in the foundations of data science with a current focus on explainable ranking algorithms and the rankability of data. He currently has multidisciplinary projects underway in genomics, metabolomics, toxicology, marine biology, cancer informatics, and medical and marine genomics. He is the director of the Institute for Graph Analytics and Research in Data Science (IGARDS) - a collaborative interdisciplinary institute aimed at broadening foundational data science research (http://igards.github.io). Dr. Anderson served as the primary investigator for the Omics NSF Research Experience for Undergraduates at the College of Charleston (http://omics.cofc.edu).
 
 ## Lab Members
-Walter Blair
+Currently looking for new lab members starting fall 2019.
+
+## Past Lab Members and Projects
+Walter Blai
 
 Katherine Duchinski
 
 Abby Moore
 
-## Past Lab Members and Projects
 Natural Language Processing and Word Representation for Classification. Sarah Wiegreffe
 
 Optimization Methods for SVMs. Kaya Tollas
