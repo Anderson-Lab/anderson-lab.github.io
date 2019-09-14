@@ -103,21 +103,6 @@ Labs:
 ## Week 5 (10/22 and 10/24)
 ### Tuesday
 Lecture Topics
-* Distance Matrix
-
-Labs:
-* Chapter 4.3 and Exercises
-
-### Thursday
-Lecture Topics:
-* Exam 1 - Part 1
-
-Labs:
-* Exam 1 - Part 2
-
-## Week 6 (10/29 and 10/31)
-### Tuesday
-Lecture Topics
 * Machine Learning and regression
 
 Labs:
@@ -135,7 +120,7 @@ Labs:
 
 Reflection
 
-## Week 7 (11/5 and 11/7)
+## Week 6 (10/29 and 10/31)
 ### Tuesday
 Lecture Topics
 * Machine Learning and regression
@@ -154,7 +139,7 @@ Labs:
 
 Reflection
 
-## Week 8 (11/12 and 11/14)
+## Week 7 (11/5 and 11/7)
 ### Tuesday
 Lecture Topics
 * Exam 2 - Part 1
@@ -173,7 +158,7 @@ Labs:
 
 Reflection
 
-## Week 9 (11/19 and 11/21)
+## Week 8 (11/12 and 11/14)
 ### Tuesday
 Lecture Topics
 * Geographic Data
@@ -190,12 +175,29 @@ Labs:
 
 Reflection
 
+## Week 9 (11/19 and 11/21)
+Lecture Topics
+* Image Data
+
+Labs:
+* Project Time
+
+### Thursday
+Lecture Topics
+* Data Science Dev Ops (Training)
+* Data Science Dev Ops (Deployment)
+
+Labs:
+* Project Time
+
+Reflection
+
 ## Thanksgiving
 
 ## Week 10 (12/3 and 12/5)
 ### Tuesday
 Lecture Topics
-* Image Data
+* Data Science Dev Ops (Distributed computing)
 
 Labs:
 * Project Time
