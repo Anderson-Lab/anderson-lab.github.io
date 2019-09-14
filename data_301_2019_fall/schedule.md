@@ -7,6 +7,9 @@ excerpt: "Anderson Data Science Research Lab."
 {% include base_path %}
 
 # Schedule
+Below is our tentative schedule. It is subject to change, but those changes will
+be reflected here.
+
 ## Week 0 (Thursday 9/19)
 Go over Syllabus
 
@@ -123,7 +126,7 @@ Reflection
 ## Week 6 (10/29 and 10/31)
 ### Tuesday
 Lecture Topics
-* Machine Learning and regression
+* Classification models
 
 Labs:
 * Chapter 6.1 and Exercises
@@ -212,7 +215,7 @@ Labs:
 Reflection
 
 ## Other
-Last day of classes December 6th
+Last day of classes December 6th (also my birthday so you know it's a good day)
 
 Final exam period December 9-13
 
