@@ -16,7 +16,7 @@ Go over Syllabus
 Icebreaker
 
 Lecture Topics:
-* Introduction to data science
+* <a href="/data_301_2019_fall/Introduction to Data Science.pptx">Introduction to data science</a>
 * Tabular data
 * Summarizing data
 
