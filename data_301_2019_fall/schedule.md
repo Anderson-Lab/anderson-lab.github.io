@@ -23,6 +23,7 @@ Lecture Topics:
 Labs:
 * Chapter 1.1 and Exercises
 * Chapter 1.2 and Exercises
+* General technical mayhem that comes with the first day
 
 Reflection
 
