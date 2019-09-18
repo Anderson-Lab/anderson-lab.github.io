@@ -11,6 +11,8 @@ Below is our tentative schedule. It is subject to change, but those changes will
 be reflected here.
 
 ## Week 0 (Thursday 9/19)
+<a href="/data_301_2019_fall/aboutme.pptx">About Me</a>
+
 Go over Syllabus
 
 Icebreaker
