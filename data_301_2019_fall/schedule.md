@@ -17,25 +17,21 @@ Go over Syllabus
 
 Icebreaker
 
-Lecture Topics:
-* <a href="/data_301_2019_fall/Introduction to Data Science.pptx">Introduction to data science</a>
-* Tabular data
-* Summarizing data
-
 Labs:
-* Chapter 1.1 and Exercises
-* Chapter 1.2 and Exercises
 * General technical mayhem that comes with the first day
-
-Reflection
 
 ## Week 1 (9/24 and 9/26)
 ### Tuesday
 Lecture Topics
+* <a href="/data_301_2019_fall/Introduction to Data Science.pptx">Introduction to data science</a>
+* Tabular data
+* Summarizing data
 * Visualizing variables
 * Transforming variables
 
 Labs:
+* Chapter 1.1 and Exercises
+* Chapter 1.2 and Exercises
 * Chapter 1.3 and Exercises
 * Chapter 1.4 and Exercises
 
