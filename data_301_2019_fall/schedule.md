@@ -6,6 +6,12 @@ excerpt: "Anderson Data Science Research Lab."
 
 {% include base_path %}
 
+# Table of contents
+1. [Syllabus](/data_301_2019_fall/)
+2. [Schedule](/data_301_2019_fall/schedule/)
+3. [Technology](/data_301_2019_fall/technology/)
+4. [Project](/data_301_2019_fall/project/)
+
 # Schedule
 Below is our tentative schedule. It is subject to change, but those changes will
 be reflected here.
@@ -43,6 +49,8 @@ Lecture Topics
 Labs:
 * Chapter 2.1 and Exercises
 * Chapter 2.2 and Exercises
+* Lab Distribution of First Digits
+* Lab Shark Tank
 
 Reflection
 
