@@ -35,7 +35,7 @@ Lecture Topics
 * Visualizing variables
 * Transforming variables
 
-Labs:
+Lab 1:
 * Chapter 1.1 and Exercises
 * Chapter 1.2 and Exercises
 * Chapter 1.3 and Exercises
@@ -46,7 +46,7 @@ Lecture Topics
 * Filtering data
 * Split-apply-combine
 
-Labs:
+Lab 2:
 * Chapter 2.1 and Exercises
 * Chapter 2.2 and Exercises
 * Lab Distribution of First Digits
@@ -59,7 +59,7 @@ Reflection
 Lecture Topics
 * Data cubes and pivot tables
 
-Labs:
+Lab 3:
 * Chapter 2.3 and Exercises
 * Chapter 2.4 and Exercises
 
