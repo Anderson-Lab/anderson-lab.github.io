@@ -27,8 +27,7 @@ Email: pander14@calpoly.edu
 Office: 222 Building 14
 
 Office hours:
-* Tuesday and Thursday from 11 - noon
-* Tuesday and Thursday from 1:30 - 2:30 PM
+* Tuesday and Thursday from 1:30 - 3:30 PM
 * Wednesday from 12-1 (online only)
 
 ## Graders

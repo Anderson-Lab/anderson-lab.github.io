@@ -57,11 +57,14 @@ Reflection
 ## Week 2 (10/1 and 10/3)
 ### Tuesday
 Lecture Topics
+* Office hour updated
+* Questions/issues with lab?
+* [Tech Example](https://kyligence.io/blog/use-python-for-data-science-with-apache-kylin/)
+* <a href="/data_301_2019_fall/OLAP.pptx">OLAP</a>
 * Data cubes and pivot tables
 
 Lab 3:
-* Chapter 2.3 and Exercises
-* Chapter 2.4 and Exercises
+* TBD
 
 ### Thursday
 Lecture Topics
