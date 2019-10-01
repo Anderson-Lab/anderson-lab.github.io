@@ -13,8 +13,7 @@ excerpt: "Anderson Data Science Research Lab."
 4. [Project](/data_301_2019_fall/project/)
 
 # Schedule
-Below is our tentative schedule. It is subject to change, but those changes will
-be reflected here.
+Below is our tentative schedule. It is subject to change, but those changes will be reflected here.
 
 ## Week 0 (Thursday 9/19)
 <a href="/data_301_2019_fall/aboutme.pptx">About Me</a>
@@ -64,7 +63,9 @@ Lecture Topics
 * Data cubes and pivot tables
 
 Lab 3:
-* TBD
+* Chapter 2.3 - We did this in class
+* Chapter 2.4 and Exercises
+* Lab Evidence of Discrimination
 
 ### Thursday
 Lecture Topics
