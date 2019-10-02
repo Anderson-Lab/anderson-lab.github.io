@@ -71,12 +71,15 @@ Lab 3:
 Lecture Topics
 * Relationships between categorical variables
 * Independence
+* <a href="/data_301_2019_fall/Bayesian Classification.ppt">Bayesian Classification</a>
+* <a href="/data_301_2019_fall/Bayesian Classification Worksheet.pdf">Bayesian Classification Worksheet</a>
 
 Labs:
 * Chapter 3.1 and Exercises
 * Chapter 3.2 and Exercises
+* TBD
 
-Reflection
+<a href="https://forms.gle/QZwQWAdRuXBvJeGa8">Reflection</a>
 
 ## Week 3 (10/8 and 10/10)
 ### Tuesday
