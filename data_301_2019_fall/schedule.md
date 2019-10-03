@@ -72,12 +72,11 @@ Lecture Topics
 * Relationships between categorical variables
 * Independence
 * <a href="/data_301_2019_fall/Bayesian Classification.ppt">Bayesian Classification</a>
-* <a href="/data_301_2019_fall/Bayesian Classification Worksheet.pdf">Bayesian Classification Worksheet</a>
 
-Labs:
+Lab 4:
 * Chapter 3.1 and Exercises
 * Chapter 3.2 and Exercises
-* TBD
+* <a href="/data_301_2019_fall/Bayesian Classification Worksheet.pdf">Bayesian Classification Worksheet</a>
 
 <a href="https://forms.gle/QZwQWAdRuXBvJeGa8">Reflection</a>
 
