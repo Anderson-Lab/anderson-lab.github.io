@@ -91,10 +91,13 @@ Before class:
 Lecture Topics
 * Relationships between quantitative variables
 * Beyond two variables
+<a href="pca_notes.ppt">PCA</a>
 
-Labs:
+Lab 5:
+* TBD
 * Chapter 3.3 and Exercises
 * Chapter 3.4 and Exercises
+* <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
 
 ### Thursday
 Lecture Topics
