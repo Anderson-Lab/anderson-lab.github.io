@@ -68,6 +68,9 @@ Lab 3:
 * Lab Evidence of Discrimination
 
 ### Thursday
+Before class:
+* [Weapons of Math Destruction](https://www.youtube.com/watch?v=gdCJYsKlX_Y)
+
 Lecture Topics
 * Relationships between categorical variables
 * Independence
@@ -82,6 +85,9 @@ Lab 4:
 
 ## Week 3 (10/8 and 10/10)
 ### Tuesday
+Before class:
+* [5 minute intro to PCA](https://www.youtube.com/watch?v=HMOI_lkzW08)
+
 Lecture Topics
 * Relationships between quantitative variables
 * Beyond two variables
