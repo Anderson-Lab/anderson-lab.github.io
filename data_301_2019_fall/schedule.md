@@ -94,10 +94,8 @@ Lecture Topics
 * <a href="/data_301_2019_fall/pca_notes.ppt">PCA</a>
 
 Lab 5:
-* TBD
 * Chapter 3.3 and Exercises
 * Chapter 3.4 and Exercises
-* <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
 
 ### Thursday
 Lecture Topics
@@ -107,6 +105,7 @@ Lecture Topics
 Labs:
 * Chapter 4.1 and Exercises
 * Chapter 4.2 and Exercises
+* <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
 
 Reflection
 
