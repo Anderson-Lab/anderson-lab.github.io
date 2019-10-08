@@ -35,3 +35,5 @@ Lab 2 - [https://classroom.github.com/a/EAX2tprm](https://classroom.github.com/a
 Lab 3 - [https://classroom.github.com/a/Yxnj93Nb](https://classroom.github.com/a/Yxnj93Nb)
 
 Lab 4 - [https://classroom.github.com/a/5kidCLgj](https://classroom.github.com/a/5kidCLgj)
+
+Lab 5 - [https://classroom.github.com/a/gzQqG9Ue](https://classroom.github.com/a/gzQqG9Ue)
