@@ -91,7 +91,7 @@ Before class:
 Lecture Topics
 * Relationships between quantitative variables
 * Beyond two variables
-* <a href="pca_notes.ppt">PCA</a>
+* <a href="/data_301_2019_fall/pca_notes.ppt">PCA</a>
 
 Lab 5:
 * TBD
