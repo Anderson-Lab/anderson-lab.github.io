@@ -91,7 +91,6 @@ Before class:
 Lecture Topics
 * Relationships between quantitative variables
 * Beyond two variables
-* <a href="/data_301_2019_fall/pca_notes.ppt">PCA</a>
 
 Lab 5:
 * Chapter 3.3 and Exercises
@@ -99,13 +98,16 @@ Lab 5:
 
 ### Thursday
 Lecture Topics
+* <a href="/data_301_2019_fall/pca_notes.ppt">PCA</a>
 * Distance metrics
 * Distances between categorical variables
 
 Labs:
+* <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
+* Chapter 3.5 and Exercises
+* TBD
 * Chapter 4.1 and Exercises
 * Chapter 4.2 and Exercises
-* <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
 
 Reflection
 
