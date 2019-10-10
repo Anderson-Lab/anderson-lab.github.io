@@ -99,24 +99,23 @@ Lab 5:
 ### Thursday
 Lecture Topics
 * <a href="/data_301_2019_fall/pca_notes.ppt">PCA</a>
-* Distance metrics
-* Distances between categorical variables
 
 Labs:
 * <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
 * Chapter 3.5 and Exercises
-* TBD
-* Chapter 4.1 and Exercises
-* Chapter 4.2 and Exercises
 
-Reflection
+<a href="https://forms.gle/3jd6a93xVBgZYfqL9">Reflection</a>
 
 ## Week 4 (10/15 and 10/17)
 ### Tuesday
 Lecture Topics
+* Distance metrics
+* Distances between categorical variables
 * Distance Matrix
 
 Labs:
+* Chapter 4.1 and Exercises
+* Chapter 4.2 and Exercises
 * Chapter 4.3 and Exercises
 
 ### Thursday
