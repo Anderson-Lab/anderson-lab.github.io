@@ -39,3 +39,5 @@ Lab 4 - [https://classroom.github.com/a/5kidCLgj](https://classroom.github.com/a
 Lab 5 - [https://classroom.github.com/a/gzQqG9Ue](https://classroom.github.com/a/gzQqG9Ue)
 
 Lab 6 - [https://classroom.github.com/a/yYihK5J8](https://classroom.github.com/a/yYihK5J8)
+
+PCA Worksheet (upload images) - [https://classroom.github.com/a/sLXA59CE](https://classroom.github.com/a/sLXA59CE)
