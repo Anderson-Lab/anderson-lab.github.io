@@ -9,7 +9,8 @@ excerpt: "Anderson Data Science Research Lab."
 ## Paul Anderson, Principal Investigator
 Associate Professor<br>
 Department of Computer Science and Software Engineering<br>
-California Polytechnic State University
+California Polytechnic State University<br>
+Lead Data Scientist, Ceterus
 
 Dr. Paul Anderson graduated in 2004 from Wright State University with a B.S. degree in Computer Engineering. He received his Master of Computer Science in 2006 and his Ph.D. in Computer Science & Engineering in June 2010. After graduation, Dr. Anderson was awarded a Consortium of Universities Research Fellowship to study as a Bioinformatics and Computational Research Scientist for the Air Force Research Laboratory (AFRL). Dr. Anderson has published 30+ peer-reviewed articles in the fields of data science, data mining, machine learning, computational intelligence, metabolomics, genomics, e-Science, bioinformatics, cloud computing, biomedical informatics, cancer informatics, and computer science & engineering education.
 
@@ -98,4 +99,3 @@ BoomTown ROI
 
 Edward Murray (CTO)
 <br>Ceterus
-
