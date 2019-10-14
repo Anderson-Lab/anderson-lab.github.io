@@ -114,6 +114,8 @@ Lecture Topics
 * Distance Matrix
 
 Labs:
+* Review
+* ATTENTION: Exercises are Tuesday of the following week and not the normal Thursday
 * Chapter 4.1 and Exercises
 * Chapter 4.2 and Exercises
 * Chapter 4.3 and Exercises
