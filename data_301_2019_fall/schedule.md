@@ -100,7 +100,7 @@ Lab 5:
 Lecture Topics
 * <a href="/data_301_2019_fall/pca_notes.ppt">PCA</a>
 
-Labs:
+Lab 6:
 * <a href="/data_301_2019_fall/pca_worksheet.docx">PCA Worksheet</a>
 * Chapter 3.5 and Exercises
 
@@ -113,7 +113,7 @@ Lecture Topics
 * Distances between categorical variables
 * Distance Matrix
 
-Labs:
+Lab 7:
 * Review
 * ATTENTION: Exercises are due Tuesday of the following week and not the normal Thursday
 * Chapter 4.1 and Exercises
@@ -133,7 +133,7 @@ Lecture Topics
 * <a href="https://drive.google.com/open?id=1uma5ep7OUQQsEtmtDCanzV3-pT_0WDHmnqWFQ4Mvkpw">Machine Learning and regression</a>
 * <a href="https://docs.google.com/presentation/d/1xIWIMcYge5qo0BLX9YhShMBhGdouRFfHKTv9ljGWAZw/edit?usp=sharing">Probability and Evaluation in Machine Learning</a>
 
-Labs:
+Lab 8:
 * Chapter 5.0 and Exercises
 
 ### Thursday
