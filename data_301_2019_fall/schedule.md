@@ -130,20 +130,18 @@ Labs:
 ## Week 5 (10/22 and 10/24)
 ### Tuesday
 Lecture Topics
-* Machine Learning and regression
+* <a href="https://drive.google.com/open?id=1uma5ep7OUQQsEtmtDCanzV3-pT_0WDHmnqWFQ4Mvkpw">Machine Learning and regression</a>
+* <a href="https://docs.google.com/presentation/d/1xIWIMcYge5qo0BLX9YhShMBhGdouRFfHKTv9ljGWAZw/edit?usp=sharing">Probability and Evaluation in Machine Learning</a>
 
 Labs:
-* Chapter 5.1 and Exercises
-* Chapter 5.2 and Exercises
-* Chapter 5.3 and Exercises
+* Chapter 5.0 and Exercises
 
 ### Thursday
 Lecture Topics
-* Auto ML
+* Machine learning and regression
 
 Labs:
-* Chapter 5.4 and Exercises
-* Chapter 5.5 and Exercises
+* Chapter 5.1-??? and Exercises
 
 Reflection
 
