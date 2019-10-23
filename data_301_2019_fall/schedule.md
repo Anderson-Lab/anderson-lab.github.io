@@ -51,8 +51,6 @@ Lab 2:
 * Lab Distribution of First Digits
 * Lab Shark Tank
 
-Reflection
-
 ## Week 2 (10/1 and 10/3)
 ### Tuesday
 Lecture Topics
@@ -133,17 +131,17 @@ Lecture Topics
 * <a href="https://drive.google.com/open?id=1uma5ep7OUQQsEtmtDCanzV3-pT_0WDHmnqWFQ4Mvkpw">Machine Learning and regression</a>
 * <a href="https://docs.google.com/presentation/d/1xIWIMcYge5qo0BLX9YhShMBhGdouRFfHKTv9ljGWAZw/edit?usp=sharing">Probability and Evaluation in Machine Learning</a>
 
-Lab 8:
+Lab 8 (Due the following Tuesday):
 * Chapter 5.0 and Exercises
 
 ### Thursday
 Lecture Topics
 * Machine learning and regression
 
-Labs:
+Lab 9:
 * Chapter 5.1-??? and Exercises
 
-Reflection
+<a href="https://forms.gle/jqqfJYhftyRnLSMv9>Reflection</a>
 
 ## Week 6 (10/29 and 10/31)
 ### Tuesday
