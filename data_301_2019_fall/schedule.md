@@ -141,7 +141,7 @@ Lecture Topics
 Lab 9:
 * Chapter 5.1-??? and Exercises
 
-<a href="https://forms.gle/jqqfJYhftyRnLSMv9>Reflection</a>
+<a href="https://forms.gle/jqqfJYhftyRnLSMv9">Reflection</a>
 
 ## Week 6 (10/29 and 10/31)
 ### Tuesday
