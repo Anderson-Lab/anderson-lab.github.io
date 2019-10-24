@@ -139,7 +139,7 @@ Lecture Topics
 * Machine learning and regression
 
 Lab 9:
-* Chapter 5.1-??? and Exercises
+* Chapter 5.1-5.4 and Exercises
 
 <a href="https://forms.gle/jqqfJYhftyRnLSMv9">Reflection</a>
 
