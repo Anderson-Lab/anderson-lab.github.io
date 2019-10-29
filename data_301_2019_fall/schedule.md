@@ -146,9 +146,10 @@ Lab 9:
 ## Week 6 (10/29 and 10/31)
 ### Tuesday
 Lecture Topics
-* Classification models
+* Classification models and evaluation metrics
 
-Labs:
+Lab 9:
+* Chapter 5.5 and Exercises
 * Chapter 6.1 and Exercises
 * Chapter 6.2 and Exercises
 
@@ -165,13 +166,6 @@ Reflection
 ## Week 7 (11/5 and 11/7)
 ### Tuesday
 Lecture Topics
-* Exam 2 - Part 1
-
-Labs:
-* Exam 2 - Part 2
-
-### Thursday
-Lecture Topics
 * Hierarchical Data
 
 Labs:
@@ -181,20 +175,27 @@ Labs:
 
 Reflection
 
-## Week 8 (11/12 and 11/14)
-### Tuesday
+### Thursday
 Lecture Topics
 * Geographic Data
 
 Labs:
 * Project Time
 
-### Thursday
+## Week 8 (11/12 and 11/14)
+### Tuesday
 Lecture Topics
 * Genomics Data
 
 Labs:
 * Project Time
+
+### Thursday
+Lecture Topics
+* Exam 2 - Part 1
+
+Labs:
+* Exam 2 - Part 2
 
 Reflection
 
