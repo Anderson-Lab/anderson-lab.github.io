@@ -148,7 +148,7 @@ Lab 9:
 Lecture Topics
 * Classification models and evaluation metrics
 
-Lab 9:
+Lab 10:
 * Chapter 5.5 and Exercises
 * Chapter 6.1 and Exercises
 * Chapter 6.2 and Exercises
