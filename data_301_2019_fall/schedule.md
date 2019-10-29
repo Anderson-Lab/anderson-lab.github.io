@@ -192,10 +192,10 @@ Labs:
 
 ### Thursday
 Lecture Topics
-* Exam 2 - Part 1
+* Exam 2
 
 Labs:
-* Exam 2 - Part 2
+* Project Time
 
 Reflection
 
