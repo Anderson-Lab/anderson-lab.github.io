@@ -44,4 +44,6 @@ Lab 7 - [https://classroom.github.com/a/w3D1-sec](https://classroom.github.com/a
 
 Lab 9 - [https://classroom.github.com/a/UTd2LVqS](https://classroom.github.com/a/UTd2LVqS)
 
+Lab 10 - [https://classroom.github.com/a/H_VTwiZf](https://classroom.github.com/a/H_VTwiZf)
+
 PCA Worksheet (upload images) - [https://classroom.github.com/a/sLXA59CE](https://classroom.github.com/a/sLXA59CE)
