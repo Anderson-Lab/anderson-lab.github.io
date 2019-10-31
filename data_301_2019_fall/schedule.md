@@ -156,6 +156,7 @@ Lab 10:
 ### Thursday
 Lecture Topics
 * Textual Data
+* <a href="https://towardsdatascience.com/using-scikit-learn-to-find-bullies-c47a1045d92f">SpaCy Example</a>
 
 Labs:
 * Chapter 10.1 and Exercises
