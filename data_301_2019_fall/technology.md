@@ -46,4 +46,6 @@ Lab 9 - [https://classroom.github.com/a/UTd2LVqS](https://classroom.github.com/a
 
 Lab 10 - [https://classroom.github.com/a/H_VTwiZf](https://classroom.github.com/a/H_VTwiZf)
 
+Lab 11 - [https://classroom.github.com/a/f9E8k1lj](https://classroom.github.com/a/f9E8k1lj)
+
 PCA Worksheet (upload images) - [https://classroom.github.com/a/sLXA59CE](https://classroom.github.com/a/sLXA59CE)
