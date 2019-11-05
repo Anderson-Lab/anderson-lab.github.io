@@ -167,9 +167,9 @@ Lab 11:
 ## Week 7 (11/5 and 11/7)
 ### Tuesday
 Lecture Topics
-* Hierarchical Data
+* Hierarchical Data (JSON and RESTful APIs)
 
-Labs:
+Lab 12:
 * Chapter 11.1 and Exercises
 * Chapter 11.2 and Exercises
 * Chapter 11.3 and Exercises
@@ -178,7 +178,7 @@ Reflection
 
 ### Thursday
 Lecture Topics
-* Geographic Data
+* Hierarchical Data (XML and Web Scraping)
 
 Labs:
 * Project Time
@@ -186,7 +186,7 @@ Labs:
 ## Week 8 (11/12 and 11/14)
 ### Tuesday
 Lecture Topics
-* Genomics Data
+* Geographic Data
 
 Labs:
 * Project Time
