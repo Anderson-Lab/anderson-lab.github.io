@@ -48,4 +48,6 @@ Lab 10 - [https://classroom.github.com/a/H_VTwiZf](https://classroom.github.com/
 
 Lab 11 - [https://classroom.github.com/a/f9E8k1lj](https://classroom.github.com/a/f9E8k1lj)
 
+Lab 12 - [https://classroom.github.com/a/C85Pz4E3](https://classroom.github.com/a/C85Pz4E3)
+
 PCA Worksheet (upload images) - [https://classroom.github.com/a/sLXA59CE](https://classroom.github.com/a/sLXA59CE)
