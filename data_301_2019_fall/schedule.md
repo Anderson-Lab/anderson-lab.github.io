@@ -174,14 +174,15 @@ Lab 12:
 * Chapter 11.2 and Exercises
 * Chapter 11.3 and Exercises
 
-Reflection
-
 ### Thursday
 Lecture Topics
 * Hierarchical Data (XML and Web Scraping)
 
 Labs:
 * Project Time
+* Team determination (Result: GitHub repo for each team joined)
+* Project option selection
+* Discussion of overall project
 
 ## Week 8 (11/12 and 11/14)
 ### Tuesday
