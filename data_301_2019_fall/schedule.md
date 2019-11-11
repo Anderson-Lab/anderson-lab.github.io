@@ -199,9 +199,10 @@ Lecture Topics
 Labs:
 * Project Time
 
-Reflection
-
 ## Week 9 (11/19 and 11/21)
+### Tuesday
+DUE: Exploratory Data Analysis
+
 Lecture Topics
 * Image Data
 
@@ -209,6 +210,10 @@ Labs:
 * Project Time
 
 ### Thursday
+DUE:
+* Preliminary results on main objective
+* Identification of a second objective
+
 Lecture Topics
 * Data Science Dev Ops (Training)
 * Data Science Dev Ops (Deployment)
@@ -216,12 +221,14 @@ Lecture Topics
 Labs:
 * Project Time
 
-Reflection
+Project Reflection
 
 ## Thanksgiving
 
 ## Week 10 (12/3 and 12/5)
 ### Tuesday
+DUE: Preliminary results on second objective
+
 Lecture Topics
 * Data Science Dev Ops (Distributed computing)
 
@@ -235,7 +242,6 @@ Lecture Topics
 Labs:
 * Project Time
 
-Reflection
 
 ## Other
 Last day of classes December 6th (also my birthday so you know it's a good day)
@@ -243,3 +249,5 @@ Last day of classes December 6th (also my birthday so you know it's a good day)
 Final exam period December 9-13
 
 Final exam time period is Dec 10 from 10:10am – 1:00pm. This time will be used for exam 3.
+
+Final project is due in full on Dec 10.
