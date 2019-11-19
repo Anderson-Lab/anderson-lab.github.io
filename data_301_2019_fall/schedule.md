@@ -187,7 +187,7 @@ Labs:
 ## Week 8 (11/12 and 11/14)
 ### Tuesday
 Lecture Topics
-* Geographic Data
+* Review
 
 Labs:
 * Project Time
@@ -204,7 +204,7 @@ Labs:
 DUE: Exploratory Data Analysis
 
 Lecture Topics
-* Image Data
+* Unsupervised Learning and k-means
 
 Labs:
 * Project Time
