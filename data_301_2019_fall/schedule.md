@@ -204,7 +204,7 @@ Labs:
 DUE: Exploratory Data Analysis
 
 Lecture Topics
-* Unsupervised Learning and k-means
+* <a href="/data_301_2019_fall/kmeans.pptx">Unsupervised Learning and k-means</a>
 
 Labs:
 * Project Time
