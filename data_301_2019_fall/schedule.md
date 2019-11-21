@@ -211,7 +211,7 @@ Labs:
 * Project Time
 
 ### Thursday
-DUE:
+DUE (now due Friday of this week):
 * Preliminary results on main objective
 * Identification of a second objective
 
