@@ -205,6 +205,7 @@ DUE: Exploratory Data Analysis
 
 Lecture Topics
 * <a href="/data_301_2019_fall/kmeans.pptx">Unsupervised Learning and k-means</a>
+* Section 7.1 in the book
 
 Labs:
 * Project Time
@@ -215,8 +216,10 @@ DUE:
 * Identification of a second objective
 
 Lecture Topics
+* Hierarchical Clustering (Section 7.2 in the book)
 * Data Science Dev Ops (Training)
 * Data Science Dev Ops (Deployment)
+* <a href="https://cloud.google.com/ai-platform/">Example of platform</a>
 
 Labs:
 * Project Time
