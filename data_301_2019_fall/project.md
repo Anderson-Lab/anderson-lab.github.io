@@ -42,7 +42,7 @@ Each dataset is back by a Kaggle competition. The main objective is defined as t
 The team is expected to come up with a second objective that is significantly different from the main Kaggle defined objective. Try to think about what others would care about in this dataset. Can you propose a new problem from the data? One notebook per each group is fine here.
 
 ### Preliminary results on second objective (10%)
-Once you have selected a second objective you must each attempt to achieve preliminary results towards that objective.
+Once you have selected a second objective you must each attempt to achieve preliminary results towards that objective. It is fine to submit a single notebook for the secondary objective. 
 
 ## Final Project (55%)
 Your GitHub repo is your final project report. It should include notebooks, scripts, etc.
