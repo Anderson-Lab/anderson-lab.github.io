@@ -234,13 +234,14 @@ DUE: Preliminary results on second objective
 
 Lecture Topics
 * Data Science Dev Ops (Distributed computing)
+* Project Sample Discussion
 
 Labs:
 * Project Time
 
 ### Thursday
 Lecture Topics
-* TBD
+*
 
 Labs:
 * Project Time
