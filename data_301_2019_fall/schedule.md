@@ -241,7 +241,7 @@ Labs:
 
 ### Thursday
 Lecture Topics
-*
+* Deployment and serving models
 
 Labs:
 * Project Time
