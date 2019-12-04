@@ -33,6 +33,9 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "Consulting"
+    url: /consulting/
+
 # documentation links
 docs:
   - title: Getting Started
