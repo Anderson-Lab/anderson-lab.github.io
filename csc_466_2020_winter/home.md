@@ -1,5 +1,5 @@
 ---
-permalink: /csc_466_2020_winter/
+permalink: /csc_466_2020_winter/ 
 title: "CSC 466 - Knowledge Discovery from Data"
 excerpt: "Anderson Data Science Research Lab."
 ---
