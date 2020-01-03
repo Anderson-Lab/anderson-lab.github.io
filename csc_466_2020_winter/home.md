@@ -17,19 +17,20 @@ excerpt: "Anderson Data Science Research Lab."
 ## Course Information
 CSC 466-01 Lecture
 * Tuesday and Thursday from 12:10-1:30 PM (20-129 Engineering East)
-<br>
+
 CSC 466-02 Lab
 * Tuesday and Thursday from 1:40 - 3:00 PM (14-232B Frank E. Pilling)
-<br>
+
+
 Final Exam
 * Thursday, March 19 1:10 - 4 PM
 
 CSC 466-03 Lecture
 * Tuesday and Thursday from 3:10-4:30 PM (20-129 Engineering East)
-<br>
+
 CSC 466-04 Lab
 * Tuesday and Thursday from 4:40 - 6:00 PM (14-302 Frank E. Pilling)
-<br>
+
 Final Exam
 * Tuesday, March 17 4:10 - 7 PM
 
