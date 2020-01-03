@@ -16,11 +16,11 @@ excerpt: "Anderson Data Science Research Lab."
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
 ## Important Dates
-* January 6 (Monday) - classes begin
+* January 6 (Monday) - Classes begin
 * January 20 (Monday) - Martin Luther King, Jr.'s birthday observed (no class)
 * January 21 (Tuesday) - Classes follow a Monday schedule (I assume this means no class for us)
-* March 13 (Friday) - last day of classes
-* March 16-20 (Monday - Friday) - final exams
+* March 13 (Friday) - Last day of classes
+* March 16-20 (Monday - Friday) - Final exams
 
 ## Week 1 (1/7 and 1/9)
 <a href="/csc_466_2020_winter/aboutme.pptx">About Me</a>
