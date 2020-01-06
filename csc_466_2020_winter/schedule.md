@@ -31,12 +31,12 @@ Icebreaker
 
 Chapter 1 (Intro) and Chapter 2 (Preliminaries)
 
-Lab 1 - Bayesian Classifier and Report
+Lab 1 - Python, NumPy, and Pandas
 
 ## Week 2 (1/14 and 1/16)
 Week 2 - Chapter 12 - Learning with Trees
 
-Lab 2 - Decision Tree and Report
+Lab 2 - Bayesian Classifier and Report
 
 (90% chance no class or lab on Thursday as I will most likely be attending a symposium)
 
@@ -45,43 +45,45 @@ No class on Tuesday
 
 Chapter 13 - Decision by Committee
 
-Continue Lab 2 - Decision Tree and Report
+Continue Lab 2 - Bayesian Classifier and Report
 
 ## Week 4 (1/28 and 1/30)
 Chpater 13 - Decision by Committee
 
-Lab 3 - Decision by Committee and Report
+Lab 3 - Decision Tree and Report
 
 ## Week 5 (2/4 and 2/6)
 Chapter 3 - Neurons, Neural Networks, and Linear Discriminants
 
-Lab 4 - Perceptron and Report
+Lab 4 - Decision by Committee and Report
 
 Thursday 2/6 - Exam 1
 
 ## Week 6 (2/11 and 2/13)
 Chapter 14 - Unsupervised Learning - Kmeans (supplemented by Hierarchical clustering notes)
 
-Lab 5 - Clustering and Report
+Lab 5 - Perceptron and Report
 
 ## Week 7 (2/18 and 2/20)
 Assignment of project
 
 Chapter 6 - Dimensionality reduction
 
-Lab 6 - Dimensionality reduction and report
+Lab 6 - Clustering and Report
 
 ## Week 8 (2/25 and 2/27)
 <a href="/csc_466_2020_winter/CF_AdaptiveWeb_2006.pdf">Collaborative Filtering</a>
 
-Lab 7 - Collaborative Filtering and Report
+Lab 7 - Dimensionality reduction and report
 
 ## Week 9 (3/3 and 3/5)
 Graph Algorithms (https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/)
 
-Lab 8 - Graph Algorithms and Page Rank and Report
+Lab 8 - Collaborative Filtering and Report
 
 ## Week 10 (3/10 and 3/12)
-Lab 9 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
+Lab 9 - Graph Algorithms and Page Rank and Report
+
+Lab 10 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
 
 Thursday 3/12 - Exam 2

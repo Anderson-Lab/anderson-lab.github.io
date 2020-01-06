@@ -17,7 +17,7 @@ We will be using JupyterHub for all assignments and for the final project. It is
 to your GitHub account. If you don't have a GitHub account, please create one and then associate it
 with your account.
 
-[https://csc466-w20.jupyter.sh](https://csc466-w20.jupyter.sh)
+[https://csc466-w20.csm.calpoly.edu/](https://csc466-w20.csm.calpoly.edu/)
 
 # GitHub classroom
 We will use GitHub classroom to manage all turn in procedures. Links to assignments will be provided on the schedule.
