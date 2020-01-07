@@ -31,7 +31,7 @@ Icebreaker
 
 Chapter 1 (Intro) and Chapter 2 (Preliminaries)
 
-Lab 1 - Python, NumPy, and Pandas
+[Lab 1 - Python, NumPy, and Pandas](https://classroom.github.com/a/efsRItDZ)
 
 ## Week 2 (1/14 and 1/16)
 Week 2 - Chapter 12 - Learning with Trees
