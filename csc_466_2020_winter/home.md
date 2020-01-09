@@ -46,7 +46,7 @@ Office hours:
 * And by appointment (email)
 
 ## Graders
-TBD
+Viet Nguyen
 
 ## Course Description
 Overview of modern knowledge discovery from data (KDD) methods and technologies. Topics in data mining (association rules mining, classification, clustering), information retrieval, web mining. Emphasis on use of KDD techniques in modern software applications. 3 lectures, 1 laboratory.
@@ -104,7 +104,7 @@ educational reason for using an electronic device during lecture, please
 see me. For more information start with <a href="https://poorvucenter.yale.edu/Using-Electronic-Devices-in-Class">https://poorvucenter.yale.edu/Using-Electronic-Devices-in-Class</a>.
 
 ## Grading Scale
-Grading Scale: A: 90-100; B: 80-89; C: 70-79; F: <70. Plusses and minuses will be used at the discretion of the instructor.
+Grading Scale: A: 90-100; B: 80-89; C: 70-79; D: 60-69; F: <60. Plusses and minuses will be used at the discretion of the instructor.
 
 ## Honor Code
 Lying, cheating, attempted cheating, and plagiarism are violations of our Honor Code that, when identified, are investigated. Each instance is examined to determine the degree of deception involved.

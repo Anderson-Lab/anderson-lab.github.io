@@ -97,7 +97,7 @@ see me.    Note – if your phone rings or beeps during lecture you should
 bring in cookies for the entire class.
 
 ## Grading Scale
-Grading Scale: A: 90-100; B: 80-89; C: 70-79; F: <70. Plusses and minuses will be used at the discretion of the instructor.
+Grading Scale: A: 90-100; B: 80-89; C: 70-79; D: 60-69; F: <60. Plusses and minuses will be used at the discretion of the instructor.
 
 Grading Guidelines: Submitted work requires Analysis, Evaluation, and Creation of ideas, concepts, and materials into various deliverables (e.g., see revised Bloom's Taxonomy and reference below).
 

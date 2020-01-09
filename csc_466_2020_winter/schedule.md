@@ -31,6 +31,10 @@ Icebreaker
 
 Chapter 1 (Intro) and Chapter 2 (Preliminaries)
 
+<a href="/data_301_2019_fall/Bayesian Classification.ppt">Bayesian Classification Slides</a>
+
+<a href="/data_301_2019_fall/Bayesian Classification Worksheet.pdf">Bayesian Classification Worksheet (not collected)</a>
+
 [Lab 1 - Python, NumPy, and Pandas](https://classroom.github.com/a/efsRItDZ)
 
 ## Week 2 (1/14 and 1/16)
