@@ -40,8 +40,6 @@ Week 2 - Chapter 12 - Learning with Trees
 
 Lab 2 - Bayesian Classifier and Report
 
-(90% chance no class or lab on Thursday as I will most likely be attending a symposium)
-
 ## Week 3 (1/23)
 No class on Tuesday
 
