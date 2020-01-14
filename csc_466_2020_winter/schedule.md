@@ -40,7 +40,7 @@ Bayesian Classifier Slides
 
 Week 2 - Chapter 12 - Learning with Trees
 
-Lab 2 - Bayesian Classifier and Report
+<a href="https://classroom.github.com/a/v9PJbN9u">Lab 2 - Bayesian Classifier and Report</a>
 
 ## Week 3 (1/23)
 No class on Tuesday
