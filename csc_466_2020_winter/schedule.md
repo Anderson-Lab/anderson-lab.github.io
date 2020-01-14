@@ -36,6 +36,8 @@ Chapter 1 (Intro) and Chapter 2 (Preliminaries)
 [Lab 1 - Python, NumPy, and Pandas](https://classroom.github.com/a/efsRItDZ)
 
 ## Week 2 (1/14 and 1/16)
+Bayesian Classifier Slides
+
 Week 2 - Chapter 12 - Learning with Trees
 
 Lab 2 - Bayesian Classifier and Report
