@@ -47,7 +47,7 @@ No class on Tuesday
 
 Chapter 13 - Decision by Committee
 
-Continue Lab 2 - Bayesian Classifier and Report
+<a href="https://classroom.github.com/a/QCsIKLlW">Lab 3 - Decision Tree</a>
 
 ## Week 4 (1/28 and 1/30)
 Chpater 13 - Decision by Committee
