@@ -52,6 +52,8 @@ Chapter 13 - Decision by Committee
 ## Week 4 (1/28 and 1/30)
 Chpater 13 - Decision by Committee
 
+<a href="http://www.chengli.io/tutorials/gradient_boosting.pdf">Gradient Boosting Slides</a>
+
 Lab 3 - Decision Tree and Report
 
 ## Week 5 (2/4 and 2/6)
