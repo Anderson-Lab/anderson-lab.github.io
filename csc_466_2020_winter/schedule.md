@@ -59,14 +59,18 @@ Lab 3 - Decision Tree and Report
 ## Week 5 (2/4 and 2/6)
 Chapter 13 - Decision by Committee
 
-Lab 4 - Decision by Committee and Report
-
 Thursday 2/6 - Exam 1
 
 ## Week 6 (2/11 and 2/13)
 Chapter 14 - Unsupervised Learning - Kmeans (supplemented by Hierarchical clustering notes)
+* Priority sections: 14.1.1 (skip 14.1.2 and 14.1.3 and 14.1.4) and 14.1.5
+* Optional: The rest of the chapter requires an intro to neural networks
 
-Lab 5 - Perceptron and Report
+<a href="/csc_466_2020_winter/clustering.pptx">Clustering Slides</a>
+
+<a href="/csc_466_2020_winter/Clustering Worksheet.pptx">Clustering Worksheet</a>
+
+Lab 4 - Choosing an algorithm and answering questions
 
 ## Week 7 (2/18 and 2/20)
 Assignment of project
