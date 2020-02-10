@@ -57,7 +57,7 @@ Chpater 13 - Decision by Committee
 Lab 3 - Decision Tree and Report
 
 ## Week 5 (2/4 and 2/6)
-Chapter 3 - Neurons, Neural Networks, and Linear Discriminants
+Chapter 13 - Decision by Committee
 
 Lab 4 - Decision by Committee and Report
 
