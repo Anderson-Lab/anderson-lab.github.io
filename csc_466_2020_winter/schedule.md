@@ -68,9 +68,9 @@ Chapter 14 - Unsupervised Learning - Kmeans (supplemented by Hierarchical cluste
 
 <a href="/csc_466_2020_winter/clustering.pptx">Clustering Slides</a>
 
-<a href="/csc_466_2020_winter/Clustering Worksheet.pptx">Clustering Worksheet</a>
+<a href="/csc_466_2020_winter/Clustering Worksheet.docx">Clustering Worksheet</a>
 
-Lab 4 - Choosing an algorithm and answering questions
+<a href="https://classroom.github.com/a/Lb9D8ByH">Lab 4 - Choosing an algorithm and answering questions</a>
 
 ## Week 7 (2/18 and 2/20)
 Assignment of project
