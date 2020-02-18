@@ -45,5 +45,3 @@ excerpt: "Anderson Data Science Research Lab."
 * Weight: 15% of your project grade
 * Each team will submit a final project report (ipynb format) (and associated code)
 * Graded based on technical quality, presentation, and readability.
-
-Students will work in small teams of up to 3 people on a KDD project of your choosing. More details will be posted later in the quarter.
