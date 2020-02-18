@@ -78,7 +78,11 @@ Assignment of project
 
 Chapter 6 - Dimensionality reduction
 
-Lab 6 - Clustering and Report
+<a href="/csc_466_2020_winter/pca_notes.ppt">PCA Notes</a>
+
+<a href="/csc_466_2020_winter/pca_worksheet.docx">PCA Worksheet</a>
+
+No official class on Thursday (Out of town)
 
 ## Week 8 (2/25 and 2/27)
 <a href="/csc_466_2020_winter/CF_AdaptiveWeb_2006.pdf">Collaborative Filtering</a>
