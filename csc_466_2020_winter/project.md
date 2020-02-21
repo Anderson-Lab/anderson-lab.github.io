@@ -26,11 +26,13 @@ excerpt: "Anderson Data Science Research Lab."
 
 ## Step 3 (Formulate a project proposal)
 * Weight: 10% of your project grade
-* Due: By the start of lab on Tuesday , 2/25
+* Due: By the start of lab on Tuesday, 2/25
 * This will be a presentation during lab to your fellow classmates.
 * Exact time for each presentation to be determined based on number of groups
 * Slides must be Google Slides and a link must be in your README.md file of your repo.
 * If your presentation is not approved, then you will get a 0% until it is approved (more info on this in class).
+* <a href="https://docs.google.com/presentation/d/1oKMsTXk5NauIilkKe2tVvZleuEkYZ_C_SHp2jUooaCA/edit?usp=sharing"Google Slide Template</a>
+* Your team will have 5 minutes max to present
 
 ## Step 4 (Progress every week)
 * Weight: 60% of your project grade

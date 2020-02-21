@@ -90,7 +90,7 @@ No official class on Thursday (Out of town)
 Lab 7 - Dimensionality reduction and report
 
 ## Week 9 (3/3 and 3/5)
-Graph Algorithms (https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/)
+Graph Algorithms (<a href="https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/">https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/</a>)
 
 Lab 8 - Collaborative Filtering and Report
 
