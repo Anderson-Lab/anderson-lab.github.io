@@ -87,16 +87,16 @@ No official class on Thursday (Out of town)
 ## Week 8 (2/25 and 2/27)
 <a href="/csc_466_2020_winter/CF_AdaptiveWeb_2006.pdf">Collaborative Filtering</a>
 
-Lab 7 - Dimensionality reduction and report
+<a href="https://classroom.github.com/a/TJTLt30f">Lab 5 - Clustering and its uses</a>
 
 ## Week 9 (3/3 and 3/5)
 Graph Algorithms (<a href="https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/">https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/</a>)
 
-Lab 8 - Collaborative Filtering and Report
+Lab 6 - Collaborative Filtering and Report
 
 ## Week 10 (3/10 and 3/12)
-Lab 9 - Graph Algorithms and Page Rank and Report
+Lab 7 - Graph Algorithms and Page Rank and Report
 
-Lab 10 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
+Lab 8 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
 
 Thursday 3/12 - Exam 2
