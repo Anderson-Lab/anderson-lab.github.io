@@ -100,3 +100,7 @@ Lab 7 - Graph Algorithms and Page Rank and Report
 Lab 8 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
 
 Thursday 3/12 - Exam 2
+
+# Other
+Useful material not covered directly above.
+* <a href="http://karpathy.github.io/2019/04/25/recipe/">Neural Network Hacking Recipe</a>
