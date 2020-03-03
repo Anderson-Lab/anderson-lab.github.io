@@ -92,7 +92,7 @@ No official class on Thursday (Out of town)
 ## Week 9 (3/3 and 3/5)
 Graph Algorithms (<a href="https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/">https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/</a>)
 
-Lab 6 - Collaborative Filtering and Report
+<a href="https://classroom.github.com/a/hHC2sNef">Lab 6 - Collaborative Filtering and Report</a>
 
 ## Week 10 (3/10 and 3/12)
 Lab 7 - Graph Algorithms and Page Rank and Report
