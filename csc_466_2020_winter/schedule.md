@@ -92,9 +92,13 @@ No official class on Thursday (Out of town)
 ## Week 9 (3/3 and 3/5)
 Graph Algorithms (<a href="https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/">https://learning.oreilly.com/library/view/graph-algorithms/9781492047674/</a>)
 
+<a href="https://docs.google.com/document/d/1hwhiL7i_0HypgE3_YsDU6iw430xeqPfSeSigLrpaFgc/edit?usp=sharing">In class activity</a>
+
 <a href="https://classroom.github.com/a/hHC2sNef">Lab 6 - Collaborative Filtering and Report</a>
 
 ## Week 10 (3/10 and 3/12)
+PageRank
+
 Lab 7 - Graph Algorithms and Page Rank and Report
 
 Lab 8 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
