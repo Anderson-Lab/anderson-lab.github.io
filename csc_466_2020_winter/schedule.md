@@ -99,9 +99,13 @@ Graph Algorithms (<a href="https://learning.oreilly.com/library/view/graph-algor
 ## Week 10 (3/10 and 3/12)
 PageRank
 
-Lab 7 - Graph Algorithms and Page Rank and Report
+<a href="https://classroom.github.com/a/3Lkpo1o5">Lab 7 - Graph Algorithms and Page Rank and Report</a>
 
-Lab 8 - Ethics of KDD sourced opinion column (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
+<a href="https://classroom.github.com/a/qsVjL9Nr">Lab 8 - Ethics of KDD sourced opinion column</a> (<a href="https://www.bloomberg.com/authors/ATFPV0aLyJM/catherine-h-oneil">Examples</a>)
+* This lab is worth 10 points.
+* Write a 1-2 report on an issue related to the use or misuse of KDD methods.
+* You may state your opinion, but your opinions should be supported by logic which should be supported by sources.
+* You must have at least three distinct sources (just put the links to them at the end and they don't count in terms of pages :)
 
 Thursday 3/12 - Exam 2
 
