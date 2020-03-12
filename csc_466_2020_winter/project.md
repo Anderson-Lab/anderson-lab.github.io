@@ -41,7 +41,7 @@ excerpt: "Anderson Data Science Research Lab."
 ## Step 5 (Final presentation)
 * Weight: 15% of your project grade
 * Each team will make a final presentation that will be graded for quality and clarity
-* Given during final exam time
+* Instead of an in person gathering, each team will record and publish online a video with audio over slides (i.e., capture your screen). Groups can decide to have a single video in which everyone speaks or individual videos where the same slides are used but each team member produces their own audio. You must include a link to your video in the README.md of your repo. I MUST be able to access the link without a password. Make sure it is obvious who produced the video (First and Last Name).
 
 ## Step 6 (Final report)
 * Weight: 15% of your project grade
