@@ -15,8 +15,8 @@ excerpt: "Anderson Data Science Research Lab."
 # Schedule
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 * Monday
-- Labs and materials will be updated by instructor.
-- Best day for Zoom appointments (if desired)
+    * Labs and materials will be updated by instructor.
+    * Best day for Zoom appointments (if desired)
 
 ## General Weekly Structure
 
