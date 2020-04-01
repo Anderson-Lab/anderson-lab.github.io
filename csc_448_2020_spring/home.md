@@ -45,8 +45,8 @@ CSC 349
 I recognize that students are often able to complete a course without buying a book, but this quarter is different.
 With all of your classes being online, I recommend you buy all of your books.
 <a href="https://www.bioinformaticsalgorithms.org/">The author has a wonderful website (in comparison to others).</a> They provide a few
-of the chapters free of charge. Unfortunately, they do not yet have all the chapters. You will struggle in this course
-if you do not have a copy of the textbook.
+of the chapters free of charge. Unfortunately, they do not yet have all the chapters. You will struggle in this course during some weeks
+if you do not have a copy of the textbook. I have tried to pick chapters for the first two weeks that fit our goals and are online.
 
 Phillip Compeau, Pavel Pevzner, Bioinformatics Algorithms: An Active
 Learning Approach, Active Learning Publishers, 3rd Edition
@@ -63,8 +63,8 @@ Weekly participation: 15%
 * Monday (9-9:50 AM) (8%)
     * Synchronous Zoom interaction between 9-9:50 AM PST
     * Our most important synchronous activity of the week!
-    * Students will be divided equally into five groups for smaller breakout Zoom meetings
-    * I (instructor) will spend 10 minutes with each of the five groups from 9 - 9:50 AM
+    * Students will be divided equally into five groups for smaller breakout Zoom meetings (starting week 2)
+    * I (instructor) will spend 10 minutes with each of the five groups from 9 - 9:50 AM (starting week 2)
     * The point of this synchronous interaction is less about content delivery and more about forming a community. Consider it a time for discussion.
     * If you make and participate in all 8 synchronous discussions, you will receive 8/8.
 * Monday (10 - 10:50) (2%)
@@ -93,9 +93,6 @@ our class.
     * A student makes good progress on each week's assignment. The resulting score for the project may be between 12/15-15/15 depending on quality, accuracy, organization, etc.
     * A student makes intermittent progress and effort for most of the weeks. The resulting score for the project may be between 5-12 depending on quality, accuracy, organization, etc.
     * Anything less than this will result in 0/12.
-
-## Attendance
-Attendance will not be recorded each class.
 
 ## Late Policy
 No late days will be allowed.
