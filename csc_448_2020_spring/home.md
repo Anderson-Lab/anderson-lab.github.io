@@ -72,9 +72,9 @@ Weekly participation: 15%
     * If you stay online with your group for the lab to continue the discussions on at least 4 weeks, then you will get 1/2.
     * Anything less than 4 weeks of Monday lab activity will result in a 0/2.
 * Wednesday and Friday (9-11 AM) (5%)
-    * If you are active on our Teams group throughout the week but especially during this time, you will get 5/5.
-    * If you are not that active on our Teams group throughout the week, then you will get 2/5.
-    * If you are mostly absent from our Teams group, then you will get 0/5.
+    * If you are active on Canvas throughout the week but especially during this time, you will get 5/5.
+    * If you are not that active on Canvas throughout the week, then you will get 2/5.
+    * If you are mostly absent from Canvas, then you will get 0/5.
 
 **Important to recap:** Labs and assignments are fully asynchronous and individual. Though you may use Teams group or Canvas discussions
 to communicate. Monday is our most important day for synchronous communication. If you complete all labs and assignments fully and you participate in this class as

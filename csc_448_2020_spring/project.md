@@ -14,4 +14,7 @@ excerpt: "Anderson Data Science Research Lab."
 
 # Project
 Every week we will apply the previous weeks conventional lab material to studying the novel coronavirus.
-The first week will focus more on what data is available at present though more data is coming out everyday.
+The first week will focus more on what data is available at present.
+
+## Website
+There is a separate website for this project located at <a href="https://anderson-github-classroom.github.io/csc-448-project/">https://anderson-github-classroom.github.io/csc-448-project/</a>
