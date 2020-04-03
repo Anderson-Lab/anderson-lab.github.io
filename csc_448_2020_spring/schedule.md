@@ -37,8 +37,11 @@ fill in material from previous chapters on the fly. Most of each chapter stands 
 
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
-## Week 1 (Staring Monday 4/6)
+## Synchronous Zoom Meetings
+* <a href="https://calpoly.zoom.us/j/512300575?pwd=ZkV5TURtS210YTFJSWE1cWNHN3I4QT09">4/6 - Syllabus and Discussion</a>
+* <a href="https://nbviewer.jupyter.org/github/anderson-github-classroom/csc-448-student/blob/master/groups/Assignments.ipynb">Weekly group meetings</a>
 
+## Week 1 (Staring Monday 4/6)
 Syllabus
 * <a href="">Introduction Video</a>
 * <a href="https://classroom.github.com/a/J7LtoHmW">Syllabus Assignment</a>

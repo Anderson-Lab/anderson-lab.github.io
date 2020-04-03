@@ -26,7 +26,7 @@ Office: 222 Building 14
 
 Office hours:
 * By appointment (email)
-* Mondays at 12 - 3 PM PST. <a href="https://calpoly.zoom.us/j/342535173">Zoom link</a>
+* Mondays at 12 - 3 PM PST. <a href="https://calpoly.zoom.us/j/342535173?pwd=N1pYQ1NZbTJEbnNlYW5uck82UDI4UT09">Zoom link</a>
 
 ## Graders
 Viet Nguyen
@@ -72,11 +72,11 @@ Weekly participation: 15%
     * If you stay online with your group for the lab to continue the discussions on at least 4 weeks, then you will get 1/2.
     * Anything less than 4 weeks of Monday lab activity will result in a 0/2.
 * Wednesday and Friday (9-11 AM) (5%)
-    * If you are active on Canvas throughout the week but especially during this time, you will get 5/5.
-    * If you are not that active on Canvas throughout the week, then you will get 2/5.
-    * If you are mostly absent from Canvas, then you will get 0/5.
+    * If you are active on Canvas/Slack throughout the week but especially during this time, you will get 5/5.
+    * If you are not that active on Canvas/Slack throughout the week, then you will get 2/5.
+    * If you are mostly absent from Canvas/Slack, then you will get 0/5.
 
-**Important to recap:** Labs and assignments are fully asynchronous and individual. Though you may use Teams group or Canvas discussions
+**Important to recap:** Labs and assignments are fully asynchronous and individual. Though you may use Slack or Canvas discussions
 to communicate. Monday is our most important day for synchronous communication. If you complete all labs and assignments fully and you participate in this class as
 described above, you can achieve 85% in this class (i.e., you get a B). So how do you go for the A?
 

@@ -17,3 +17,7 @@ excerpt: "Anderson Data Science Research Lab."
 
 # GitHub classroom
 We will use GitHub classroom to manage all turn in procedures. Links to assignments will be provided on the schedule.
+
+# Slack and Canvas
+We will use both Slack and Canvas. Please check Canvas for high priority announcements and official grades. Slack is a better
+platform for more frequent and casual communication.
