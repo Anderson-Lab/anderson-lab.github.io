@@ -50,8 +50,8 @@ Syllabus
 Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos?wix-vod-comp-id=comp-k75quwn2">Author video</a>
-* <a href="">Instructor video</a>
-* <a href="">Lab 1</a>
+* <a href="https://calpoly.zoom.us/rec/share/98NFDerVyE5OToHo0waHZJIQHt3Leaa81iMa8vRfzEmh4phHc2d86hh8lvi_Z7Gh">Instructor video</a>
+* <a href="https://classroom.github.com/a/UidIWEJm">Lab 1</a>
 * <a href="">Project 1</a>
 
 ## Week 2 (Staring Monday 4/13)
