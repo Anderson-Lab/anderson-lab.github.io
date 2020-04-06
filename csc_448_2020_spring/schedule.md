@@ -114,4 +114,4 @@ Chapter 8 - How did yeast become a winemaker?
 
 # Other
 Useful material not covered directly above.
-* https://covid19.galaxyproject.org/
+* <a href="https://covid19.galaxyproject.org/">https://covid19.galaxyproject.org/</a>
