@@ -52,7 +52,7 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos?wix-vod-comp-id=comp-k75quwn2">Author video</a>
 * <a href="https://calpoly.zoom.us/rec/share/98NFDerVyE5OToHo0waHZJIQHt3Leaa81iMa8vRfzEmh4phHc2d86hh8lvi_Z7Gh">Instructor video</a>
 * <a href="https://classroom.github.com/a/UidIWEJm">Lab 1</a>
-* <a href="">Project 1</a>
+* <a href="https://nbviewer.jupyter.org/github/anderson-github-classroom/csc-448-student/blob/master/project/Project1.ipynb">Project 1</a>
 
 ## Week 2 (Staring Monday 4/13)
 Chapter 7 - Which animal gave us SARS?
