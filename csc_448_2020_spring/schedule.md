@@ -45,7 +45,7 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 Syllabus
 * <a href="https://calpoly.zoom.us/rec/share/ysFSJJzO2F9JXIGdx3nnf_YQMILrX6a8hnUa_6ZfxUqjgx6AnKeSbpB3twVncZBf">Introduction Video</a>
 * <a href="https://classroom.github.com/a/J7LtoHmW">Syllabus Assignment</a>
-    * <a href="https://calpoly.zoom.us/rec/share/6PQoHpDu5zJIXo3050jzeKMMHLvdT6a8gyUa-6FYyk7B1bUtphMMMYvMDjIpgIja">Video instructions</a>
+    * <a href="https://calpoly.zoom.us/rec/play/uZN8JOug_D83HYWX4gSDV6B_W460KqisgyIX-PsNyBu3WyQHMQbwYbsXMbRLKZ19azo9MByKW42VEqYy">Video instructions</a>
 
 Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
