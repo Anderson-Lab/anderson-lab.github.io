@@ -14,7 +14,7 @@ excerpt: "Anderson Data Science Research Lab."
 5. [Deadlines](/csc_448_2020_spring/deadlines/)
 6. [Corrections](/csc_448_2020_spring/corrections/)
 
-# Deadlines
+# Corrections
 **Disclaimer:** This page is manually updated manually, so please check the last updated date.
 
 **Last updated date:** 4/8/20
