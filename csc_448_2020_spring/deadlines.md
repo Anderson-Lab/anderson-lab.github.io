@@ -12,6 +12,7 @@ excerpt: "Anderson Data Science Research Lab."
 3. [Technology](/csc_448_2020_spring/technology/)
 4. [Project](/csc_448_2020_spring/project/)
 5. [Deadlines](/csc_448_2020_spring/deadlines/)
+6. [Corrections](/csc_448_2020_spring/corrections/)
 
 # Deadlines
 **Disclaimer:** This page is manually updated manually, so please check the last updated date.
