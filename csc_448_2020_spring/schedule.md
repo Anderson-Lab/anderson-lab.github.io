@@ -60,9 +60,10 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 Chapter 7 - Which animal gave us SARS?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="">Instructor video</a>
-* <a href="">Lab 1</a>
-* <a href="">Project 1</a>
+* <a href="https://calpoly.zoom.us/rec/share/vMJ4C5P3rk9IEtLg4gKHQrE6F9m1X6a81SQW__QExE40Kw1FT0EO8Nt_U6b_scWY">Instructor video</a>
+* <a href="https://www.youtube.com/watch?v=HjDz2ak5BUk">Another video by textbook authors about additive evolutionary tree construction</a>
+* <a href="https://classroom.github.com/a/oos90YDY">Lab 2</a>
+* <a href="">Project 2</a>
 
 ## Week 3 (Staring Monday 4/20)
 Chapter 3 - How do we assemble genomes?
