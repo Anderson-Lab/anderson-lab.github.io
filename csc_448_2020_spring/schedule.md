@@ -41,6 +41,7 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 
 ## Synchronous Zoom Meetings
 * <a href="https://calpoly.zoom.us/j/512300575?pwd=ZkV5TURtS210YTFJSWE1cWNHN3I4QT09">4/6 - Syllabus and Discussion</a>
+* <a href="https://calpoly.zoom.us/j/95497024735?pwd=OUlMcXUrd1RXRHBpa21QcHZaZXU2UT09">Weekly Monday morning zoom link.</a> Password in Canvas, and you will be auto-assigned to breakout groups./a>
 * <a href="https://nbviewer.jupyter.org/github/anderson-github-classroom/csc-448-student/blob/master/groups/Assignments.ipynb">Weekly group meetings</a>
 
 ## Week 1 (Staring Monday 4/6)
