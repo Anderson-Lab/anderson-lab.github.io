@@ -71,8 +71,9 @@ Chapter 3 - How do we assemble genomes?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-3">Online chapter</a>
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
 * <a href="">Instructor video</a>
-* <a href="">Lab 3</a>
-* <a href="">Project 3</a>
+* <a href="https://www.youtube.com/watch?v=9O3hAXp8gdM">String reconstruction video by book authors</a>. They have more videos on Youtube from the chapter as well.
+* <a href="https://classroom.github.com/a/sWBtFIJ1">Lab 3</a>
+* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project3.ipynb">Project 3</a>
 
 ## Week 4 (Staring Monday 4/27)
 Chapter 5 - How do we compare DNA sequences?
