@@ -78,9 +78,9 @@ Chapter 3 - How do we assemble genomes?
 ## Week 4 (Staring Monday 4/27)
 Chapter 5 - How do we compare DNA sequences?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="">Instructor video</a>
-* <a href="">Lab 4</a>
-* <a href="">Project 4</a>
+* <a href="https://calpoly.zoom.us/rec/share/7851LbPSyEhIYKfKr2XEWIMRD7zUT6a8hiRLrPdZmUr6yMkEbpS4_FJoSw6MNoyR">Instructor video</a>
+* <a href="https://classroom.github.com/a/hipofC_F">Lab 4</a>
+* <a href="">No project 4 - Gap week to catch up</a>
 
 ## Week 5 (Staring Monday 5/4)
 Chapter 10 - Why have biologists still not developed an an HIV vaccine?
