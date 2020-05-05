@@ -86,7 +86,7 @@ Chapter 5 - How do we compare DNA sequences?
 Chapter 10 - Why have biologists still not developed an an HIV vaccine?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
 * <a href="">Instructor video</a>
-* <a href="">Lab 5</a>
+* <a href="https://classroom.github.com/a/Um18XKq3">Lab 5</a>
 * <a href="">Project 5</a>
 
 ## Week 6 (Staring Monday 5/11)
