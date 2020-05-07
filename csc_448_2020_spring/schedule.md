@@ -87,7 +87,7 @@ Chapter 10 - Why have biologists still not developed an an HIV vaccine?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
 * <a href="https://calpoly.zoom.us/rec/share/zPRPM-iz7SBLaKviwn3URaErGYDVeaa8gyZN-qJcxBuMOgsL6NqRoEwrnQQ8-8HZ">Instructor video</a>
 * <a href="https://classroom.github.com/a/Um18XKq3">Lab 5</a>
-* <a href="">Project 5</a>
+* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project5.ipynb">Project 5</a>
 
 ## Week 6 (Staring Monday 5/11)
 Chapter 9 - How do we locate disease-causing mutations?
