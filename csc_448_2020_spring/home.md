@@ -28,7 +28,7 @@ Office: 222 Building 14
 
 Office hours:
 * By appointment (email)
-* Mondays at 12 - 3 PM PST. <a href="https://calpoly.zoom.us/j/342535173?pwd=N1pYQ1NZbTJEbnNlYW5uck82UDI4UT09">Zoom link</a>
+* Mondays at 12 - 3 PM PST. <a href="https://calpoly.zoom.us/j/296086783">Zoom link</a>
 
 ## Graders
 Viet Nguyen
