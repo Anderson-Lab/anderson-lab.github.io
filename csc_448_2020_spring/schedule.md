@@ -92,9 +92,9 @@ Chapter 10 - Why have biologists still not developed an an HIV vaccine?
 ## Week 6 (Staring Monday 5/11)
 Chapter 9 - How do we locate disease-causing mutations?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="">Instructor video</a>
-* <a href="">Lab 6</a>
-* <a href="">Project 6</a>
+* <a href="https://calpoly.zoom.us/rec/share/5vRXI5fW8H5LHLfCrxrOXZIfMLXJaaa8gHAYq6Bcy0nZpYrOoFoCsrtWb7rpTmhb">Instructor video</a>
+* <a href="https://classroom.github.com/a/Gm6BwNIA">Lab 6</a>
+* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project5.ipynb">Project 6 (continuation of Project 5)</a>
 
 ## Week 7 (Staring Monday 5/18)
 Chapter 11 - Was T. Rex just a big chicken?
