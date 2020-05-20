@@ -99,8 +99,8 @@ Chapter 9 - How do we locate disease-causing mutations?
 ## Week 7 (Staring Monday 5/18)
 Chapter 11 - Was T. Rex just a big chicken?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="">Instructor video</a>
-* <a href="">Lab 7</a>
+* <a href="https://calpoly.zoom.us/rec/share/1-otaLKgyE5OY7Pr4kjTGZQKHoDXeaa8hikfrvVczxrouHCT42GxsgPNAPzYadwG">Instructor video</a>
+* <a href="https://classroom.github.com/a/Enq74Tu0">Lab 7</a>
 * <a href="">Project 7</a>
 
 ## Week 8 (Staring Monday 5/25)
