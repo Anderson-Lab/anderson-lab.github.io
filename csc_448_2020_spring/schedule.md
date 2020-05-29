@@ -107,15 +107,12 @@ Chapter 11 - Was T. Rex just a big chicken?
 Chapter 6 - Are there fragile regions in the human genome?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
 * <a href="">Instructor video</a>
-* <a href="">Lab 8</a>
-* <a href="">Project 8</a>
+* <a href="https://classroom.github.com/a/5n-8dPkF">Lab 8</a>
+* Project: From here on out, please contribute to our combined project effort in the many ways outlined during this quarter.
 
 ## Week 9 (Staring Monday 6/1)
-Chapter 8 - How did yeast become a winemaker?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="">Instructor video</a>
-* <a href="">Lab 9</a>
-* <a href="">Project 9</a>
+Chapter 6 and Project
+* Project: From here on out, please contribute to our combined project effort in the many ways outlined during this quarter.
 
 # Other
 Useful material not covered directly above.
