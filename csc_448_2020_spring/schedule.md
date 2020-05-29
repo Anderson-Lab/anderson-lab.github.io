@@ -106,7 +106,7 @@ Chapter 11 - Was T. Rex just a big chicken?
 ## Week 8 (Staring Monday 5/25)
 Chapter 6 - Are there fragile regions in the human genome?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="">Instructor video</a>
+* <a href="https://calpoly.zoom.us/rec/share/65QqIuHLrWlJW9bj5FiBVo14I4jlaaa81CkbrPdfzRtuCg206uN7mY-6vSYhFUgl">Instructor video</a>
 * <a href="https://classroom.github.com/a/5n-8dPkF">Lab 8</a>
 * Project: From here on out, please contribute to our combined project effort in the many ways outlined during this quarter.
 
