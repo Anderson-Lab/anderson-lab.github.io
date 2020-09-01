@@ -28,7 +28,8 @@ Office: 222 Building 14
 
 Office hours:
 * By appointment (email)
-* MWF at 1:10 - 2:10 PM PST. <a href="">My virtual office door</a>
+* M and F at 1:00 - 2:00 PM PST. <a href="https://calpoly.zoom.us/j/95513977473?from=msft">My virtual office door</a>
+* W at 12:00 - 1:00 PM PST. <a href="https://calpoly.zoom.us/j/95513977473?from=msft">My virtual office door</a>
 
 ## Graders
 None
@@ -50,19 +51,19 @@ Phillip Compeau, Pavel Pevzner, Bioinformatics Algorithms: An Active
 Learning Approach, Active Learning Publishers, 3rd Edition
 
 ## Grading
-All grades are subject to being prorated due to illness. For example, if you are sick for a week, you will not have to make up that week. Your grade will just be computed out of fewer total points.
+All grades are subject to being prorated due to illness. For example, if you are sick for a week, you will not have to make up that week. Your grade will just be computed out of fewer total points. You are responsible for making sure that this is correctly reflected in Canvas. Canvas is our official record of grades. Missing weeks will be indicated not with a 0, but with a -1. Your final grade calculations is not correct in Canvas. This is for several reasons. I always calculate the final grades in Excel which allows me to handle absences because of illness, etc. This will allow me to calculate
 
 Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mastery learning</a>
 * I approach grading as student focused. I don't believe students should be penalized if it takes them two weeks to do an assignment when other students can finish it in a week.
 * I enjoy a challenge, and I want you to enjoy a challenge as well. I want students to say. "Wow. This is challenging and that is what makes it fun".
 * This is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
-* A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To double my efforts to push myself and not just choose things that are easy for me. Choose the path that is hard.
+* A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
 Labs and assignments: 60% (A new lab is posted each week)
 * The primary form of labs and assignments will be programming exercises that are supported by the textbook which is supplemented by videos.
 * Labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on the schedule.
-* Because a new lab is posted every week, I put a suggested deadline of one week, but as stated above, submitting late will not affect your grade.
-* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 65%.
+* Because a new lab is posted every week, I put a suggested deadline of one week, but as stated above, submitting late will not affect your grade. I do hope to automatically generate reports for each student each week to help you monitor your progress. Technical difficulties will of course arrive and be ironed out with such a system.
+* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 65%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 25%
 * We have arranged a menu based project for you. Meaning you may choose one but not more than one of the following options.
@@ -77,7 +78,7 @@ it to someone else. In this case, you'll be asked to create self-driven tutorial
 * Project Option C: Choose your own adventure. You may have an ongoing project that can fit this category. You may seek project suggestions from
 your instructors. The one rule for this option is it must be approved by the end of Week 3.
 * For this project, we will have one "bean counting" exercise. Your group must post on Flipgrid once a week. This regular posting is worth 5% out of the total 25% of the project.
-* Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with two preliminary grades (not binding) based on your project. 
+* Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with two preliminary grades (not binding) based on your project.
 
 Participation: 15%
 * We will be conducting this class using the platform known as Slack.
@@ -110,5 +111,5 @@ In the spirit of educational equity, and in acknowledgement of the significant w
 
 Cal Poly is an inclusive community that embraces differences in people and thoughts. By being open to new ideas and showing respect for diverse points of view, we support a climate that allows all students, faculty, and staff to feel valued, which in turn facilitates the recruitment and retention of a diverse campus population. We are a culturally invested university whose members take personal responsibility for fostering excellence in our own and others’ endeavors. To this end, we support an increased awareness and understanding of how one’s own identity facets (such as race, ethnicity, gender, sexual orientation, religion, age, disability, social class, and nation of origin) and the combinations of these identities and experiences that may accompany them can affect our different worldviews.
 
-## Disability Accomodations
+## Disability Accommodations
 Any student who feels he or she may need an accommodation based on the impact of a disability should contact me individually to discuss your specific needs. Also, please contact the Disability Resource Center: [https://drc.calpoly.edu/content/drc-services](https://drc.calpoly.edu/content/drc-services).

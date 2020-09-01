@@ -25,6 +25,7 @@ In my experience, here are some keys to successful student research and mentorin
 The best and most straightforward way to join the lab is to take one of my courses. But that's not always possible due to scheduling. The next best thing is to work on building your technical expertise in programming, statistics, mathematics, and all related subjects. I really enjoy working with students for multiple years, so please come and find me as early in your education as possible. We may not jump right into a project, but we can discuss how best to prepare for research. That brings me to my last point, which is to just come and talk to me. I'm always excited to talk about mentoring and research.
 
 ## Course Archive
+* <a href="/csc_448_2020_fall/">CSC 448 - Bioinformatics Algorithms, Fall 2020</a>
 * <a href="/csc_448_2020_spring/">CSC 448 - Bioinformatics Algorithms, Spring 2020</a>
 * <a href="/csc_466_2020_winter/">CSC 466 - KDD, Winter 2020</a>
 * <a href="/data_301_2019_fall/">DATA 301 - Intro to Data Science, Fall 2019</a>
