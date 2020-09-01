@@ -17,4 +17,7 @@ excerpt: "Anderson Data Science Research Lab."
 # Deadlines
 **Disclaimer:** This page is manually updated manually, so please check the last updated date.
 
-<a href="https://nbviewer.jupyter.org/github/anderson-github-classroom/csc-448-student/blob/master/deadlines.ipynb">Deadlines</a>
+Please see GitHub classroom for suggested deadlines for labs.
+
+## TODO
+Put down project deadlines.
