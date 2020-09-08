@@ -16,5 +16,3 @@ excerpt: "Anderson Data Science Research Lab."
 
 # Corrections
 **Disclaimer:** This page is manually updated manually, so please check the last updated date.
-
-**Last updated date:** 4/8/20

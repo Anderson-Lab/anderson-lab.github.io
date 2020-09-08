@@ -27,14 +27,12 @@ We have arranged a menu based project for you. Meaning you may choose one but no
 All projects are student centered and student driven. We are not assigning or pushing structure upon you. Mastery is only achieved
 on the project by taking ownership of your learning through knowledge creation.
 
-## TODO
-Figure out groups on flipgrid. Should we just have one person post? I would rather they each have to post each week. Then maybe name the videos with Group Name - Individual Name. I don't know...
-
 ## FAQ
 1. Do we have to work in a group? - Working in a group is required to demonstrate mastery of student learning outcome #5.
 2. Can I switch my project? - Yes, but the exception is project option C, which requires instructor approval. No approval will be
 considered after week 3 ends. You are always free to move from option A to B and back. At the end of the quarter, your official grade
 will only be for one project though, so switching will make more work for yourself.
+3. Can my group post a single update? No. It's important for everyone to have a chance to represent the progress in their own words. Of course you can share whatever makes sense in terms of preparing, but the actual video must be individual.
 
 ## Project Option A
 Large group based COVID19 bioinformatics research project. Students opting for this option will function as a
