@@ -84,7 +84,8 @@ Participation: 15%
 * We will be conducting this class using a variety of technologies (Zoom, Flipgrid,etc). For communication, we will using the platform known as Slack.
 * You are expected to communicating with your instructors and class using this platform.
 * Mastery will be measured by examining Slack history. Slack allows us to download and organize all of your individual contributions.
-* We won't be bean counting (i.e., you have to post X times per week). Instead, we will provide you with two preliminary grades (not binding) based on your demonstrated communication.
+* Mastery will also be measured through the "Oxford style" tutorials. See schedule for more details. These small groups sessions are required, and your attendance in them will amount to 5% of your overall 15% participation score.
+* Apart from the "Oxford style" tutorials, we won't be bean counting (i.e., you have to post X times per week). Instead, we will provide you with two preliminary grades (not binding) based on your demonstrated communication.
 * Your final participation score will only be determined at the end of the quarter.
 
 Overall, we are trying to encourage a growth mindset. Take time to master things. Work on improving what you aren't good at. Maybe that is communication.

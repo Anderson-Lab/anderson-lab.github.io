@@ -25,9 +25,10 @@ We have as much as possible designed each week to be consistent and structured t
 Here are specific take home details:
 
  2:10 - 3 PM on Monday (Group 1) and Wednesday (Group 2):  Tutorials and Guest Speakers
+ * Tutorials and guest speakers will be shared event with Bioinformatics Applications (taught by Dr. Jean Davidson)
  * Students will be placed in either Group 1 that meets Monday or Group 2 that meets Wednesday.
  * You only attend on Monday OR Wednesday. Not both. The content will be repeated.
- * We are divided to reduce the number of students on Zoom
+ * We are divided to reduce the number of students on Zoom.
 
  3 - 3:10 PM on Monday, Wednesday, and Friday: Get up and stretch. Move around. Get coffee, etc.
 
@@ -38,10 +39,13 @@ Here are specific take home details:
  * "Student tutorials are generally more academically challenging and rigorous than standard lecture and test format courses, because during each session students are expected to orally communicate, defend, analyse, and critique the ideas of others as well as their own in conversations with the tutor and fellow students" - https://en.wikipedia.org/wiki/Tutorial_system
  * I am in the tutorial to facilitate and not to lead.
  * They are graded for attendance.
+ *
 
  2:10 - 3 + break + 3:10 - 4 PM: Our most traditional structure
- * Entire session is recorded, but encourage those who want a synchronous class structure to attend
- * Our general structure is lecture with discussion followed by discussion once the lecture portion is finished
+ * Specific portions will be recorded, but encourage those who want a synchronous class structure to attend.
+ * The reason to record smaller portions instead of the entire session is that research basically shows that smaller
+ recordings are more educational.
+ * Our general structure is (topic 1 + discussion 1) + (topic 2 + discussion 2) + ... + (topic n + discussion n). Once this pattern is completed for the day, then we will have open discussion until the end of our official time.
  * The lecture portion may vary from week to week, but I do not expect to lecture for near two hours straight
 
 If we support one another during this time, I honestly believe we
@@ -50,6 +54,8 @@ Scheduling chaos will enter my world as I know it will enter into your world as 
 and student/instructor second.
 
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
+
+## Below this line needs to be updated
 
 ## Synchronous Zoom Meetings
 * <a href="https://calpoly.zoom.us/j/512300575?pwd=ZkV5TURtS210YTFJSWE1cWNHN3I4QT09">4/6 - Syllabus and Discussion</a>
