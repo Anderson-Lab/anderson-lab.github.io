@@ -1,0 +1,467 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>Bioinformatics Algorithms Fall 2020 - Anderson Data Science Lab</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Anderson Data Science Lab">
+<meta property="og:title" content="DATA 301 - Introduction to data science">
+
+
+  <link rel="canonical" href="http://localhost:4000/data_301_2019_fall/">
+  <meta property="og:url" content="http://localhost:4000/data_301_2019_fall/">
+
+
+
+  <meta property="og:description" content="Anderson Data Science Research Lab.">
+
+
+
+
+
+  
+
+  
+
+
+
+  <meta property="og:image" content="http://localhost:4000/images/Paul-labs-logo.png">
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://localhost:4000",
+      "logo": "http://localhost:4000/images/Paul-labs-logo.png"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Paul Anderson",
+      "url" : "http://localhost:4000",
+      "sameAs" : ["https://twitter.com/dataatcofc","https://compsci.cofc.edu","https://data.cofc.edu"]
+    }
+  </script>
+
+
+
+  <meta name="google-site-verification" content="UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y" />
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="Anderson Data Science Lab Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="http://localhost:4000/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="http://localhost:4000/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="http://localhost:4000/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="http://localhost:4000/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="http://localhost:4000/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:4000/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="http://localhost:4000/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="http://localhost:4000/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="http://localhost:4000/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="http://localhost:4000/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--single">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">Anderson Data Science Lab</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/research/">Research</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/teaching_mentoring/">Teaching & Mentoring</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/people/">People</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/about/">About</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="http://localhost:4000/images/Paul-labs-logo.png" class="author__avatar" alt="Paul Anderson">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Paul Anderson</h3>
+    <p class="author__bio">Associate Professor</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> San Luis Obispo, CA</li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/anderson-lab"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="DATA 301 - Introduction to data science">
+    <meta itemprop="description" content="Anderson Data Science Research Lab.">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">DATA 301 - Introduction to data science
+</h1>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+<h1 id="table-of-contents">Table of contents</h1>
+<ol>
+  <li><a href="/data_301_2019_fall/">Syllabus</a></li>
+  <li><a href="/data_301_2019_fall/schedule/">Schedule</a></li>
+  <li><a href="/data_301_2019_fall/technology/">Technology</a></li>
+  <li><a href="/data_301_2019_fall/project/">Project</a></li>
+</ol>
+
+<p><a name="syllabus"></a></p>
+<h1 id="syllabus">Syllabus</h1>
+<h2 id="course-information">Course Information</h2>
+<p>Lecture meeting: 9:40-11 AM in 20-140 (Engineering East)</p>
+
+<p>Lab meeting: 12:10 - 1:30 PM in 192-206 (Engineering IV)</p>
+
+<h2 id="professor-information">Professor Information</h2>
+<p>Paul Anderson, PhD</p>
+
+<p>Email: pander14@calpoly.edu</p>
+
+<p>Office: 222 Building 14</p>
+
+<p>Office hours:</p>
+<ul>
+  <li>Tuesday and Thursday from 11 - noon</li>
+  <li>Tuesday and Thursday from 1:30 - 2:30 PM</li>
+  <li>Wednesday from 12-1 (online only)</li>
+</ul>
+
+<h2 id="graders">Graders</h2>
+<p>TBD</p>
+
+<h2 id="course-prerequisites-and-goals">Course Prerequisites and Goals</h2>
+<p>Data science is often described as the intersection of computer science and statistics. While data science is much more than this, it is true that you need to know both computer science and statistics to be a successful data scientist. We assume that everyone has taken at least STAT 302/312 and CPE 102.</p>
+
+<p>This class is taught in Python, which for most of you was the language that was used in CPE 101. We will not go over basic Python syntax in this class. For example, I will assume that you know how lists and dicts are used in Python.  If you do not know Python or need a refresher, please go through the <a href="https://www.codecademy.com/learn/python">Codecademy</a> course.</p>
+
+<p>The type of programming you will be doing in this class is likely very different from the programming you do in CS classes.      Rather than writing long, complex programs and then testing them, you will constantly iterate between writing code and running it to see what it does.</p>
+
+<p>My goals for the lab and for the class in general are to incorporate as much active learning and learn by doing activities as possible. To accomplish this in class, we will utilize online videos, readings before class, etc. That being said, I will use at least a portion of almost every lecture to introduce the days topics and foster discussion.</p>
+
+<p>This course is not introduction to machine learning or artificial intelligence. We have other classes in this sequence that cover
+those topics. This course will treat machine learning as mostly a black box activity. Instead the focus is on data manipulation,
+summarization, processing, pipelining, analytics, etc.</p>
+
+<h2 id="course-learning-objectives">Course Learning Objectives</h2>
+<ol>
+  <li>
+    <p>Iden tify different types of data used in data science and know their proper esties</p>
+  </li>
+  <li>
+    <p>Write programs implemen ting key data manipula tion, management, and analy tic tasks</p>
+  </li>
+  <li>
+    <p>Choose techniques to solve common data analy tic tasks, and perform appropriate (simple) data analyses with given data</p>
+  </li>
+  <li>
+    <p>Visualize, demonstrate and explain the results of data analyses to customers/data owners</p>
+  </li>
+</ol>
+
+<h2 id="textbook-and-other-material">Textbook and Other Material</h2>
+<p>With few exceptions, all of our course content will be available on GitHub inside a GitHub repository: <a href="https://github.com/Anderson-Lab/data-301-student">https://github.com/Anderson-Lab/data-301-student</a>.</p>
+
+<p>JupyterHub: <a href="https://data301-f19.jupyter.sh">https://data301-f19.jupyter.sh</a></p>
+
+<p>GitHub Classroom Link (please link your Cal Poly email): <a href="https://classroom.github.com/a/IgvWJlmt">https://classroom.github.com/a/IgvWJlmt</a></p>
+
+<h2 id="grading">Grading</h2>
+<p>Labs: 20% (anything you don’t complete during lab is due before the next lab day)</p>
+
+<p>3 Exams: 30% (10% each)</p>
+
+<p>Final Project: 40%</p>
+
+<p>Reflections: 5%</p>
+
+<p>Participation: 5% (Measured via pop quizzes and subsequent discussion)</p>
+
+<h2 id="attendance">Attendance</h2>
+<p>Attendance will not be recorded each class. Attendance is reflected in your grade by
+completing the pop quizzes, which will be graded for effort.</p>
+
+<h2 id="late-policy">Late Policy</h2>
+<p>No late days will be allowed.</p>
+
+<h2 id="feedback-and-assessment">Feedback and Assessment</h2>
+<p>My goal is to have lab feedback provided to students each week on the prior week’s labs.</p>
+
+<p>Feedback on pop quizzes will be obtained immediately through discussion.</p>
+
+<p>Feedback on the final project will be available for pickup after the quarter is completed.</p>
+
+<p>Feedback on the exams will be provided within a week from completing the exams.</p>
+
+<h2 id="electronics-policy">Electronics Policy</h2>
+<p>No electronics are allowed to be used in the classroom during lecture.
+This includes phones, laptops and tablets.  If you have a good
+educational reason for using an electronic device during lecture, please
+see me.    Note – if your phone rings or beeps during lecture you should
+bring in cookies for the entire class.</p>
+
+<h2 id="grading-scale">Grading Scale</h2>
+<p>Grading Scale: A: 90-100; B: 80-89; C: 70-79; F: &lt;70. Plusses and minuses will be used at the discretion of the instructor.</p>
+
+<p>Grading Guidelines: Submitted work requires Analysis, Evaluation, and Creation of ideas, concepts, and materials into various deliverables (e.g., see revised Bloom’s Taxonomy and reference below).</p>
+
+<ul>
+  <li>The grade of A is for work that involves high-quality achievement in all three Bloom areas.</li>
+  <li>The grade of B is for work that involves high-quality achievement in at least two Bloom areas, and medium-level achievement in the other.</li>
+  <li>The grade of C is for work that involves high-quality achievement in at least one Bloom area, and medium-level achievement in the others.</li>
+  <li>The grade of F is for work that does not meet above criteria.</li>
+</ul>
+
+<p>Reference: Errol Thompson, Andrew Luxton-Reilly, Jacqueline L. Whalley, Minjie Hu, and Phil Robbins. 2008. Bloom’s taxonomy for CS assessment. In Proceedings of the tenth conference on Australasian computing education - Volume 78 (ACE ‘08), Simon Hamilton and Margaret Hamilton (Eds.), Vol. 78. Australian Computer Society, Inc., Darlinghurst, Australia, Australia, 155-161.</p>
+
+<p>Feedback will be given as quickly as possible with a goal of within a week of the assignment due date.</p>
+
+<h2 id="honor-code">Honor Code</h2>
+<p>Lying, cheating, attempted cheating, and plagiarism are violations of our Honor Code that, when identified, are investigated. Each instance is examined to determine the degree of deception involved.</p>
+
+<p>Incidents where the professor believes the student’s actions are clearly related more to ignorance, miscommunication, or uncertainty, can be addressed by consultation with the student. We will craft a written resolution designed to help prevent the student from repeating the error in the future. The resolution, submitted by form and signed by both the professor and the student, is forwarded to the Dean of Students and remains on file.</p>
+
+<p>Cases of suspected academic dishonesty will be reported directly to the Dean of Students. A student found responsible for academic dishonesty will receive a XF in the course, indicating failure of the course due to academic dishonesty. This grade will appear on the student’s transcript for two years after which the student may petition for the X to be expunged. The student may also be placed on disciplinary probation, suspended (temporary removal) or expelled (permanent removal) from the College by the Honor Board.</p>
+
+<p>It is important for students to remember that unauthorized collaboration–working together without permission– is a form of cheating. Unless a professor specifies that students can work together on an assignment and/or test, no collaboration is permitted. Other forms of cheating include possessing or using an unauthorized study aid (such as a PDA), copying from another’s exam, fabricating data, and giving unauthorized assistance.</p>
+
+<p>Remember, research conducted and/or papers written for other classes cannot be used in whole or in part for any assignment in this class without obtaining prior permission from the professor.</p>
+
+<h2 id="diversity-statement-cal-poly-official-statement">Diversity Statement (Cal Poly official statement)</h2>
+<p>At Cal Poly we believe that academic freedom, a cornerstone value, is exercised best when there is understanding and respect for our diversity of experiences, identities, and world views. Consequently, we create learning environments that allow for meaningful development of self-awareness, knowledge, and skills alongside attention to others who may have experiences, worldviews, and values that are different from our own. In so doing, we encourage our students, faculty, and staff to seek out opportunities to engage with others who are both similar and different from them, thereby increasing their capacity for knowledge, empathy, and conscious participation in local and global communities.</p>
+
+<p>In the spirit of educational equity, and in acknowledgement of the significant ways in which a university education can transform the lives of individuals and communities, we strive to increase the diversity at Cal Poly. As an institution that serves the state of California within a global context, we support the recruitment, retention, and success of talented students, faculty, and staff from across all societies, including people who are from historically and societally marginalized and underrepresented groups.</p>
+
+<p>Cal Poly is an inclusive community that embraces differences in people and thoughts. By being open to new ideas and showing respect for diverse points of view, we support a climate that allows all students, faculty, and staff to feel valued, which in turn facilitates the recruitment and retention of a diverse campus population. We are a culturally invested university whose members take personal responsibility for fostering excellence in our own and others’ endeavors. To this end, we support an increased awareness and understanding of how one’s own identity facets (such as race, ethnicity, gender, sexual orientation, religion, age, disability, social class, and nation of origin) and the combinations of these identities and experiences that may accompany them can affect our different worldviews.</p>
+
+<h2 id="disability-accomodations">Disability Accomodations</h2>
+<p>Any student who feels he or she may need an accommodation based on the impact of a disability should contact me individually to discuss your specific needs. Also, please contact the Disability Resource Center: <a href="https://drc.calpoly.edu/content/drc-services">https://drc.calpoly.edu/content/drc-services</a>.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+
+
+        
+      </footer>
+
+      
+
+      
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+    
+    
+      <li><a href="http://github.com/anderson-lab"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2019 Paul Anderson. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2011187-3', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+  </body>
+</html>
