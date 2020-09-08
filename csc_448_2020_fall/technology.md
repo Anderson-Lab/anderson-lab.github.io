@@ -14,12 +14,15 @@ excerpt: "Anderson Data Science Research Lab."
 5. [Deadlines](/csc_448_2020_fall/deadlines/)
 6. [Corrections](/csc_448_2020_fall/corrections/)
 
-# Anaconda
-<a href="https://www.anaconda.com/distribution/">Download the Python 3.7 version for your platform</a>
+# Coding Environment
+I have setup an environment for this class on AWS. You may find information <a href="/csc_448_2020_fall/private.html">here</a>.
+
+You are of course welcome to build your own coding environment with dependencies, etc. I will always help
+if time permits, as it is important to learn how to setup your own. But... that is not a learning objective of
+this course.
 
 # GitHub classroom
 We will use GitHub classroom to manage all turn in procedures. Links to assignments will be provided on the schedule.
 
 # Slack and Canvas
-We will use both Slack and Canvas. Please check Canvas for high priority announcements and official grades. Slack is a better
-platform for more frequent and casual communication.
+We will use both Slack and Canvas. Please check Canvas and your Cal Poly email for high priority announcements and official grades. Slack is a better platform for more frequent and casual communication.

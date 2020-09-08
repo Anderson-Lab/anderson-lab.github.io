@@ -63,7 +63,7 @@ Labs and assignments: 60% (A new lab is posted each week)
 * The primary form of labs and assignments will be programming exercises that are supported by the textbook which is supplemented by videos.
 * Labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on the schedule.
 * Because a new lab is posted every week, I put a suggested deadline of one week, but as stated above, submitting late will not affect your grade. I do hope to automatically generate reports for each student each week to help you monitor your progress. Technical difficulties will of course arrive and be ironed out with such a system.
-* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 65%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
+* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 60%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 25%
 * All projects are student centered and student driven. We are not assigning or pushing structure upon you. Mastery is only achieved
