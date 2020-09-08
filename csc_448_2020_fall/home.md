@@ -51,12 +51,12 @@ Phillip Compeau, Pavel Pevzner, Bioinformatics Algorithms: An Active
 Learning Approach, Active Learning Publishers, 3rd Edition
 
 ## Grading
-All grades are subject to being prorated due to illness. For example, if you are sick for a week, you will not have to make up that week. Your grade will just be computed out of fewer total points. You are responsible for making sure that this is correctly reflected in Canvas. Canvas is our official record of grades. Missing weeks will be indicated not with a 0, but with a -1. Your final grade calculations is not correct in Canvas. This is for several reasons. I always calculate the final grades in Excel which allows me to handle absences because of illness, etc. This will allow me to calculate
+All grades are subject to being prorated due to illness. For example, if you are sick for a week, you will not have to make up that week. Your grade will just be computed out of fewer total points. You are responsible for making sure that this is correctly reflected in Canvas. Canvas is our official record of grades. Missing weeks will be indicated not with a 0, but with a -1. Your final grade calculations are not correct in Canvas. I always calculate the final grades in Excel which allows me to handle absences because of illness, etc. Canvas is our source record.
 
 Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mastery learning</a>
 * I approach grading as student focused. I don't believe students should be penalized if it takes them two weeks to do an assignment when other students can finish it in a week.
 * I enjoy a challenge, and I want you to enjoy a challenge as well. I want students to say. "Wow. This is challenging and that is what makes it fun".
-* This is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
+* There is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
 * A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
 Labs and assignments: 60% (A new lab is posted each week)
@@ -66,9 +66,9 @@ Labs and assignments: 60% (A new lab is posted each week)
 * Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 65%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 25%
-* We have arranged a menu based project for you. Meaning you may choose one but not more than one of the following options.
 * All projects are student centered and student driven. We are not assigning or pushing structure upon you. Mastery is only achieved
 on the project by taking ownership of your learning through knowledge creation.
+* We have arranged a menu based project for you. Meaning you may choose one but not more than one of the following options.
 * Project Option A: Large group based COVID19 bioinformatics research project. Students opting for this option will function as a
 team trying to understand COVID19 from a bioinformatics perspective. Students from the spring have started on this project, and it will
 be your task to refine, extend, pivot, move their work forward. This project has probably the least structure. It is of course also one of the
@@ -81,7 +81,7 @@ your instructors. The one rule for this option is it must be approved by the end
 * Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with two preliminary grades (not binding) based on your project.
 
 Participation: 15%
-* We will be conducting this class using the platform known as Slack.
+* We will be conducting this class using a variety of technologies (Zoom, Flipgrid,etc). For communication, we will using the platform known as Slack.
 * You are expected to communicating with your instructors and class using this platform.
 * Mastery will be measured by examining Slack history. Slack allows us to download and organize all of your individual contributions.
 * We won't be bean counting (i.e., you have to post X times per week). Instead, we will provide you with two preliminary grades (not binding) based on your demonstrated communication.
