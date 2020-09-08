@@ -39,7 +39,6 @@ Here are specific take home details:
  * "Student tutorials are generally more academically challenging and rigorous than standard lecture and test format courses, because during each session students are expected to orally communicate, defend, analyse, and critique the ideas of others as well as their own in conversations with the tutor and fellow students" - https://en.wikipedia.org/wiki/Tutorial_system
  * I am in the tutorial to facilitate and not to lead.
  * They are graded for attendance.
- *
 
  2:10 - 3 + break + 3:10 - 4 PM: Our most traditional structure
  * Specific portions will be recorded, but encourage those who want a synchronous class structure to attend.
