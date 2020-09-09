@@ -24,16 +24,24 @@ We will be using a hybrid asynchronous/synchronous model this semester.
 We have as much as possible designed each week to be consistent and structured the same.
 Here are specific take home details:
 
- 2:10 - 3 PM on Monday (Group 1) and Wednesday (Group 2):  Tutorials and Guest Speakers
+ 2:10 - 3 PM on Monday:  Tutorials and Guest Speakers
  * Tutorials and guest speakers will be shared event with Bioinformatics Applications (taught by Dr. Jean Davidson)
- * Students will be placed in either Group 1 that meets Monday or Group 2 that meets Wednesday.
- * You only attend on Monday OR Wednesday. Not both. The content will be repeated.
- * We are divided to reduce the number of students on Zoom.
+ * The focus of each week will shift back and forth between more CS+Bioinf to Bio+Bioinf with guest speakers when available.
+ * Each tutorial/presentation will have some form of deliverable
+
+ 2:10 - 3 PM on Wednesday:  Synchronous Group Time
+ * We recognize the difficulties in scheduling times across all your schedules.
+ * We are reserving this time for interaction in your productivity working groups that are organized around a project theme
+ * You are free to structure this time in a manner that makes sense to your group.
+ * For example, you may schedule a recurring Zoom meeting and invite your group as co-hosts.
+ * For example, you may opt for ad hoc Zooming with most of the conversation taking place over Slack
+ * As an example of what you shouldn't do, use this time to catch up on other classes.
+ * You must notify us of your planned activity structure for the quarter, and of course, we should be invited to all things :)
 
  3 - 3:10 PM on Monday, Wednesday, and Friday: Get up and stretch. Move around. Get coffee, etc.
 
- 3:10 - 4 PM on Monday, Wednesday: Oxford style tutorial system
- * I will be scheduling small group tutorials of 3 students (<a href="https://en.wikipedia.org/wiki/Tutorial_system">Tutorial System</a>)
+ 3:10 - 4 PM on Monday, Wednesday: Small Groups - Oxford style tutorial system
+ * I will be scheduling small group of 3 students (<a href="https://en.wikipedia.org/wiki/Tutorial_system">Tutorial System</a>)
  * 10 minutes long, so please be prepared to hit the ground running in a discussion
  * You are only to attend your scheduled time
  * "Student tutorials are generally more academically challenging and rigorous than standard lecture and test format courses, because during each session students are expected to orally communicate, defend, analyse, and critique the ideas of others as well as their own in conversations with the tutor and fellow students" - <a href="https://en.wikipedia.org/wiki/Tutorial_system">Tutorial System</a>.
