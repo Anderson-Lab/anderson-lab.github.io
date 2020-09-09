@@ -33,12 +33,20 @@ Here are specific take home details:
  3 - 3:10 PM on Monday, Wednesday, and Friday: Get up and stretch. Move around. Get coffee, etc.
 
  3:10 - 4 PM on Monday, Wednesday: Oxford style tutorial system
- * I will be scheduling small group tutorials of 3 students (https://en.wikipedia.org/wiki/Tutorial_system)
+ * I will be scheduling small group tutorials of 3 students (<a href="https://en.wikipedia.org/wiki/Tutorial_system">Tutorial System</a>)
  * 10 minutes long, so please be prepared to hit the ground running in a discussion
  * You are only to attend your scheduled time
- * "Student tutorials are generally more academically challenging and rigorous than standard lecture and test format courses, because during each session students are expected to orally communicate, defend, analyse, and critique the ideas of others as well as their own in conversations with the tutor and fellow students" - https://en.wikipedia.org/wiki/Tutorial_system
+ * "Student tutorials are generally more academically challenging and rigorous than standard lecture and test format courses, because during each session students are expected to orally communicate, defend, analyse, and critique the ideas of others as well as their own in conversations with the tutor and fellow students" - <a href="https://en.wikipedia.org/wiki/Tutorial_system">Tutorial System</a>.
  * I am in the tutorial to facilitate and not to lead.
- * They are graded for attendance.
+ * Groups will maintain consistent membership Week 2 and beyond.
+ * Each week will have a student discussion lead (rotating)
+ * Each group will have a private slack channel created by me (Dr. A)
+ * Discussion lead will post the question of the week 24 hours prior to scheduled meeting. This question must be related to recent material covered in class (i.e., it can't look ahead).
+ * Discussion lead is responsible for starting the discussion at the beginning of the session and must ensure that everyone
+gets the opportunity to speak.
+ * All students other than lead are required to take meeting minutes. These minutes must be typed up in addition to a personal reflection no later than 24 hours after the meeting. They must be posted to Slack and commented on by the lead.
+ * The goal is not only to work on a topic related to class, but it is to improve your mastery in communication, discussion, and debate.
+ * We will be grading these in the same manner as many things in class - with an eye toward mastery. You will get two preliminary grades that are not binding. They are to help you grow into a better communicator.
 
  2:10 - 3 + break + 3:10 - 4 PM: Our most traditional structure
  * Specific portions will be recorded, but encourage those who want a synchronous class structure to attend.
