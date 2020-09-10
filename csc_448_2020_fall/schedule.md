@@ -98,7 +98,7 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 
 ## Week 2 (Staring Monday 9/21)
 ### Monday
-* (2:10-3 PM) Tutorial on Jupyter Notebooks, JupyterHub, Terminals
+* (2:10-3 PM) Tutorial on Jupyter Notebooks, JupyterHub, Git, GitHub, Terminals
 * (3:10-4 PM) Small group discussions (dry run)
 
 ### Wednesday
@@ -109,64 +109,94 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
-
-# Need to update below this line
-Chapter 7 - Which animal gave us SARS?
-* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
+Chapter 5 - How do we compare DNA sequences?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/vMJ4C5P3rk9IEtLg4gKHQrE6F9m1X6a81SQW__QExE40Kw1FT0EO8Nt_U6b_scWY">Instructor video</a>
-* <a href="https://www.youtube.com/watch?v=HjDz2ak5BUk">Another video by textbook authors about additive evolutionary tree construction</a>
-* <a href="https://classroom.github.com/a/oos90YDY">Lab 2</a>
-* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project2.ipynb">Project 2</a>
 
-## Week 3 (Staring Monday 4/20)
+## Week 3 (Staring Monday 9/28)
+### Monday
+
+### Wednesday
+
+### Friday
+
+### Material
 Chapter 3 - How do we assemble genomes?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-3">Online chapter</a>
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/uM9XaIzR3H5JYbPm1EeEQYgfLJ_rX6a82nVKq6Vfn0ebh5ukSp7v2o_8fmWxKB_A">Instructor video</a>
-* <a href="https://www.youtube.com/watch?v=9O3hAXp8gdM">String reconstruction video by book authors</a>. They have more videos on Youtube from the chapter as well.
-* <a href="https://classroom.github.com/a/sWBtFIJ1">Lab 3</a>
-* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project3.ipynb">Project 3</a>
 
-## Week 4 (Staring Monday 4/27)
-Chapter 5 - How do we compare DNA sequences?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/7851LbPSyEhIYKfKr2XEWIMRD7zUT6a8hiRLrPdZmUr6yMkEbpS4_FJoSw6MNoyR">Instructor video</a>
-* <a href="https://classroom.github.com/a/hipofC_F">Lab 4</a>
-* <a href="">No project 4 - Gap week to catch up</a>
+## Week 4 (Staring Monday 10/5)
+### Monday
 
-## Week 5 (Staring Monday 5/4)
-Chapter 10 - Why have biologists still not developed an an HIV vaccine?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/zPRPM-iz7SBLaKviwn3URaErGYDVeaa8gyZN-qJcxBuMOgsL6NqRoEwrnQQ8-8HZ">Instructor video</a>
-* <a href="https://classroom.github.com/a/Um18XKq3">Lab 5</a>
-* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project5.ipynb">Project 5</a>
+### Wednesday
 
-## Week 6 (Staring Monday 5/11)
-Chapter 9 - How do we locate disease-causing mutations?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/5vRXI5fW8H5LHLfCrxrOXZIfMLXJaaa8gHAYq6Bcy0nZpYrOoFoCsrtWb7rpTmhb">Instructor video</a>
-* <a href="https://classroom.github.com/a/Gm6BwNIA">Lab 6</a>
-* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project5.ipynb">Project 6 (continuation of Project 5)</a>
+### Friday
 
-## Week 7 (Staring Monday 5/18)
+### Material
 Chapter 11 - Was T. Rex just a big chicken?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/1-otaLKgyE5OY7Pr4kjTGZQKHoDXeaa8hikfrvVczxrouHCT42GxsgPNAPzYadwG">Instructor video</a>
-* <a href="https://classroom.github.com/a/Enq74Tu0">Lab 7</a>
-* <a href="https://github.com/anderson-github-classroom/csc-448-student/blob/master/project/Project7.ipynb">Project 7</a>
 
-## Week 8 (Staring Monday 5/25)
+## Week 5 (Staring Monday 10/12)
+### Monday
+
+### Wednesday
+
+### Friday
+
+### Material
+Chapter 7 - Which animal gave us SARS?
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
+* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+
+## Week 6 (Staring Monday 10/19)
+### Monday
+
+### Wednesday
+
+### Friday
+
+### Material
+Chapter 9 - How do we locate disease-causing mutations?
+* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+
+## Week 7 (Staring Monday 10/26)
+### Monday
+
+### Wednesday
+
+### Friday
+
+### Material
 Chapter 6 - Are there fragile regions in the human genome?
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
-* <a href="https://calpoly.zoom.us/rec/share/65QqIuHLrWlJW9bj5FiBVo14I4jlaaa81CkbrPdfzRtuCg206uN7mY-6vSYhFUgl">Instructor video</a>
-* <a href="https://classroom.github.com/a/5n-8dPkF">Lab 8</a>
-* Project: From here on out, please contribute to our combined project effort in the many ways outlined during this quarter.
 
-## Week 9 (Staring Monday 6/1)
-Chapter 6 and Project
-* Project: From here on out, please contribute to our combined project effort in the many ways outlined during this quarter.
+## Week 8 (Staring Monday 11/2)
+### Monday
 
-# Other
-Useful material not covered directly above.
-* <a href="https://covid19.galaxyproject.org/">https://covid19.galaxyproject.org/</a>
+### Wednesday
+
+### Friday
+
+### Material
+Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-8">https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-8</a>
+
+## Week 9 (Staring Monday 11/9)
+### Monday
+
+### Wednesday
+
+### Friday
+
+### Material
+Chapter 10 - Why have biologists still not developed an a HIV vaccine?
+* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+
+## Week 10 (Staring Monday 11/16)
+### Monday
+
+### Wednesday
+
+### Friday
+
+### Material
+No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/refine topics from the quarter.
