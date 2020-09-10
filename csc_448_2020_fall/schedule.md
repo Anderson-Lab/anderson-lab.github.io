@@ -98,7 +98,21 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 
 # Need to update below this line
 
-## Week 2 (Staring Monday 4/13)
+## Week 2 (Staring Monday 9/21)
+## Monday
+* (2:10-3 PM) Tutorial on Jupyter Notebooks, JupyterHub, Terminals
+* (3:10-4 PM) Small group discussions (dry run)
+
+### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions (continue dry run)
+
+### Friday
+* (2:10-4 PM) Lecture, discussion, activities
+
+### Material
+
+# Update below this line
 Chapter 7 - Which animal gave us SARS?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
