@@ -14,7 +14,6 @@ excerpt: "Anderson Data Science Research Lab."
 5. [Deadlines](/csc_448_2020_fall/deadlines/)
 6. [Corrections](/csc_448_2020_fall/corrections/)
 
-# Schedule
 I cannot stress enough that consideration is available for any health or
 extenuating circumstance that you experience this quarter. Please reach out to me
 at any time for any reason. Consideration includes but is not limited to individually
@@ -64,31 +63,40 @@ gets the opportunity to speak.
  * The lecture portion may vary from week to week, but I do not expect to lecture for near two hours straight
 
 If we support one another during this time, I honestly believe we
-can grow our humanity during this challenging time. Throughout the quarter you'll definitely get a glimpse of my day-to-day world.
-Scheduling chaos will enter my world as I know it will enter into your world as well. We must first treat each other as people first
-and student/instructor second.
+can grow our humanity during this challenging time. Throughout the quarter you'll definitely get a glimpse of my day-to-day world. Scheduling chaos will enter my world as I know it will enter into your world as well. We must first treat each other as people first and student/instructor second.
 
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
-## Below this line needs to be updated
+# Miscellaneous
+## Recurring Zoom Meetings
+* <a href="">(2:10-3 PM on Mondays) Joint Algorithms and Applications Tutorial and Guest Speakers</a>
+* <a href="">(3:10-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
 
-## Synchronous Zoom Meetings
-* <a href="https://calpoly.zoom.us/j/512300575?pwd=ZkV5TURtS210YTFJSWE1cWNHN3I4QT09">4/6 - Syllabus and Discussion</a>
-* <a href="https://calpoly.zoom.us/j/95497024735?pwd=OUlMcXUrd1RXRHBpa21QcHZaZXU2UT09">Weekly Monday morning zoom link.</a> Password in Canvas, and you will be auto-assigned to breakout groups./a>
-* <a href="https://nbviewer.jupyter.org/github/anderson-github-classroom/csc-448-student/blob/master/groups/Assignments.ipynb">Weekly group meetings</a>
+## Misc Pre-recorded Materials
+* Grading
+* Project
+* Schedule
+* Small group discussions
 
-## Week 1 (Staring Monday 4/6)
-Syllabus
-* <a href="https://calpoly.zoom.us/rec/share/ysFSJJzO2F9JXIGdx3nnf_YQMILrX6a8hnUa_6ZfxUqjgx6AnKeSbpB3twVncZBf">Introduction Video</a>
-* <a href="https://classroom.github.com/a/J7LtoHmW">Syllabus Assignment</a>
-    * <a href="https://calpoly.zoom.us/rec/play/uZN8JOug_D83HYWX4gSDV6B_W460KqisgyIX-PsNyBu3WyQHMQbwYbsXMbRLKZ19azo9MByKW42VEqYy">Video instructions</a>
+# Schedule
+## Week 1 (Staring Monday 9/14)
+### Monday
+* (2:10-3 PM) Introduction and welcome to Bioinformatics! (Joint with Dr. Jean Davidson's Bioinformatics Application Course)
+* (3:10-4 PM) Syllabus and other details specific to Bioinformatics Algorithms
 
+### Wednesday
+* (2:10-3 PM) Continuation of introduction to Bioinformatics! (Joint with Dr. Jean Davidson's Bioinformatics Application Course)
+* (3:10-4 PM) Introduction to small group discussions
+
+### Friday
+* (2:10-4 PM) Lecture, discussion, activities
+
+### Material
 Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos?wix-vod-comp-id=comp-k75quwn2">Author video</a>
-* <a href="https://calpoly.zoom.us/rec/share/98NFDerVyE5OToHo0waHZJIQHt3Leaa81iMa8vRfzEmh4phHc2d86hh8lvi_Z7Gh">Instructor video</a>
-* <a href="https://classroom.github.com/a/UidIWEJm">Lab 1</a>
-* <a href="https://nbviewer.jupyter.org/github/anderson-github-classroom/csc-448-student/blob/master/project/Project1.ipynb">Project 1</a>
+
+# Need to update below this line
 
 ## Week 2 (Staring Monday 4/13)
 Chapter 7 - Which animal gave us SARS?
