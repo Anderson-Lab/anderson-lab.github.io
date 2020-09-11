@@ -210,7 +210,7 @@ Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
 
 ## Week 9 (Staring Monday 11/9)
 ### Monday
-* (2:10-3 PM) Guest speaker TBD (tentative)
+* (2:10-3 PM) Deep learning bioinformatics notebook tutorial (Breast cancer subtyping)
 * (3:10-4 PM) Small group discussions
 
 ### Wednesday
