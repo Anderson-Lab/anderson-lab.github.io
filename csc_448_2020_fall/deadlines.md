@@ -17,7 +17,7 @@ excerpt: "Anderson Data Science Research Lab."
 # Deadlines
 It is important to have consistent locations for deadlines. For this class, we will
 not be using Canvas other than as a mechanism to provide secure grading feedback. Canvas
-may also be used to post passwords, etc.
+may also be used to post passwords, etc. This page describes where to look for certain deadlines.
 
 **Disclaimer:** This page is manually updated, so please check the last updated date.
 
@@ -25,12 +25,5 @@ may also be used to post passwords, etc.
 Please see GitHub classroom for suggested deadlines for labs. Please see the syllabus for any questions regarding
 lab due dates.
 
-## Project Deadlines
-Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
-* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
-
 ## Other Deadlines
-Introductions on Flipgrid
-* Completed in class on our first day - https://flipgrid.com/55ae9058
-
-More will be announced here.
+Check the schedule page.

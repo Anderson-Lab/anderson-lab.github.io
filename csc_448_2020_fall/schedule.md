@@ -55,7 +55,7 @@ gets the opportunity to speak.
  * The goal is not only to work on a topic related to class, but it is to improve your mastery in communication, discussion, and debate.
  * We will be grading these in the same manner as many things in class - with an eye toward mastery. You will get two preliminary grades that are not binding. They are to help you grow into a better communicator.
 
- 2:10 - 3 + break + 3:10 - 4 PM: Our most traditional structure
+ 2:10 - 3 + break + 3:10 - 4 PM on Friday: Our most traditional structure
  * Specific portions will be recorded, but encourage those who want a synchronous class structure to attend.
  * The reason to record smaller portions instead of the entire session is that research basically shows that smaller
  recordings are more educational.
@@ -69,13 +69,14 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 
 # Miscellaneous
 ## Recurring Zoom Meetings
-* <a href="">(2:10-3 PM on Mondays) Joint Algorithms and Applications Tutorial and Guest Speakers</a>
-* <a href="">(3:10-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
+* <a href="https://calpoly.zoom.us/j/93026447035">(2:10-4 PM on Mondays) Joint algorithms and applications tutorial/guest speakers followed by using the same link for the entire day</a>
+* <a href="">(3:10-4 PM on Wednesday) Oxford style group discussions</a>
+* <a href="">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
 
 ## Misc Pre-recorded Materials
 * Grading
 * Project
-* Schedule
+* Schedule (<a href="https://calpoly.zoom.us/rec/share/kqKjf2zEbCql6A3LZarFYaZ9kmNhVuv2tjn9OBRfoZXY6IESX4nbfHP8d3a3aQug.sW9G-WxLFP0yyNRW">Video 1 -  Passcode: @yk.d348</a>) (<a href="https://calpoly.zoom.us/rec/share/crHiQDSi8Fa-TuFb29I_f7ceP_YPCgMa5S-dsT3Oj1JeKsP_vGx87tOYY3Kw1C81.f9XpOTAB00um7PdS">Video 2 - Passcode: jj.2a6oD</a>)
 * Small group discussions
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Textbook author videos</a>
 
@@ -96,6 +97,10 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
 
+### Assignments
+Introductions on Flipgrid
+* Completed by end of first day of class - https://flipgrid.com/55ae9058
+
 ## Week 2 (Staring Monday 9/21)
 ### Monday
 * (2:10-3 PM) Tutorial on Jupyter Notebooks, JupyterHub, Git, GitHub, Terminals
@@ -111,6 +116,10 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 ### Material
 Chapter 5 - How do we compare DNA sequences?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-5">Online chapter</a>
+
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
 ## Week 3 (Staring Monday 9/28)
 ### Monday
