@@ -74,9 +74,10 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * <a href="">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
 
 ## Misc Pre-recorded Materials
+* <a href="https://calpoly.zoom.us/rec/share/kqKjf2zEbCql6A3LZarFYaZ9kmNhVuv2tjn9OBRfoZXY6IESX4nbfHP8d3a3aQug.sW9G-WxLFP0yyNRW">Introduction and where to start -  Passcode: @yk.d348</a>
 * Grading
 * Project
-* Schedule (<a href="https://calpoly.zoom.us/rec/share/kqKjf2zEbCql6A3LZarFYaZ9kmNhVuv2tjn9OBRfoZXY6IESX4nbfHP8d3a3aQug.sW9G-WxLFP0yyNRW">Video 1 -  Passcode: @yk.d348</a>) (<a href="https://calpoly.zoom.us/rec/share/crHiQDSi8Fa-TuFb29I_f7ceP_YPCgMa5S-dsT3Oj1JeKsP_vGx87tOYY3Kw1C81.f9XpOTAB00um7PdS">Video 2 - Passcode: jj.2a6oD</a>)
+* Schedule (Video 1) (<a href="https://calpoly.zoom.us/rec/share/crHiQDSi8Fa-TuFb29I_f7ceP_YPCgMa5S-dsT3Oj1JeKsP_vGx87tOYY3Kw1C81.f9XpOTAB00um7PdS">Video 2 - Passcode: jj.2a6oD</a>)
 * Small group discussions
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Textbook author videos</a>
 
