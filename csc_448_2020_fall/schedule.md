@@ -77,6 +77,7 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * Project
 * Schedule
 * Small group discussions
+* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Textbook author videos</a>
 
 # Schedule
 ## Week 1 (Staring Monday 9/14)
@@ -94,7 +95,6 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 ### Material
 Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos?wix-vod-comp-id=comp-k75quwn2">Author video</a>
 
 ## Week 2 (Staring Monday 9/21)
 ### Monday
@@ -110,93 +110,131 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 
 ### Material
 Chapter 5 - How do we compare DNA sequences?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-5">Online chapter</a>
 
 ## Week 3 (Staring Monday 9/28)
 ### Monday
+* (2:10-3 PM) Galaxy Assembly Tutorial (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 3 - How do we assemble genomes?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-3">Online chapter</a>
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
 
 ## Week 4 (Staring Monday 10/5)
 ### Monday
+* (2:10-3 PM) Guest speaker Dr. Benjamin Neely NIST (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 11 - Was T. Rex just a big chicken?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-11">Online chapter</a>
 
 ## Week 5 (Staring Monday 10/12)
 ### Monday
+* (2:10-3 PM) Guest speaker Director of Genomics at Ancestry.com (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 7 - Which animal gave us SARS?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
 
 ## Week 6 (Staring Monday 10/19)
 ### Monday
+* (2:10-3 PM) Guest speaker clinical genomics (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 9 - How do we locate disease-causing mutations?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-9">Online chapter</a>
 
 ## Week 7 (Staring Monday 10/26)
 ### Monday
+* (2:10-3 PM) Guest speaker NCBI (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 6 - Are there fragile regions in the human genome?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-6">Online chapter</a>
 
 ## Week 8 (Staring Monday 11/2)
 ### Monday
+* (2:10-3 PM) Guest speaker TBD (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
-* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-8">https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-8</a>
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-8">Online chapter</a>
 
 ## Week 9 (Staring Monday 11/9)
 ### Monday
+* (2:10-3 PM) Guest speaker TBD (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
 Chapter 10 - Why have biologists still not developed an a HIV vaccine?
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Author videos</a>
+* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-10">Online chapter</a>
 
 ## Week 10 (Staring Monday 11/16)
 ### Monday
+* (2:10-3 PM) Guest speaker TBD (tentative)
+* (3:10-4 PM) Small group discussions
 
 ### Wednesday
+* (2:10-3 PM) Project working group time
+* (3:10-4 PM) Small group discussions
 
 ### Friday
+* (2:10-4 PM) TBA
 
 ### Material
 No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/refine topics from the quarter.
