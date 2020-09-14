@@ -125,6 +125,7 @@ Chapter 5 - How do we compare DNA sequences?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 2
 
 ## Week 3 (Staring Monday 9/28)
@@ -146,6 +147,7 @@ Chapter 3 - How do we assemble genomes?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 3
 
 ## Week 4 (Staring Monday 10/5)
@@ -167,6 +169,7 @@ Chapter 11 - Was T. Rex just a big chicken?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 4
 
 ## Week 5 (Staring Monday 10/12)
@@ -188,6 +191,7 @@ Chapter 7 - Which animal gave us SARS?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 5
 
 ## Week 6 (Staring Monday 10/19)
@@ -209,6 +213,7 @@ Chapter 9 - How do we locate disease-causing mutations?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 6
 
 ## Week 7 (Staring Monday 10/26)
@@ -230,6 +235,7 @@ Chapter 6 - Are there fragile regions in the human genome?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 7
 
 ## Week 8 (Staring Monday 11/2)
@@ -251,6 +257,7 @@ Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 8
 
 ## Week 9 (Staring Monday 11/9)
@@ -272,6 +279,7 @@ Chapter 10 - Why have biologists still not developed an a HIV vaccine?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 Lab 9
 
 ## Week 10 (Staring Monday 11/16)
@@ -292,4 +300,5 @@ No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+
 TBD
