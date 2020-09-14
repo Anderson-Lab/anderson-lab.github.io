@@ -76,7 +76,7 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 ## Misc Pre-recorded Materials
 * <a href="https://calpoly.zoom.us/rec/share/kqKjf2zEbCql6A3LZarFYaZ9kmNhVuv2tjn9OBRfoZXY6IESX4nbfHP8d3a3aQug.sW9G-WxLFP0yyNRW">Introduction and where to start -  Passcode: @yk.d348</a>
 * Grading
-* Project
+* <a href="https://calpoly.zoom.us/rec/share/Xm4s7Htj6HFNMTAjmU5JW9thSxmTOCu0979ptSX9NVuCL7FHXh0EogdoWdn5kHCv.qqYV_HRkF7WcUYQA">Project - Passcode: %3dyPRZj</a>
 * Schedule (Video 1) (<a href="https://calpoly.zoom.us/rec/share/crHiQDSi8Fa-TuFb29I_f7ceP_YPCgMa5S-dsT3Oj1JeKsP_vGx87tOYY3Kw1C81.f9XpOTAB00um7PdS">Video 2 - Passcode: jj.2a6oD</a>)
 * Small group discussions
 * <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Textbook author videos</a>
@@ -100,7 +100,11 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 
 ### Assignments
 Introductions on Flipgrid
-* Completed by end of first day of class - https://flipgrid.com/55ae9058
+* Complete by end of first day of class - <a href="https://flipgrid.com/55ae9058">https://flipgrid.com/55ae9058</a>
+
+Syllabus Assignment (to be posted Monday)
+
+Lab 1 (to be posted Friday)
 
 ## Week 2 (Staring Monday 9/21)
 ### Monday
@@ -121,6 +125,7 @@ Chapter 5 - How do we compare DNA sequences?
 ### Assignments
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 2
 
 ## Week 3 (Staring Monday 9/28)
 ### Monday
@@ -138,6 +143,11 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 Chapter 3 - How do we assemble genomes?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-3">Online chapter</a>
 
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 3
+
 ## Week 4 (Staring Monday 10/5)
 ### Monday
 * (2:10-3 PM) Guest speaker Dr. Benjamin Neely NIST (tentative)
@@ -153,6 +163,11 @@ Chapter 3 - How do we assemble genomes?
 ### Material
 Chapter 11 - Was T. Rex just a big chicken?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-11">Online chapter</a>
+
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 4
 
 ## Week 5 (Staring Monday 10/12)
 ### Monday
@@ -170,6 +185,11 @@ Chapter 11 - Was T. Rex just a big chicken?
 Chapter 7 - Which animal gave us SARS?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
 
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 5
+
 ## Week 6 (Staring Monday 10/19)
 ### Monday
 * (2:10-3 PM) Guest speaker clinical genomics (tentative)
@@ -185,6 +205,11 @@ Chapter 7 - Which animal gave us SARS?
 ### Material
 Chapter 9 - How do we locate disease-causing mutations?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-9">Online chapter</a>
+
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 6
 
 ## Week 7 (Staring Monday 10/26)
 ### Monday
@@ -202,6 +227,11 @@ Chapter 9 - How do we locate disease-causing mutations?
 Chapter 6 - Are there fragile regions in the human genome?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-6">Online chapter</a>
 
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 7
+
 ## Week 8 (Staring Monday 11/2)
 ### Monday
 * (2:10-3 PM) Guest speaker TBD (tentative)
@@ -217,6 +247,11 @@ Chapter 6 - Are there fragile regions in the human genome?
 ### Material
 Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-8">Online chapter</a>
+
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 8
 
 ## Week 9 (Staring Monday 11/9)
 ### Monday
@@ -234,6 +269,11 @@ Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
 Chapter 10 - Why have biologists still not developed an a HIV vaccine?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-10">Online chapter</a>
 
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+Lab 9
+
 ## Week 10 (Staring Monday 11/16)
 ### Monday
 * (2:10-3 PM) Guest speaker TBD (tentative)
@@ -248,3 +288,8 @@ Chapter 10 - Why have biologists still not developed an a HIV vaccine?
 
 ### Material
 No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/refine topics from the quarter.
+
+### Assignments
+Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
+* <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
+TBD
