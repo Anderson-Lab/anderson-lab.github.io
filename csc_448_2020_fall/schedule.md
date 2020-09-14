@@ -95,6 +95,8 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
+<a href="https://docs.google.com/presentation/d/1Z4Dkwev6E9ss7oNSRYVkLTeITer9tyTqgYAQx7aV5cU/edit?usp=sharing">Introduction to class slides</a>
+
 Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
 

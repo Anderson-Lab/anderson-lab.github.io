@@ -19,8 +19,6 @@ It is important to have consistent locations for deadlines. For this class, we w
 not be using Canvas other than as a mechanism to provide secure grading feedback. Canvas
 may also be used to post passwords, etc. This page describes where to look for certain deadlines.
 
-**Disclaimer:** This page is manually updated, so please check the last updated date.
-
 ## GitHub Classroom Deadlines (Labs, etc)
 Please see GitHub classroom for suggested deadlines for labs. Please see the syllabus for any questions regarding
 lab due dates.
