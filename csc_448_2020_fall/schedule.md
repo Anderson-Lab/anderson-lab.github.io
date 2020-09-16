@@ -21,13 +21,13 @@ modified due dates. In other words, do not let this course take priority over yo
 
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
-# Miscellaneous
-## Recurring Zoom Meetings
+# Class Zoom Meetings
 * <a href="https://calpoly.zoom.us/j/93026447035">(2:10-4 PM on Mondays) Joint algorithms and applications tutorial/guest speakers followed by using the same link for the entire day</a>
+* <a href="https://calpoly.zoom.us/j/93026447035">2 - 4 PM on Wednesday during Week 1</a>
 * <a href="">(3:10-4 PM on Wednesday starting Week 2) Oxford style group discussions</a>
 * <a href="">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
 
-## Misc Recorded Materials
+# Misc Recorded Materials
 * <a href="https://calpoly.zoom.us/rec/share/kqKjf2zEbCql6A3LZarFYaZ9kmNhVuv2tjn9OBRfoZXY6IESX4nbfHP8d3a3aQug.sW9G-WxLFP0yyNRW">Introduction and where to start -  Passcode: @yk.d348</a>
 * <a href="https://calpoly.zoom.us/rec/play/SSd9_kfYu85_7mi-H56_XLKBf2V_46FfBh7tEASLMiRTeN4DJKZo14dbqlz04RPylVCeVl2DF-2u3NEp.jUpDd-kGYaCl5OIT?startTime=1600121577000">General introduction from day 1</a>
 * <a href="https://calpoly.zoom.us/rec/play/3TSivRg7gsgARPuZXkdIp0YjeerE3AgOvJj_Rgjv_pNCit8C8bjJNNAtenRiWo1gTTXS1b7c4hAyyX6N.7X1FFfsaMMXi229R?startTime=1600121956000">Grading</a>
