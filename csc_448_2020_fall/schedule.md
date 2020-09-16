@@ -104,7 +104,10 @@ Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 Introductions on Flipgrid
 * Complete by end of first day of class - <a href="https://flipgrid.com/55ae9058">https://flipgrid.com/55ae9058</a>
 
-Syllabus Assignment (to be posted Wednesday)
+<a href="https://docs.google.com/document/d/1LgpLJbIXvbxFx_Oy1BfIJD9-cTQv_V4n05s3Hb0pY0k/edit">Collaborative Bioinformatics Group Exercise</a>
+* Due Monday at noon
+
+<a href="https://classroom.github.com/a/B8Ki2VNZ">Syllabus Assignment</a>
 
 Lab 1 (to be posted Friday)
 
