@@ -108,6 +108,7 @@ Introductions on Flipgrid
 * Due Monday at noon
 
 <a href="https://classroom.github.com/a/B8Ki2VNZ">Syllabus Assignment</a>
+* <a href="/csc_448_2020_fall/private.html">Video walk through</a>
 
 Lab 1 (to be posted Friday)
 
