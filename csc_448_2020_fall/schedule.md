@@ -8,7 +8,7 @@ excerpt: "Anderson Data Science Research Lab."
 
 # Table of contents
 1. [Syllabus](/csc_448_2020_fall/)
-2. [Schedule](/csc_448_2020_fall/schedule/)
+2. [Schedule](/csc_448_2020_fall/private.html)
 3. [Technology](/csc_448_2020_fall/technology/)
 4. [Project](/csc_448_2020_fall/project/)
 5. [Deadlines](/csc_448_2020_fall/deadlines/)
@@ -27,19 +27,10 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * <a href="">(3:10-4 PM on Wednesday starting Week 2) Oxford style group discussions</a>
 * <a href="">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
 
-# Misc Recorded Materials
-* <a href="https://calpoly.zoom.us/rec/share/kqKjf2zEbCql6A3LZarFYaZ9kmNhVuv2tjn9OBRfoZXY6IESX4nbfHP8d3a3aQug.sW9G-WxLFP0yyNRW">Introduction and where to start -  Passcode: @yk.d348</a>
-* <a href="https://calpoly.zoom.us/rec/play/SSd9_kfYu85_7mi-H56_XLKBf2V_46FfBh7tEASLMiRTeN4DJKZo14dbqlz04RPylVCeVl2DF-2u3NEp.jUpDd-kGYaCl5OIT?startTime=1600121577000">General introduction from day 1</a>
-* <a href="https://calpoly.zoom.us/rec/play/3TSivRg7gsgARPuZXkdIp0YjeerE3AgOvJj_Rgjv_pNCit8C8bjJNNAtenRiWo1gTTXS1b7c4hAyyX6N.7X1FFfsaMMXi229R?startTime=1600121956000">Grading</a>
-* <a href="https://calpoly.zoom.us/rec/share/Xm4s7Htj6HFNMTAjmU5JW9thSxmTOCu0979ptSX9NVuCL7FHXh0EogdoWdn5kHCv.qqYV_HRkF7WcUYQA">Project - Passcode: %3dyPRZj</a>
-* <a href="https://calpoly.zoom.us/rec/play/3TSivRg7gsgARPuZXkdIp0YjeerE3AgOvJj_Rgjv_pNCit8C8bjJNNAtenRiWo1gTTXS1b7c4hAyyX6N.7X1FFfsaMMXi229R?startTime=1600121956000">Schedule (Day 1 Video)</a> (<a href="https://calpoly.zoom.us/rec/share/crHiQDSi8Fa-TuFb29I_f7ceP_YPCgMa5S-dsT3Oj1JeKsP_vGx87tOYY3Kw1C81.f9XpOTAB00um7PdS">Video 2 - Passcode: jj.2a6oD</a>)
-* Small group discussions
-* <a href="https://www.bioinformaticsalgorithms.org/lecture-videos">Textbook author videos</a>
-
 # Weekly Schedule
 ## Week 1 (Staring Monday 9/14)
 ### Monday
-* <a href="https://calpoly.zoom.us/rec/share/q4TpjigHktGpE7x0bm6hIKTLRevXlQkQIjtnIIPCXXClSNs1sOAGyZN-QK3k8yUG.Q0BrnTatWNQUxeoH?startTime=1600117846000">(2:10-3 PM) Introduction and welcome to Bioinformatics! (Joint with Dr. Jean Davidson's Bioinformatics Application Course)</a>
+* (2:10-3 PM) Introduction and welcome to Bioinformatics! (Joint with Dr. Jean Davidson's Bioinformatics Application Course)
 * (3:10-4 PM) Syllabus and other details specific to Bioinformatics Algorithms (videos broken up above)
 
 ### Wednesday
@@ -63,7 +54,6 @@ Introductions on Flipgrid
 * Due Monday at noon
 
 <a href="https://classroom.github.com/a/B8Ki2VNZ">Syllabus Assignment</a>
-* <a href="/csc_448_2020_fall/private.html">Video walk through</a>
 
 Lab 1 (to be posted Friday)
 
