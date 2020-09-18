@@ -55,7 +55,7 @@ Introductions on Flipgrid
 
 <a href="https://classroom.github.com/a/B8Ki2VNZ">Syllabus Assignment</a>
 
-Lab 1 (to be posted Friday)
+<a href="https://classroom.github.com/a/yu9Qw5YQ">Lab 1</a>
 
 ## Week 2 (Staring Monday 9/21)
 ### Monday
