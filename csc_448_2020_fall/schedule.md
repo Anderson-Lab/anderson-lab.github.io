@@ -25,7 +25,7 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * <a href="https://calpoly.zoom.us/j/93026447035">(2:10-4 PM on Mondays) Joint algorithms and applications tutorial/guest speakers followed by using the same link for the entire day</a>
 * <a href="https://calpoly.zoom.us/j/93026447035">2 - 4 PM on Wednesday during Week 1</a>
 * <a href="">(3:10-4 PM on Wednesday starting Week 2) Oxford style group discussions</a>
-* <a href="">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
+* <a href="https://calpoly.zoom.us/j/98031611146?pwd=Q0tTc3I5b21IdEw2cWdpem9RK091UT09">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
 
 # Weekly Schedule
 ## Week 1 (Staring Monday 9/14)
