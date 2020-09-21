@@ -59,7 +59,7 @@ Introductions on Flipgrid
 
 ## Week 2 (Staring Monday 9/21)
 ### Monday
-* (2:10-3 PM) Tutorial on Jupyter Notebooks, JupyterHub, Git, GitHub, Terminals
+* (2:10-3 PM) <a href="https://docs.google.com/presentation/d/1jKm0PTLEOuc9BmKmedLj6Go0w2tEonroF4el7uZGLgk/edit?usp=sharing">Project Activity Follow-up, Project Next Steps</a>
 * (3:10-4 PM) Small group discussions (dry run)
 
 ### Wednesday
@@ -81,7 +81,7 @@ Lab 2
 
 ## Week 3 (Staring Monday 9/28)
 ### Monday
-* (2:10-3 PM) Galaxy Assembly Tutorial (tentative)
+* (2:10-3 PM) TBD - Tutorial on Jupyter Notebooks, JupyterHub, Git, GitHub, Terminals OR Galaxy Assembly Tutorial (tentative)
 * (3:10-4 PM) Small group discussions
 
 ### Wednesday
