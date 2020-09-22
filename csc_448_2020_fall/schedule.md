@@ -22,10 +22,17 @@ modified due dates. In other words, do not let this course take priority over yo
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
 # Class Zoom Meetings
-* <a href="https://calpoly.zoom.us/j/93026447035">(2:10-4 PM on Mondays) Joint algorithms and applications tutorial/guest speakers followed by using the same link for the entire day</a>
-* <a href="https://calpoly.zoom.us/j/93026447035">2 - 4 PM on Wednesday during Week 1</a>
-* <a href="">(3:10-4 PM on Wednesday starting Week 2) Oxford style group discussions</a>
+* <a href="https://calpoly.zoom.us/j/93026447035">(2:10-3 PM on Mondays) Joint algorithms and applications tutorial/guest speakers</a>
+* (3:10-4 PM on Monday and Wednesday starting Week 2) Oxford style group discussions - everyone gets a calendar invite
 * <a href="https://calpoly.zoom.us/j/98031611146?pwd=Q0tTc3I5b21IdEw2cWdpem9RK091UT09">(2-4 PM on Fridays) Synchronous Lectures, Activities, Discussion (Recorded and posted soon after)</a>
+
+# Recorded Videos
+I'm working to organize the recorded (Zoom) videos via Flipgrid. This allows me to post a short audio description of the video.
+* <a href="https://flipgrid.com/csc448fall2020">Flipgrid Main Link</a>
+* <a href="https://flipgrid.com/91ceab20">Mondays</a>
+* <a href="https://flipgrid.com/7bdd3562">Fridays</a>
+* <a href="https://flipgrid.com/94058017">Assignments (not every assignment, but when I do an assignment video it will go here)</a>
+* <a href="https://flipgrid.com/4152a09c">Misc recorded material</a>
 
 # Weekly Schedule
 ## Week 1 (Staring Monday 9/14)
