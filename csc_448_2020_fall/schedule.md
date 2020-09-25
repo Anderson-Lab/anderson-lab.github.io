@@ -81,6 +81,8 @@ Chapter 5 - How do we compare DNA sequences?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-5">Online chapter</a>
 
 ### Assignments
+Complete the group assignment by Sunday at midnight
+
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
