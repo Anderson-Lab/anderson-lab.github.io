@@ -86,7 +86,7 @@ Complete the group assignment by Sunday at midnight
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 2
+<a href="https://classroom.github.com/a/D7Pvf6xR">Lab 2</a>
 
 ## Week 3 (Staring Monday 9/28)
 ### Monday
