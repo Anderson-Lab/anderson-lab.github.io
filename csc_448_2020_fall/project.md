@@ -1,6 +1,6 @@
 ---
 permalink: /csc_448_2020_fall/project/
-title: "CSC 448 Spring 2020"
+title: "CSC 448 Fall 2020"
 excerpt: "Anderson Data Science Research Lab."
 ---
 

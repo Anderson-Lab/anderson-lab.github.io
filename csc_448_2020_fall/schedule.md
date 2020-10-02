@@ -1,6 +1,6 @@
 ---
 permalink: /csc_448_2020_fall/schedule/
-title: "CSC 448 Spring 2020 Schedule"
+title: "CSC 448 Fall 2020 Schedule"
 excerpt: "Anderson Data Science Research Lab."
 ---
 
