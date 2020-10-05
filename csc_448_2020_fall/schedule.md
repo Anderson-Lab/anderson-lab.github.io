@@ -108,7 +108,7 @@ Chapter 3 - How do we assemble genomes?
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 3
+<a href="https://classroom.github.com/a/FvT0dq-c">Lab 3</a>
 
 ## Week 4 (Staring Monday 10/5)
 ### Monday
