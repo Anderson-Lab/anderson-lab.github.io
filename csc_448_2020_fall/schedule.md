@@ -112,7 +112,7 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 
 ## Week 4 (Staring Monday 10/5)
 ### Monday
-* (2:10-3 PM) Guest speaker Dr. Benjamin Neely NIST (tentative)
+* (2:10-3 PM) <a href="https://www.nist.gov/people/ben-neely">Guest speaker Dr. Benjamin Neely NIST</a>
 * (3:10-4 PM) Small group discussions
 
 ### Wednesday
@@ -127,6 +127,10 @@ Chapter 11 - Was T. Rex just a big chicken?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-11">Online chapter</a>
 
 ### Assignments
+During Dr. Neely's talk, post 1-3 questions. I'll facilitate the Q/A.
+
+After the talk, please submit an answer to the question using our usual mode: <a href="https://classroom.github.com/a/KBByCbyf">After guest lecture</a>
+
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
