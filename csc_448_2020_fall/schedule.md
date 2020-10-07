@@ -123,6 +123,8 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 * (2:10-4 PM) Lecture, discussion, activities
 
 ### Material
+<a href="https://drive.google.com/file/d/18J-ev2P0_h4F2qdmmDw8Hrdhr0_Yu47b/view?usp=sharing">Dr. Neely's talk from Monday</a>
+
 Chapter 11 - Was T. Rex just a big chicken?
 * <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-11">Online chapter</a>
 
