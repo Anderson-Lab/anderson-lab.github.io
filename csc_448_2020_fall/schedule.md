@@ -136,7 +136,7 @@ After the talk, please submit an answer to the question using our usual mode: <a
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 4
+<a href="https://classroom.github.com/a/Hu44f93h">Lab 4</a>
 
 ## Week 5 (Staring Monday 10/12)
 ### Monday
