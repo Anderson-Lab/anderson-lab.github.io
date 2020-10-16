@@ -158,7 +158,7 @@ Chapter 7 - Which animal gave us SARS?
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-<a href="https://classroom.github.com/a/Hu44f93h">Lab 5</a>
+<a href="https://classroom.github.com/a/EXaiVbM6">Lab 5</a>
 
 ## Week 6 (Staring Monday 10/19)
 ### Monday
