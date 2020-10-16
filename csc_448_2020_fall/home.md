@@ -77,7 +77,7 @@ most exciting as you will be pushing into research territory. The goal is to pub
 it to someone else. In this case, you'll be asked to create self-driven tutorials and materials. They must be originals.
 * Project Option C: Choose your own adventure. You may have an ongoing project that can fit this category. You may seek project suggestions from
 your instructors. The one rule for this option is it must be approved by the end of Week 3.
-* For this project, we will have one "bean counting" exercise. Your group must post on Flipgrid once a week. This regular posting is worth 5% out of the total 25% of the project.
+* For this project, we will have one "bean counting" exercise. You must post on Flipgrid once a week. This regular posting is worth 15% out of the total 25% of the project. Remainder of the points are awarded from your group's deliverables which will differ from group to group.
 * Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with two preliminary grades (not binding) based on your project.
 
 Participation: 15%
