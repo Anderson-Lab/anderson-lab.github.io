@@ -180,7 +180,7 @@ Chapter 9 - How do we locate disease-causing mutations?
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 6
+<a href="https://classroom.github.com/a/eQDO2bfK">Lab 6</a>
 
 ## Week 7 (Staring Monday 10/26)
 ### Monday
