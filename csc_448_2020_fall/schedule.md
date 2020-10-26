@@ -162,7 +162,7 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 
 ## Week 6 (Staring Monday 10/19)
 ### Monday
-* (2:10-3 PM) Guest speaker clinical genomics (tentative)
+* (2:10-3 PM) Biopharmaceutical guest lecture
 * (3:10-4 PM) Small group discussions
 
 ### Wednesday
@@ -184,7 +184,7 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 
 ## Week 7 (Staring Monday 10/26)
 ### Monday
-* (2:10-3 PM) Guest speaker NCBI (tentative)
+* (2:10-3 PM) Ancestry.com Guest Speaker
 * (3:10-4 PM) Small group discussions
 
 ### Wednesday
@@ -206,7 +206,7 @@ Lab 7
 
 ## Week 8 (Staring Monday 11/2)
 ### Monday
-* (2:10-3 PM) Guest speaker TBD (tentative)
+* (2:10-3 PM) Galaxy (RNA seq) tutorial (tentative)
 * (3:10-4 PM) Small group discussions
 
 ### Wednesday
