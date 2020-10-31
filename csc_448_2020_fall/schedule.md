@@ -202,7 +202,7 @@ Chapter 6 - Are there fragile regions in the human genome?
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 7
+<a href="https://classroom.github.com/a/1F58pisL">Lab 7</a>
 
 ## Week 8 (Staring Monday 11/2)
 ### Monday
