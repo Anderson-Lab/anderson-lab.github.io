@@ -206,12 +206,12 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 
 ## Week 8 (Staring Monday 11/2)
 ### Monday
-* (2:10-3 PM) Galaxy (RNA seq) tutorial (tentative)
-* (3:10-4 PM) Small group discussions
+* (2:10-3 PM) Galaxy (RNA seq) tutorial (submit one with your group. if not, please email me to make sure you get credit)
+* (3:10-4 PM) Project time
 
 ### Wednesday
 * (2:10-3 PM) Project working group time
-* (3:10-4 PM) Small group discussions
+* (3:10-4 PM) Project time
 
 ### Friday
 * (2:10-4 PM) Lecture, discussion, activities
@@ -224,16 +224,16 @@ Chapter 8 - How Did Yeast Become a Wine Maker? (Expression Data Clustering)
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 8
+<a href="https://classroom.github.com/a/KPzH7s3X">Lab 8</a>
 
 ## Week 9 (Staring Monday 11/9)
 ### Monday
 * (2:10-3 PM) Deep learning bioinformatics notebook tutorial (Breast cancer subtyping)
-* (3:10-4 PM) Small group discussions
+* (3:10-4 PM) Project time
 
 ### Wednesday
 * (2:10-3 PM) Project working group time
-* (3:10-4 PM) Small group discussions
+* (3:10-4 PM) Project time
 
 ### Friday
 * (2:10-4 PM) Lecture, discussion, activities
