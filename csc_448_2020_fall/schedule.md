@@ -246,7 +246,7 @@ Chapter 10 - Why have biologists still not developed an a HIV vaccine?
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Lab 9
+<a href="https://classroom.github.com/a/ZXZvrb_b">Lab 9</a>
 
 ## Week 10 (Staring Monday 11/16)
 ### Monday
