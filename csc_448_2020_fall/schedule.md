@@ -250,15 +250,15 @@ Project videos are due starting Week 2 and continue until Week 10. We will be us
 
 ## Week 10 (Staring Monday 11/16)
 ### Monday
-* (2:10-3 PM) Guest speaker TBD (tentative)
-* (3:10-4 PM) Small group discussions
+* (2:10-3 PM) DNA repeats activity
+* (3:10-4 PM) Project time
 
 ### Wednesday
-* (2:10-3 PM) Project working group time
-* (3:10-4 PM) Small group discussions
+* (2:10-3 PM) Last CS+Bio joint Zoom for fun and for project discussion
+* (3:10-4 PM) Project time
 
 ### Friday
-* (2:10-4 PM) TBA
+* (2:10-4 PM) Discussion of last lab
 
 ### Material
 No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/refine topics from the quarter.
@@ -267,7 +267,7 @@ No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-TBD
+Final Lab
 
 # General
 We will be using a hybrid asynchronous/synchronous model this semester.
