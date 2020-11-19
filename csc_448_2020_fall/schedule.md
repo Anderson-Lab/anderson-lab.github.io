@@ -267,7 +267,9 @@ No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/
 Project videos are due starting Week 2 and continue until Week 10. We will be using Flipgrid for this.
 * <a href="https://flipgrid.com/anderson8541">https://flipgrid.com/anderson8541</a>
 
-Final Lab
+<a href="https://docs.google.com/document/d/1rth1L9rsH86e98HrqkkkyNl4yPvgjqZOobiEI3GmBms/edit?usp=sharing">Instructions for Lab 10</a>
+
+<a href="https://classroom.github.com/a/rxH8fS4F">Standard GitHub link for Lab 10</a>
 
 # General
 We will be using a hybrid asynchronous/synchronous model this semester.
