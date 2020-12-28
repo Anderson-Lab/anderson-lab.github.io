@@ -28,10 +28,8 @@ Office hours:
 ## Graders
 None
 
-## Course Prerequisites
-CSC 349
-
 ## Course Learning Objectives
+Update
 1. Know the main problems in the field of bioinformatics and computational molecular biology.
 2. Understand the key algorithms used to solve computational biology and bioinformatics problems
 3. Model computational biology problems
