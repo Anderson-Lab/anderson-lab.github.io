@@ -29,12 +29,10 @@ Office hours:
 None
 
 ## Course Learning Objectives
-Update
-1. Know the main problems in the field of bioinformatics and computational molecular biology.
-2. Understand the key algorithms used to solve computational biology and bioinformatics problems
-3. Model computational biology problems
-4. Apply algorithmic techniques to solve problems in computational biology and bioinformatics
-5. Gain experience working on software projects on multidisciplinary teams.
+1. Apply principles and techniques of distributed computing to the development of software to solve computational problems in a distributed environment.
+2. Analyze the applicability of distributed computing techniques to an existing non-distributed solution of a computational problem and transform (reorganize) the non-distributed solution into a suitable distributed solution.
+3. Explain how modern distributed computing and cloud computing infrastructures are organized.
+4. Assess the results of solving a computational problem in a distributed environment.
 
 ## Textbook and Other Material
 There is no textbook to buy for this course. We will be discussing material organized as chapters supplemented by other online materials.
