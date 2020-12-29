@@ -73,7 +73,20 @@ Participation: 10%
 Overall, we are trying to encourage a growth mindset. Take time to master things. Work on improving what you aren't good at. Maybe that is communication. Maybe that is programming. Maybe it is working with creating new knowledge (i.e., project).
 
 ## Grading Scale
-Grading Scale: A: 90-100; B: 80-89; C: 70-79; D: 60-69; F: <60. Plusses and minuses will be used at the discretion of the instructor.
+Grading Scale:
+* A	100%	to	93%
+* A-	< 93%	to	90%
+* B+	< 90%	to	87%
+* B	< 87%	to	83%
+* B-	< 83%	to	80%
+* C+	< 80%	to	77%
+* C	< 77%	to	73%
+* C-	< 73%	to	70%
+* D+	< 70%	to	67%
+* D	< 67%	to	63%
+* D-	< 63%	to	60%
+* F	< 60%	to	0%
+
 
 ## Honor Code
 Lying, cheating, attempted cheating, and plagiarism are violations of our Honor Code that, when identified, are investigated. Each instance is examined to determine the degree of deception involved.
