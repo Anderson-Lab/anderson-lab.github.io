@@ -19,15 +19,15 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 
 # Weekly Schedule
 ## Week 1 (Staring Tuesday 1/5)
-* Introduction to the course
-* Tutorial on Azure and Cloud Computing
-* Project Warmup
+* Introduction to the course (Syllabus, Canvas, Website)
+* Tutorial on Azure and Cloud Computing (Tuesday afternoon)
+* Project Warmup (Thursday)
 
 ### Material
-<a href="">Introduction to class slides</a>
+<a href="https://docs.google.com/presentation/d/1FspTg_FGyzduuTnhnYs62f2TXuLGgfp-f3pmP6xly6Q/edit?usp=sharing">Introduction to class slides</a>
 
 ### Assignments
-* Introductions on Flipgrid to be completed by end of class on Thursday - <a href=""></a>
+* Introductions on Flipgrid to be completed by end of class on Thursday - <a href="https://flipgrid.com/ca1daed9"></a>
 
 ## Week 2 (Staring Tuesday 1/12)
 * What can be done with a little Bash? - Distributed Computing Warmup
