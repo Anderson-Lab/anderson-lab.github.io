@@ -27,36 +27,36 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * What can be done with a little Bash? - Distributed Computing Warmup
 * Tutorial on Linux and Bash
 
-## Week 3 (Staring Monday 9/28)
+## Week 3 (Staring Tuesday 1/19)
 * Why isn't distributed computing built into my favorite language?: Language extensions for distributed computing
 * Guest speaker
 * Project preference submission due by end of class on Thursday
 
-## Week 4 (Staring Monday 10/5)
+## Week 4 (Staring Tuesday 1/26)
 * Why do we need designed distributed databases?: Traditional RDMS and NoSQL
 * Group project selection due by Friday at midnight
 * Project update individual videos are due starting starting this week and continue until the end of the quarter.
 
-## Week 5 (Staring Monday 10/12)
+## Week 5 (Staring Tuesday 2/2)
 * My data doesn't fit into a structured database. What do I do?: HDFS and others
 * Guest speaker
 
-## Week 6 (Staring Monday 10/19)
+## Week 6 (Staring Monday 2/9)
 * When old models of computing fail: Hadoop and MapReduce
 * Guest speaker
 
-## Week 7 (Staring Monday 10/26)
+## Week 7 (Staring Monday 2/16)
 * When new(er) models of computing fail: Introduction to Spark
 * Guest speaker
 
-## Week 8 (Staring Monday 11/2)
+## Week 8 (Staring Monday 2/23)
 * Is distributed computing only about data processing?: Distributed Machine Learning
 
-## Week 9 (Staring Monday 11/9)
+## Week 9 (Staring Monday 3/2)
 * Reserved for deeper dive (project dependent)
 * Final Lab Assigned
 
-## Week 10 (Staring Monday 11/16)
+## Week 10 (Staring Monday 3/9)
 * Reserved for deeper dive (project dependent)
 
 ### Material

@@ -74,7 +74,7 @@ Overall, we are trying to encourage a growth mindset. Take time to master things
 
 ## Grading Scale
 Grading Scale:
-* A	100%	to	93%
+* A	100% to 93%
 * A-	< 93%	to	90%
 * B+	< 90%	to	87%
 * B	< 87%	to	83%
