@@ -23,7 +23,8 @@ Office: 222 Building 14
 
 Office hours:
 * By appointment (email)
-* Tuesday 11 AM - 12 PM and Friday 12 - 2 PM
+* Tuesday/Thursday 11 AM - 12 PM
+* Tuesday/Thursday 1:30 PM - 2:30 PM
 
 ## Graders
 None
