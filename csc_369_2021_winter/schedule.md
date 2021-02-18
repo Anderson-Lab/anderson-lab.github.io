@@ -36,29 +36,23 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * Dr. Anderson at hospital all week
 
 ## Week 5 (Staring Tuesday 2/2)
-* When old models of computing fail: Hadoop and MapReduce
+* When old models of computing fail
 * Guest speaker
 
 ## Week 6 (Staring Monday 2/9)
-* When new(er) models of computing fail: Introduction to Spark
+* What was wrong with Hadoop?: Spark RDDs and complex multi-pass algorithms
 * Guest speaker
 
 ## Week 7 (Staring Monday 2/16)
-* Why do we need designed distributed databases?: NoSQL
+* Spark SQL
 * Guest speaker
 
 ## Week 8 (Staring Monday 2/23)
-* Is distributed computing only about data processing?: Distributed Machine Learning
+* What is NoSQL?: MongoDB
 
 ## Week 9 (Staring Monday 3/2)
-* Reserved for deeper dive (TBD)
+* MongoDB Continued
 * Final Lab Assigned
 
 ## Week 10 (Staring Monday 3/9)
-* Reserved for deeper dive (TBD)
-
-### Material
-No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/refine topics from the quarter.
-
-### Assignments
-Project deliverables
+* Reserved for deeper dive project related
