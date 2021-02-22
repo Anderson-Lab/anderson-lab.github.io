@@ -39,20 +39,20 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 * When old models of computing fail
 * Guest speaker
 
-## Week 6 (Staring Monday 2/9)
+## Week 6 (Staring Tuesday 2/9)
 * What was wrong with Hadoop?: Spark RDDs and complex multi-pass algorithms
 * Guest speaker
 
-## Week 7 (Staring Monday 2/16)
+## Week 7 (Staring Tuesday 2/16)
 * Spark SQL
 * Guest speaker
 
-## Week 8 (Staring Monday 2/23)
+## Week 8 (Staring Tuesday 2/23)
 * What is NoSQL?: MongoDB
 
-## Week 9 (Staring Monday 3/2)
+## Week 9 (Staring Tuesday 3/2)
 * MongoDB Continued
 * Final Lab Assigned
 
-## Week 10 (Staring Monday 3/9)
+## Week 10 (Staring Tuesday 3/9)
 * Reserved for deeper dive project related
