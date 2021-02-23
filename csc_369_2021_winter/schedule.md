@@ -49,9 +49,11 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 
 ## Week 8 (Staring Tuesday 2/23)
 * What is NoSQL?: MongoDB
+* No tutorial or guest in afternoon. Free catch up time. I'll be on the Teams link.
 
 ## Week 9 (Staring Tuesday 3/2)
 * MongoDB Continued
+* David Moore from BAH visiting on Monday afternoon
 * Final Lab Assigned
 
 ## Week 10 (Staring Tuesday 3/9)
