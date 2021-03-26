@@ -19,9 +19,14 @@ Email: pander14@calpoly.edu
 Office: 222 Building 14
 
 Office hours:
-* Tuesday: 8:40 AM - 9:40 AM,
-* Thursday:
+* <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmU4MzU4NTgtZTliYy00MGM1LThhNDctYmEyNDU2ZTUzYTMw%40thread.v2/0?context=%7b%22Tid%22%3a%221b0d02db-fc9e-4495-9537-1d379cca2ae7%22%2c%22Oid%22%3a%22628d914a-91ea-4c13-84c1-d74333218c85%22%7d">Link</a>
+* Tuesday: 8:40 AM - 9:40 AM, 11 AM - 12 PM
+* Thursday: 11 AM - 12 PM
 * By appointment (email)
+
+"Walk" in hours:
+* <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmU4MzU4NTgtZTliYy00MGM1LThhNDctYmEyNDU2ZTUzYTMw%40thread.v2/0?context=%7b%22Tid%22%3a%221b0d02db-fc9e-4495-9537-1d379cca2ae7%22%2c%22Oid%22%3a%22628d914a-91ea-4c13-84c1-d74333218c85%22%7d">Link</a>
+* I will be in my office and available for ad hoc meetings on Fridays. These are different than office hours which I have set aside to focus on my classes and my classes only. Walk in hours may be used by anyone interested in chatting about anything.
 
 ## Graders
 Ethan Goldfarb
