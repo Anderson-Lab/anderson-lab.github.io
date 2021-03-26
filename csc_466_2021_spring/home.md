@@ -19,9 +19,9 @@ Email: pander14@calpoly.edu
 Office: 222 Building 14
 
 Office hours:
+* Tuesday: 8:40 AM - 9:40 AM,
+* Thursday:
 * By appointment (email)
-* Tuesday/Thursday
-* Tuesday/Thursday
 
 ## Graders
 Ethan Goldfarb
@@ -53,12 +53,12 @@ Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mas
 * There is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
 * A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
-Labs and assignments: 60% (A new lab is posted approximately once a week)
-* The primary form of labs and assignments will be programming exercises.
-* Labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on the schedule.
-* Because a new lab is posted every week, I put a suggested deadline of one week, but as stated above, submitting late will not affect your grade.
-* There will be a midterm lab that you will need to complete during the time provided on our schedule
-* There will be a final lab that you will need to complete during the time provided on our schedule
+Labs and assignments: 65% (A new lab is posted approximately once a week)
+* The primary form of labs and assignments will be programming exercises with open ended questions throughout.
+
+* Unless specified otherwise, labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on the schedule.
+* A midterm lab and a final lab will serve as checkpoints for the course. They are cumulative and must be completed on the time specified on Canvas.
+* A new lab is posted every week, so I encourage you to complete one a week, but as stated above, submitting late will not affect your grade. The exception to this is the cumulative labs mentioned above.
 * Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 60%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 30%
@@ -66,16 +66,14 @@ Project: 30%
 * I have organized a menu based project for you. Meaning you may choose one but not more than one of the following options.
 * Project Option A: Make accessible tutorial(s) related to topics discussed in class. There is no better way to show mastery of a topic than by teaching it to someone else. In this case, you'll be asked to create self-driven tutorials and materials. They must be originals.
 * Project Option B: Choose your own adventure. You may have an ongoing project that can fit this category. You may have a new idea that fits into this category. The one rule for this option is it must be approved by the end of Week 4.
-* For this project, we will have one "bean counting" exercise. You must post on Flipgrid once a week. This regular posting is worth 10% out of the total 30% of the project.
+* For this project, we will have one "bean counting" exercise. You must post on Flipgrid once a week. This regular posting is worth 10% out of the total 30% of the project. Each post should be between 3-5 minutes. It should include demos and screen sharing.
 * You will be assigned an individual grade based on your contribution to the project (10%).
 * Each group will be assigned a group grade on the project (10%).
 * Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with preliminary grades (not binding) based on your project.
 
-Participation: 10%
-* We will be conducting this class using a variety of technologies (Teams/Slack, Flipgrid, etc). For communication, we will using the platform known as Teams.
-* You are expected to communicating with your instructors and class using this platform.
+Participation: 5%
+* We will be conducting this class using a variety of technologies (Teams/Slack, Flipgrid, etc). It is important you contribute to the class on these platforms.
 * Mastery will be measured by examining participation history.
-* Mastery will also be measured through the small group tutorials. These small groups sessions are required, and your attendance in them will amount to 5% of your overall 10% participation score.
 * I won't be bean counting (i.e., you have to post X times per week). Instead, I will provide you with a preliminary grade (not binding) based on your demonstrated communication and participation.
 * Your final participation score will only be determined at the end of the quarter.
 

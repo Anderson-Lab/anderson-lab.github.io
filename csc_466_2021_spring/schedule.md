@@ -19,10 +19,10 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 ## Week 1 (3/30)
 * Syllabus
 * Icebreaker
-* Chapter 1 - Introduction to Knowledge Discovery and Data Science Ethics
+* Chapter 1 - Knowledge Discovery and Data Science Ethics
 
 ## Week 2 (4/6)
-* Chapter 2 - Introduction to Data Science Methodology and Preliminaries
+* Chapter 2 - Data Science Methodology and Preliminaries
 * My children have spring break from school this week. Please pay careful attention to Canvas updates.
 
 ## Week 3 (4/13)
