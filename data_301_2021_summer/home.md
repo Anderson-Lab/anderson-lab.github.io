@@ -31,8 +31,6 @@ This class is taught in Python, which for most of you was the language that was 
 
 The type of programming you will be doing in this class is likely very different from the programming you do in CS classes.      Rather than writing long, complex programs and then testing them, you will constantly iterate between writing code and running it to see what it does.
 
-My goals for the lab and for the class in general are to incorporate as much active learning and learn by doing activities as possible. To accomplish this in class, we will utilize online videos, readings before class, etc. That being said, I will use at least a portion of almost every lecture to introduce the days topics and foster discussion.
-
 This course is not introduction to machine learning or artificial intelligence. We have other classes in this sequence that cover
 those topics. This course will treat machine learning as mostly a black box activity. Instead the focus is on data manipulation,
 summarization, processing, pipelining, analytics, etc.
