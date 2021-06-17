@@ -61,14 +61,15 @@ Labs and assignments: 60% (A new lab will be posted once week)
 
 * Unless specified otherwise, labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be available on Canvas.
 * A new lab is posted every week, so I encourage you to complete one a week, but as stated above, submitting late will not affect your grade.
-* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 65%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
+* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 60%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 30%
 * All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning through knowledge creation.
 * You are to select an ongoing competition on Kaggle and compete. You will be graded based on your weekly summaries of progress (10%/30%) and on your final report (20%/30%)
+* Your weekly summaries will be done via video on flipgrid.com. Links will be posted in Canvas.
 
 Participation: 10%
-* We will be conducting this class using a variety of technologies (Teams/Slack, Flipgrid, etc). It is important you contribute to the class on these platforms.
+* We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
 * The biggest way to participate in this class is to show up to class, and to measure this I am requiring you to submit your answers to the questions and exercises completed in class online through Canvas. We will develop answers for these in class, so they are graded for participation. I will set the due dates in Canvas, and we will stick to those :)
 
 Overall, we are trying to encourage a growth mindset. Take time to master things. Work on improving what you aren't good at. Maybe that is communication. Maybe that is programming. Maybe it is working with creating new knowledge (i.e., project).
