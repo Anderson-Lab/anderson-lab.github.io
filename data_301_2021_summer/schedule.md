@@ -13,33 +13,33 @@ excerpt: "Anderson Data Science Research Lab."
 # Schedule
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
-## Week 1 (3/30)
+## Week 1
 * Syllabus
 * Icebreaker
 * Chapter 1 - Data Ecosystem
 * Chapter 2 - Categorical Data
 
-## Week 2 (4/6)
+## Week 2
 * Chapter 3 - Quantitative Data
 * Chapter 5 - Regression Models
 
-## Week 3 (4/13)
+## Week 3
 * Chapter 6 - Classification Models
 
-## Week 4 (4/20)
+## Week 4
 * Chapter 7 - Unsupervised Learning
 
-## Week 5 (4/27)
+## Week 5
 * Chapter 9 - Joining Tabular Data
 
-## Week 6 (5/4)
+## Week 6
 * Chapter 10 - Textual Data
 
-## Week 7 (5/11)
-* Chapter 9 - Natural language processing
+## Week 7
+* Chapter 11 - JSON and XML
 
-## Week 8 (5/18)
-* Buffer or additional topics as time permits
+## Week 8
+* Extra topics as time permits
 
 # Other
 Useful material not covered directly above.

@@ -56,11 +56,11 @@ Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mas
 * There is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
 * A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
-Labs and assignments: 50% (A new lab will be posted once week)
+Labs and assignments: 50% (5 labs in total)
 * The primary form of labs and assignments will be programming exercises with open ended questions throughout.
 
 * Unless specified otherwise, labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be available on Canvas.
-* A new lab is posted every week, so I encourage you to complete one a week, but as stated above, submitting late will not affect your grade.
+* Submitting late will not affect your grade, but falling behind will make it harder to catch up at the end AND do well on the project.
 * Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 50%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 30%
