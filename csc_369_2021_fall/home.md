@@ -22,8 +22,7 @@ Email: pander14@calpoly.edu
 Office: 222 Building 14
 
 Office hours:
-* MWF 12-1 PM
-* Preference is to initiate office hour conversation via Slack which will allow audio/video
+* MWF 3-4 PM: Held over Slack which provides audio and video
 * By appointment (email)
 
 ## Graders
@@ -34,6 +33,9 @@ None
 2. Analyze the applicability of distributed computing techniques to an existing non-distributed solution of a computational problem and transform (reorganize) the non-distributed solution into a suitable distributed solution.
 3. Explain how modern distributed computing and cloud computing infrastructures are organized.
 4. Assess the results of solving a computational problem in a distributed environment.
+
+## University Diversity Learning Objectives
+https://academicprograms.calpoly.edu/content/academicpolicies/diversity_lo
 
 ## Textbook and Other Material
 There is no textbook to buy for this course. We will be discussing material organized as chapters supplemented by other online materials.
@@ -55,21 +57,18 @@ Labs and assignments: 60% (A new lab is posted approximately once a week)
 
 Project: 30%
 * All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning through knowledge creation.
-* I have organized a menu based project for you. Meaning you may choose one but not more than one of the following options.
-* Project Option A: Make accessible tutorial(s) related to topics discussed in class. There is no better way to show mastery of a topic than by teaching it to someone else. In this case, you'll be asked to create self-driven tutorials and materials. They must be originals.
-* Project Option B: Choose your own adventure. You may have an ongoing project that can fit this category. You may have a new idea that fits into this category. The one rule for this option is it must be approved by the end of Week 4.
-* For this project, we will have one "bean counting" exercise. You must post on Flipgrid once a week. This regular posting is worth 10% out of the total 30% of the project.
-* You will be assigned an individual grade based on your contribution to the project (10%).
-* Each group will be assigned a group grade on the project (10%).
-* Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with preliminary grades (not binding) based on your project.
+* This is an individual project, but we will share updates, struggles, and successes in lab and as a group.
+* While you may pitch a different direction for a project, my guidelines are to pick one of the following:
+  1. Create a distributed programming framework of your own (i.e., start the next great distributed computing framework)
+  2. Contribute to an existing open source distributed programming framework
+  3. Apply distributed computing framework(s) to a dataset and provide an in-depth analysis of the framework(s) themselves. i.e., this is not about the data.
+* You will be graded based on your weekly summaries of progress (10%/30%) and on your final report (20%/30%)
+* Your weekly summaries will be done via video on flipgrid.com. Links will be posted in Canvas.
 
-Participation: 10%
-* We will be conducting this class using a variety of technologies (Teams, Flipgrid, etc). For communication, we will using the platform known as Teams.
-* You are expected to communicating with your instructors and class using this platform.
-* Mastery will be measured by examining Teams history.
-* Mastery will also be measured through the small group tutorials. These small groups sessions are required, and your attendance in them will amount to 5% of your overall 10% participation score.
-* I won't be bean counting (i.e., you have to post X times per week). Instead, I will provide you with a preliminary grade (not binding) based on your demonstrated communication and participation.
-* Your final participation score will only be determined at the end of the quarter.
+Participation: 20%
+* We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
+* The biggest way to participate in this class is to show up to class, and to measure this I am requiring you to submit your answers to the questions and exercises completed in class online through Canvas. We will develop answers for these in class, so they are graded for participation. I will set the due dates in Canvas, and we will stick to those :)
+* A typical Chapter will be worth 3 participation points. Documentation to be uploaded to Canvas. You will get 3/3 for good participation, etc.
 
 Overall, we are trying to encourage a growth mindset. Take time to master things. Work on improving what you aren't good at. Maybe that is communication. Maybe that is programming. Maybe it is working with creating new knowledge (i.e., project).
 
