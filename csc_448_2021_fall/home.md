@@ -56,9 +56,9 @@ Labs and assignments: 50% (A new lab is posted approximately once a week)
 * The primary form of labs and assignments will be programming exercises with open ended questions throughout.
 
 * Unless specified otherwise, labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on Canvas.
-* A new lab is will be posted approximately once a week. For questions that are autograded, there is no firm deadline (other than the end of the quarter). 
-* For questions and assignments that are not autograded, deadlines will be posted on Canvas. 
-* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 60%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
+* A new lab is will be posted approximately once a week. For questions that are autograded, there is no firm deadline (other than the end of the quarter).
+* For questions and assignments that are not autograded, deadlines will be posted on Canvas.
+* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 50%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
 
 Project: 30%
 * All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning through knowledge creation.
