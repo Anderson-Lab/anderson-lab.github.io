@@ -35,7 +35,7 @@ None
 4. Assess the results of solving a computational problem in a distributed environment.
 
 ## University Diversity Learning Objectives
-https://academicprograms.calpoly.edu/content/academicpolicies/diversity_lo
+<a href="https://academicprograms.calpoly.edu/content/academicpolicies/diversity_lo">https://academicprograms.calpoly.edu/content/academicpolicies/diversity_lo</a>
 
 ## Textbook and Other Material
 There is no textbook to buy for this course. We will be discussing material organized as chapters supplemented by other online materials.
@@ -49,7 +49,7 @@ Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mas
 * There is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
 * A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
-Labs and assignments: 60% (A new lab is posted approximately once a week)
+Labs and assignments: 50% (A new lab is posted approximately once a week)
 * The primary form of labs and assignments will be programming exercises.
 * Labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on the schedule.
 * Because a new lab is posted every week, I put a suggested deadline of one week, but as stated above, submitting late will not affect your grade.
