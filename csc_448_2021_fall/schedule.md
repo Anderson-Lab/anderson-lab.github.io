@@ -18,20 +18,17 @@ modified due dates. In other words, do not let this course take priority over yo
 Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
 
 # Weekly Schedule
-## Week 1 
-* Syllabus and other details specific to Bioinformatics Algorithms 
+## Week 1
+* Syllabus and other details specific to Bioinformatics Algorithms
 * Introduction and welcome to Bioinformatics! (Joint with Dr. Jean Davidson's Bioinformatics Application Course)
-* Introduction to JupyterHub
 * Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
 
 ## Week 2
-* Project activity and working group time
 * Chapter 5 - How do we compare DNA sequences?
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-5">Online chapter</a>
 
 ## Week 3
-* Project activity and working group time
 * Chapter 3 - How do we assemble genomes?
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-3">Online chapter</a>
 
@@ -60,4 +57,3 @@ Chapter 11 - Was T. Rex just a big chicken?
 
 ## Week 10
 No new material is scheduled <i>a priori</i>. We reserve this time to reinforce/refine topics from the quarter.
-
