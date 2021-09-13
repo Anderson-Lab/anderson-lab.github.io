@@ -20,7 +20,7 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 # Weekly Schedule
 ## Week 1
 * Introduction to the course (Syllabus, Canvas, Website)
-* Cloud computing and containerization
+* Cloud computing and distributed file systems
 
 ## Week 2
 * Distributed computing at the command line
