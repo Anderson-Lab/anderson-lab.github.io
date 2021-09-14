@@ -19,7 +19,7 @@ Email: pander14@calpoly.edu
 Office: 222 Building 14
 
 Office hours:
-* MWF: 12 - 1 PM
+* MWF 3:15-4:15 PM: Held over Slack which provides audio and video
 * Preference: Reach out on Slack, and we can audio/video call through Slack.
 * By appointment (email)
 
