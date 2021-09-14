@@ -49,11 +49,14 @@ Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mas
 * There is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
 * A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
-Labs and assignments: 50% (A new lab is posted approximately once a week)
-* The primary form of labs and assignments will be programming exercises.
-* Labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on the schedule.
-* Because a new lab is posted every week, I put a suggested deadline of one week, but as stated above, submitting late will not affect your grade.
-* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0% on the labs to a max of 50%. This part of the class is like going to the gym. It is at times not as exciting as a project, but it is here where we build your core.
+Labs and assignments: 40% (A new lab is posted approximately once a week)
+* The primary form of labs and assignments will be programming exercises with open ended questions throughout.
+* Unless specified otherwise, labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on Canvas.
+* A new lab is will be posted approximately once a week.
+* Coding questions will be primarily autograded with code reviews on GitHub when appropriate. Short answer and other questions throughout the quarter will be assessed for completion and their primary purpose is to foster discussion and higher level analysis of the material.
+* Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0%. For each lab, you demonstrate mastery by passing the autograder and by providing a thoughtful analysis in the short answers.
+
+Mastery checkpoints: (10%) Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. These will be administered through Canvas. Grading will be mastery (90% or above) or not mastered (0%). i.e., there will be no scores such as 75%.  
 
 Project: 30%
 * All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning through knowledge creation.
