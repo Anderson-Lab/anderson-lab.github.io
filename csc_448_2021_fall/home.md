@@ -62,14 +62,17 @@ Labs and assignments: 40% (A new lab is posted approximately once a week)
 Mastery checkpoints: (10%) Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. These will be administered through Canvas. Grading will be mastery (90% or above) or not mastered (0%). i.e., there will be no scores such as 75%.  
 
 Project: 30%
-* All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning through knowledge creation.
-* I have organized a menu based project for you. Meaning you may choose one but not more than one of the following options.
-* Project Option A: Make accessible tutorial(s) related to topics discussed in class. There is no better way to show mastery of a topic than by teaching it to someone else. In this case, you'll be asked to create self-driven tutorials and materials. They must be originals.
-* Project Option B: Choose your own adventure. You may have an ongoing project that can fit this category. You may have a new idea that fits into this category. The one rule for this option is it must be approved by the end of Week 4.
-* For this project, we will have one "bean counting" exercise. You must post on Flipgrid once a week. This regular posting is worth 10% out of the total 30% of the project. Each post should be between 3-5 minutes. It should include demos and screen sharing.
-* You will be assigned an individual grade based on your contribution to the project (10%).
-* Each group will be assigned a group grade on the project (10%).
-* Apart from that accountability bean counting exercise, we won't be bean counting. Instead, we will provide you with preliminary grades (not binding) based on your project.
+* All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning.
+* The project is interdisciplinary with applications in bioinformatics (BIO 441). We have a joint lab time and have a joint Canvas page to facilitate.
+* Each group will be assigned a group grade on the project (10%):
+  * 2% - project pitch
+  * 3% - end of quarter presentation
+  * 5% - group report
+* Each individual will be responsible for a number of individual assignments for a total of 10%. These assignments are:
+  * 4% for Flipgrid posts
+  * 4% for individual project pitches (one at start of quarter and one at the end).
+  * 2% for participation
+* Each individual is also responsible for a 10% mastery checkpoint at the end the quarter
 
 Participation: 20%
 * We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
