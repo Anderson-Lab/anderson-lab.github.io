@@ -67,8 +67,15 @@ Project: 30%
   1. Create a distributed programming framework of your own (i.e., start the next great distributed computing framework)
   2. Contribute to an existing open source distributed programming framework
   3. Apply distributed computing framework(s) to a dataset and provide an in-depth analysis of the framework(s) themselves. i.e., this is not about the data.
-* You will be graded based on your weekly summaries of progress (10%/30%) and on your final report (20%/30%)
-* Your weekly summaries will be done via video on flipgrid.com. Links will be posted in Canvas.
+  * All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning.
+  * Each individual is responsible for:
+    * 2% - project pitch
+    * 3% - end of quarter presentation
+    * 5% - report
+  * Each individual will be responsible for a number of individual assignments for a total of 10%. These assignments are:
+    * 8% for Flipgrid posts
+    * 2% for other participation
+  * Each individual is also responsible for a 10% mastery checkpoint at the end the quarter
 
 Participation: 20%
 * We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
