@@ -96,6 +96,18 @@ Grading Scale:
 * D-	< 63%	to	60%
 * F	< 60%	to	0%
 
+## Policies
+(Modified statements courtesy of Dr. Wood)
+
+Laptops have been shown to be distracting in class [Laptop FAQ and Link to Paper](http://www.yorku.ca/ncepeda/laptopFAQ.html), and therefore, we must careful monitor how we use them. This is a computing class taught with interactive notebooks designed to increase interaction with the material. You will of course be tempted to use your laptop for other purposes (email, other assignments, etc). Part of this will be regulated because I'm asking you to fill in your chapters in class and submit them to Canvas. But if I notice or it is brought to my attention that you are using your laptop in a way that is distracting to others, I reserve the right to rearrange seating such that your screen is not interfering with other student learning.
+
+Although I encourage you to have lively discussions with one another, all work you hand in as your own must be your own work.  encourage you to help each other with debugging. You may look at another student’s code that has a bug, but you cannot look at someone else’s working code to help get your code to work, however you may look at examples of working code on tutorials, Stack Overflow, or similar. You just cannot look at another student’s exact working solution of the same program. Ask me if you are unsure.
+
+I consider this classroom to be a place where you will be treated with respect, and I welcome individuals of all ages, backgrounds, beliefs, ethnicities, genders, gender identities and expressions, national origins, religious affiliations, sexual orientations, ability – and other visible and nonvisible differences. All members of this class are expected to contribute to a respectful, welcoming and inclusive environment for every other member of the class. In lab and lecture, I expect us to strive to build a community in which:
+* We are not code snobs. We do not assume knowledge or imply there are things that somebody should know.
+* After our work is complete, we prioritize the education of others and actively offer to help, explain, debug, etc. in order to support one another's learning. We do not share our working solution, but explain the logic/thinking behind our solution and help others recognize errors in their implementation when invited to do so.
+* We consistently make the effort to actively recognize and validate multiple types of contributions to a positive classroom environment.
+* We will be reading and discussing articles such as ["Defensive climate in the computer science classroom"](https://dl.acm.org/doi/abs/10.1145/563340.563354?casa_token=chUhK7inWpUAAAAA:uQH8kTuYLOVtGXED85iSsBUsXS2ljsFHdirRFDA6qDkH8n0YmjV1IZSUlvKOD7d4lCZT9LYZYnw)
 
 ## Honor Code
 Lying, cheating, attempted cheating, and plagiarism are violations of our Honor Code that, when identified, are investigated. Each instance is examined to determine the degree of deception involved.
