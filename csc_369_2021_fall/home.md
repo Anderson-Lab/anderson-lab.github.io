@@ -41,7 +41,7 @@ None
 There is no textbook to buy for this course. We will be discussing material organized as chapters supplemented by other online materials.
 
 ## Grading
-All grades are subject to being prorated due to illness. For example, if you are sick for a week, you will not have to make up that week. Your grade will just be computed out of fewer total points. You are responsible for making sure that this is correctly reflected in Canvas. Canvas is our official record of grades. Missing weeks will be indicated not with a 0, but with a -1. Your final grade calculations are not correct in Canvas. I always calculate the final grades in Excel which allows me to handle absences because of illness, etc. Canvas is our source record.
+All grades are subject to being prorated due to illness. For example, if you are sick for a week, you will not have to make up that week. Your grade will just be computed out of fewer total points. You are responsible for making sure that this is correctly reflected in Canvas. Canvas is our official record of grades.
 
 Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mastery learning</a>
 * I approach grading as student focused. I don't believe students should be penalized if it takes them two weeks to do an assignment when other students can finish it in a week.
@@ -67,7 +67,6 @@ Project: 30%
   1. Create a distributed programming framework of your own (i.e., start the next great distributed computing framework)
   2. Contribute to an existing open source distributed programming framework
   3. Apply distributed computing framework(s) to a dataset and provide an in-depth analysis of the framework(s) themselves. i.e., this is not about the data.
-* All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning.
 * Each individual is responsible for:
     * 2% - project pitch
     * 3% - end of quarter presentation
