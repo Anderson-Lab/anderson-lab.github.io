@@ -11,10 +11,7 @@ excerpt: "Anderson Data Science Research Lab."
 2. [Schedule](/csc_466_2022_winter/schedule/)
 
 # Schedule
-Below is our tentative schedule. It is subject to change, but any changes will be reflected here.
-
-## Important Dates
-* June 4, Friday - Last day of classes
+Below is our tentative schedule. It is subject to change. Please consult Canvas for up to date information.
 
 ## Week 1
 * Syllabus
