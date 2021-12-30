@@ -21,20 +21,19 @@ Below is our tentative schedule. It is subject to change, but any changes will b
 ## Week 1
 * Syllabus and other details specific to Bioinformatics Algorithms
 * Introduction and welcome to Bioinformatics! (Joint with Dr. Jean Davidson's Bioinformatics Application Course)
+
+## Week 2
 * Chapter 1 - Where in the Genome Does DNA Replication Begin? (Algorithmic Warmup)
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-1">Online chapter</a>
 
-## Week 2
+## Week 3
 * Chapter 5 - How do we compare DNA sequences?
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-5">Online chapter</a>
 
-## Week 3
+## Week 4
 * Chapter 3 - How do we assemble genomes?
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-3">Online chapter</a>
-
-## Week 4
-Chapter 11 - Was T. Rex just a big chicken?
-
+	
 ## Week 5
 * Chapter 7 - Which animal gave us SARS?
 	* <a href="https://www.bioinformaticsalgorithms.org/bioinformatics-chapter-7">Online chapter</a>
