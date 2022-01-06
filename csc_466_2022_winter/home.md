@@ -58,7 +58,7 @@ Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mas
 Labs and assignments: 40% (A new lab is posted approximately once a week)
 * The primary form of labs and assignments will be programming exercises with open ended questions throughout.
 * Unless specified otherwise, labs and assignments will be submitted to GitHub classroom. A link to each lab and assignment will be on Canvas.
-* A new lab is will be posted approximately once a week.
+* A new lab will be posted approximately once a week.
 * Coding questions will be primarily autograded with code reviews on GitHub when appropriate. Short answer and other questions throughout the quarter will be assessed for completion and their primary purpose is to foster discussion and higher level analysis of the material.
 * Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0%. For each lab, you demonstrate mastery by passing the autograder and by providing a thoughtful analysis in the short answers.
 
@@ -77,15 +77,12 @@ Project: 30%
   * 2% - project pitch
   * 3% - end of quarter presentation
   * 5% - group report
-* Each individual will be responsible for a number of individual assignments for a total of 10%. These assignments are:
-  * 4% for Flipgrid posts
-  * 4% for individual project pitches (one at start of quarter and one at the end).
-  * 2% for participation
+* Each individual will be responsible for weekly status reports for a total of 10%
 * Each individual is also responsible for a 10% mastery checkpoint at the end the quarter
 
 Participation: 15%
 * We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
-* The biggest way to participate in this class is to show up to class, and to measure this I am requiring you to submit your answers to the questions and exercises completed in class online through Canvas. We will develop answers for these in class, so they are graded for participation. I will set the due dates in Canvas, and we will stick to those :)
+* The biggest way to participate in this class is to show up to class, and to measure this I am requiring you to submit your notes, doodles, in-class work products, etc from class. These will not be graded for content as they are for your own learning.
 * A typical Chapter will be worth 3 participation points. Documentation to be uploaded to Canvas. You will get 3/3 for good participation, etc.
 
 Overall, we are trying to encourage a growth mindset. Take time to master things. Work on improving what you aren't good at. Maybe that is communication. Maybe that is programming. Maybe it is working with creating new knowledge (i.e., project).
