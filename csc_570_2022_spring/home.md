@@ -46,22 +46,15 @@ Grading philosophy: <a href="https://en.wikipedia.org/wiki/Mastery_learning">Mas
 * There is this notion that great scientists/mathematicians/human beings are born as great in those respects. Not true.
 * A lot of my own thinking is driven by my own experiences. The education system almost completely missed for me. I did not focus or engage with school until fortune intervened on my behalf. I moved from Maryland to Ohio in my junior year of HS. It was only because of a conversation while onboarding at that new school. They asked me to select my own classes for the first time in my life. I had the power because I was a transfer student. I thought what the hell, I'll jump into all these honors and AP classes. And they were hard. But C's in hard classes became B's in hard classes became A's in college. It wasn't that my brain wasn't as good as other students. I just hadn't exercised it as much as some of my peers. We can all grow and improve. I still try to grow in the same way as before. To push myself and not just choose things that are easy for me. Choose the path that is hard. Spend time on what interests you.
 
-Assignments: 40%
-* All assignments must be completed by an individual, but I encourage you to support your classmates and discuss your successes and problems. 
+Individual Assignments: 40%
+* While each assignment is meant to represent your individual work, I encourage you to support your classmates and discuss your successes and problems.
 
-Mastery checkpoints: 15%
-* Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. These will be administered through Canvas.
+Individual Mastery checkpoints: 15%
+* Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. 
 * Grading will be mastery (90% or above) or not mastered (0%). i.e., there will be no scores such as 75%.  
 
-Project: 30%
-* All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning through knowledge creation.
-* This is a two student project. We will share updates, struggles, and successes in lab and as a group.
-* Each group will be assigned a group grade on the project (1/3 of project grade. i.e., 10% of your overall grade):
-  * 20% - project pitch
-  * 30% - end of quarter presentation
-  * 50% - group report
-* Each individual will be responsible for weekly status reports for 1/3 of project grade (10% of your overall grade)
-* Each individual is also responsible for a mastery checkpoint at the end the quarter (10% of your overall grade)
+Group Assignments: 30%
+* We will have several larger group assignments throughout the class.
 
 Participation: 15%
 * We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
