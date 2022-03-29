@@ -17,11 +17,11 @@ Paul Anderson, PhD
 Email: <a href="mailto:pander14@calpoly.edu">pander14@calpoly.edu</a>
 
 Online Office hours:
-* Monday and Wednesday 1 - 2 PM
+* Monday and Wednesday 2 - 3 PM
 * Reach out on Slack where we can then decide if text/audio/video is most appropriate.
 
 Office Hours in 222 Building 14
-* Thursday 1-2 PM
+* Thursday 2 - 3 PM
 
 Appointments available. Please email.
 
@@ -50,7 +50,7 @@ Individual Assignments: 40%
 * While each assignment is meant to represent your individual work, I encourage you to support your classmates and discuss your successes and problems.
 
 Individual Mastery checkpoints: 15%
-* Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. 
+* Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material.
 * Grading will be mastery (90% or above) or not mastered (0%). i.e., there will be no scores such as 75%.  
 
 Group Assignments: 30%
