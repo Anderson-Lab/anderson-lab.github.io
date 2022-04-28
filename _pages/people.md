@@ -12,15 +12,15 @@ Department of Computer Science and Software Engineering<br>
 California Polytechnic State University<br>
 Lead Data Scientist, <a href="https://www.ceterus.com/">Ceterus</a>
 
-Dr. Paul Anderson graduated in 2004 from Wright State University with a B.S. degree in Computer Engineering. He received his Master of Computer Science in 2006 and his Ph.D. in Computer Science & Engineering in June 2010. After graduation, Dr. Anderson was awarded a Consortium of Universities Research Fellowship to study as a Bioinformatics and Computational Research Scientist for the Air Force Research Laboratory (AFRL). Dr. Anderson has published 30+ peer-reviewed articles in the fields of data science, data mining, machine learning, computational intelligence, metabolomics, genomics, e-Science, bioinformatics, cloud computing, biomedical informatics, cancer informatics, and computer science & engineering education.
+Dr. Paul Anderson graduated in 2004 from Wright State University with a B.S. degree in Computer Engineering. He received his Master of Computer Science in 2006 and his Ph.D. in Computer Science & Engineering in June 2010. After graduation, Dr. Anderson was awarded a Consortium of Universities Research Fellowship to study as a Bioinformatics and Computational Research Scientist for the Air Force Research Laboratory (AFRL). Dr. Anderson has published peer-reviewed articles in the fields of data science, data mining, machine learning, computational intelligence, metabolomics, genomics, e-Science, bioinformatics, cloud computing, biomedical informatics, cancer informatics, and computer science & engineering education.
 
-At present, Dr. Anderson is an associate professor in the Computer Science and Software Engineering Department at California Polytechnic State University (Cal Poly). Prior to this appointment, Dr. Anderson was an associate professor at the College of Charleston where he was the director of the B.S. in Data Science (first such program in the country) and the M.S. in Data Science and Analytics (first such program in South Carolina). Dr. Anderson directs the Data Science Research Group at Cal Poly where his team specializes in developing and applying data mining, machine learning, and artificial intelligence to the fields of bioinformatics, genomics, biomedical informatics, and metabolomics. Complementary to this applied work, Dr. Anderson’s lab is interested in the foundations of data science with a current focus on explainable ranking algorithms and the rankability of data. He currently has multidisciplinary projects underway in genomics, metabolomics, toxicology, marine biology, cancer informatics, and medical and marine genomics. He is the director of the Institute for Graph Analytics and Research in Data Science (IGARDS) - a collaborative interdisciplinary institute aimed at broadening foundational data science research (http://igards.github.io). Dr. Anderson served as the primary investigator for the Omics NSF Research Experience for Undergraduates at the College of Charleston (http://omics.cofc.edu).
+Dr. Anderson is an associate professor in the Computer Science and Software Engineering Department at California Polytechnic State University (Cal Poly). He has served as the director of the first B.S. in Data Science in the country at the College of Charleston where is also developed the first M.S. in Data Science and Analytics in South Carolina. Dr. Anderson directs the Data Science Research Group at Cal Poly where his team specializes in developing and applying data mining, machine learning, and artificial intelligence to the fields of bioinformatics, genomics, biomedical informatics, and metabolomics. Dr. Anderson’s lab is interested in the foundations of data science with a current focus on machine learning, explainable ranking algorithms, and the rankability of data. He currently has multidisciplinary projects underway in genomics, metabolomics, toxicology, marine biology, cancer informatics, biomedicine, and genomics. Dr. Anderson is the co-director Bioinformatics Research Group (http://lab.birg.dev) and the Bioinformatics and Applied Data Science Core within the Center for Applications in Biotechnology (https://cab.calpoly.edu/).
 
 ## Lab Members
-Currently looking for new lab members starting fall 2019.
+Way too out of date to list. I will try to update soon :) Please reach out if you would like to join.
 
-## Past Lab Members and Projects
-Walter Blai
+<!---
+Walter Blair
 
 Katherine Duchinski
 
@@ -99,3 +99,4 @@ BoomTown ROI
 
 Edward Murray (CTO)
 <br>Ceterus
+--->
