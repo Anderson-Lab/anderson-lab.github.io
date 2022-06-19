@@ -71,7 +71,6 @@ Project: 30%
 * Each individual is also responsible for a 10% mastery checkpoint at the end the quarter
 
 Participation: 15%
-* We will be conducting this class using a variety of technologies (Slack, JupyterHub, etc). It is important you contribute to the class on these platforms.
 * The biggest way to participate in this class is to show up to class, and to measure this I am requiring you to submit your notes, doodles, in-class work products, etc from class. These will not be graded for content as they are for your own learning.
 * A typical Chapter will be worth 3 participation points. Documentation to be uploaded to Canvas. You will get 3/3 for good participation, etc.
 
