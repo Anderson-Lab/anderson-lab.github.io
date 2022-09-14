@@ -72,17 +72,17 @@ Mastery checkpoints: 15%
 * Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. These will be administered through Canvas.
 * Grading will be mastery (90% or above) or not mastered (0%). i.e., there will be no scores such as 75%.  
 
-Project: 30% of overall course grade
+Project: 
 * All projects are student centered and student driven. I am not assigning or pushing structure upon you. Mastery is only achieved on the project by taking ownership of your learning.
 * The project is interdisciplinary with applications in bioinformatics (BIO 441). We have a joint lab time and have a joint Canvas page to facilitate.
 * Group graded:
-  * 5%/30% - project pitch
-  * 5%/30% - end of quarter presentation
-  * 5%/30% - group report
-  * 2%/30% - participation
+  * 5% - project pitch
+  * 5% - end of quarter presentation
+  * 5% - group report
+  * 2% - participation
 * Individually graded:
-  * 3%/30% for weekly reflections
-  * 10%/30% - end of quarter mastery checkpoint
+  * 3% for weekly reflections
+  * 10% - end of quarter mastery checkpoint
 
 Participation: 15%
 * The biggest way to participate in this class is to show up to class, and to measure this I am requiring you to submit your notes, doodles, in-class work products, etc from class. These will not be graded for content as they are for your own learning.
