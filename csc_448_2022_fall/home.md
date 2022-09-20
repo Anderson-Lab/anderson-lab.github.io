@@ -24,7 +24,7 @@ I have many "offices" on campus and even consider many coffee shops my office. T
 correct name for these times are student hours as I hope and expect that they
 will be filled with student conversations.
 
-* Monday and Thursday 12:40-1:40 PM: 222 Building 14
+* Tuesday and Thursday 12:40-1:40 PM: 222 Building 14
 * Wednesday: 3:30 PM - 4:30 PM: Online - <a href="https://calpoly.zoom.us/my/pauleanderson">https://calpoly.zoom.us/my/pauleanderson</a>
 * By appointment (email)
 
@@ -67,7 +67,7 @@ Labs and assignments: 40% (A new lab is posted approximately once a week)
 * A new lab will be posted approximately once a week.
 * Coding questions will be primarily autograded with code reviews on GitHub when appropriate. Short answer and other questions throughout the quarter will be assessed for completion and their primary purpose is to foster discussion and higher level analysis of the material.
 * Mastery interpretation: You are attempting to master topic modules. Some may be harder than others based on your background. I am not taking lab points away from you. You are pushing your grade up from 0%. For each lab, you demonstrate mastery by passing the autograder and by providing a thoughtful analysis in the short answers.
-* Each lab will have a final reflection worth one point. You are to reflect on a conversation that we had in lab. This conversation must be one-on-one or one-on-few. You must submit your reflection on Canvas after we had conversed in lab. 
+* Each lab will have a final reflection worth one point. You are to reflect on a conversation that we had in lab. This conversation must be one-on-one or one-on-few. You must submit your reflection on Canvas after we had conversed in lab.
 
 Mastery checkpoints: 15%
 * Throughout the quarter we will have mastery checkpoints to make sure you are truly mastering the material. These will be administered through Canvas.
